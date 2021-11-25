@@ -1,0 +1,132 @@
+#queryIndex	queryItem	stringId	identity	bitscore	preferredName	annotation
+1	CGD-TuM-027800|CAZ81196|Tuber	656061.D5G9K3	100.0	2298.9	D5G9K3	Uncharacterized protein; Belongs to the peptidase C19 family. 
+2	CGD-TuM-028444|CAZ86488|Tuber	656061.D5GPP5	100.0	1511.5	D5GPP5	Glyco_transf_20 domain-containing protein
+3	CGD-TuM-029087|CAZ84634|Tuber	656061.D5GJE1	100.0	1558.1	D5GJE1	PlsC domain-containing protein
+4	CGD-TuM-029260|CAZ85426|Tuber	656061.D5GLN3	100.0	995.3	D5GLN3	SWIB domain-containing protein
+5	CGD-TuM-029497|CAZ84427|Tuber	656061.D5GIT4	100.0	335.9	D5GIT4	HPt domain-containing protein
+6	CGD-TuM-029842|CAZ81299|Tuber	656061.D5G9V6	100.0	1563.5	D5G9V6	Catalase; Occurs in almost all aerobically respiring organisms and serves to protect cells from the toxic effects of hydrogen peroxide. ; Belongs to the catalase family. 
+7	CGD-TuM-030935|CAZ84752|Tuber	656061.D5GJQ9	100.0	1370.5	D5GJQ9	Uncharacterized protein
+8	CGD-TuM-031732|CAZ83924|Tuber	656061.D5GHD1	100.0	140.6	D5GHD1	Uncharacterized protein
+9	CGD-TuM-031931|CAZ82588|Tuber	656061.D5GDJ5	100.0	980.7	D5GDJ5	6PF2K domain-containing protein
+10	CGD-TuM-033005|CAZ84268|Tuber	656061.D5GIC5	100.0	1219.1	D5GIC5	DNA topoisomerase I; Releases the supercoiling and torsional tension of DNA introduced during the DNA replication and transcription by transiently cleaving and rejoining one strand of the DNA duplex. Introduces a single-strand break via transesterification at the specific target site 5'-[CT]CCTTp site in duplex DNA. The scissile phosphodiester is attacked by the catalytic tyrosine of the enzyme, resulting in the formation of a DNA-(3'-phosphotyrosyl)-enzyme intermediate and the expulsion of a 5'-OH DNA strand. The free DNA strand then undergoes passage around the unbroken strand thus removing 
+11	CGD-TuM-033529|CAZ81320|Tuber	656061.D5G9X7	100.0	1023.8	D5G9X7	Methyltransf_2 domain-containing protein
+12	CGD-TuM-033835|CAZ80235|Tuber	656061.D5G6T7	100.0	745.7	D5G6T7	Uncharacterized protein
+13	CGD-TuM-033917|CAZ80726|Tuber	656061.D5G883	100.0	509.6	D5G883	Uncharacterized protein
+14	CGD-TuM-035594|CAZ81878|Tuber	656061.D5GBM8	100.0	1003.8	D5GBM8	Serine hydroxymethyltransferase; Interconversion of serine and glycine. ; Belongs to the SHMT family. 
+15	CGD-TuM-035740|CAZ83957|Tuber	656061.D5GHG4	100.0	1471.1	D5GHG4	Uncharacterized protein
+16	CGD-TuM-035769|CAZ83185|Tuber	656061.D5GF92	100.0	2089.3	D5GF92	Uncharacterized protein
+17	CGD-TuM-036169|CAZ84931|Tuber	656061.D5GK88	100.0	689.1	D5GK88	Gp_dh_N domain-containing protein; Belongs to the glyceraldehyde-3-phosphate dehydrogenase family.
+18	CGD-TuM-036958|CAZ85445|Tuber	656061.D5GLQ2	100.0	1468.8	D5GLQ2	Catalase; Occurs in almost all aerobically respiring organisms and serves to protect cells from the toxic effects of hydrogen peroxide. ; Belongs to the catalase family. 
+19	CGD-TuM-037356|CAZ81379|Tuber	656061.D5GA36	100.0	696.4	D5GA36	Abhydrolase_3 domain-containing protein
+20	CGD-TuM-037384|CAZ84820|Tuber	656061.D5GJX7	100.0	552.0	D5GJX7	Uncharacterized protein
+21	CGD-TuM-037507|CAZ84458|Tuber	656061.D5GIW5	100.0	899.8	D5GIW5	MADS-box domain-containing protein
+22	CGD-TuM-037544|CAZ83417|Tuber	656061.D5GFX4	100.0	276.2	D5GFX4	Uncharacterized protein
+23	CGD-TuM-037651|CAZ84416|Tuber	656061.D5GIS3	100.0	1320.8	D5GIS3	HMG box domain-containing protein
+24	CGD-TuM-037970|CAZ85752|Tuber	656061.D5GMK9	100.0	431.4	D5GMK9	Superoxide dismutase; Destroys radicals which are normally produced within the cells and which are toxic to biological systems. ; Belongs to the iron/manganese superoxide dismutase family. 
+25	CGD-TuM-038004|CAZ83333|Tuber	656061.D5GFP0	100.0	970.7	D5GFP0	Trehalose-6-phosphate synthase
+26	CGD-TuM-038282|CAZ80379|Tuber	656061.D5G786	100.0	377.9	D5G786	N-acetyltransferase domain-containing protein
+27	CGD-TuM-038856|CAZ85594|Tuber	656061.D5GM51	100.0	803.5	D5GM51	Uncharacterized protein
+28	CGD-TuM-038916|CAZ83238|Tuber	656061.D5GFE5	100.0	1018.1	D5GFE5	Phosphotransferase
+29	CGD-TuM-039022|CAZ85363|Tuber	656061.D5GLH0	100.0	994.2	D5GLH0	O-acyltransferase
+30	CGD-TuM-039487|CAZ86323|Tuber	656061.D5GP58	100.0	621.7	D5GP58	Uncharacterized protein
+31	CGD-TuM-039837|CAZ83852|Tuber	656061.D5GHA0	100.0	589.7	D5GHA0	Uncharacterized protein
+32	CGD-TuM-039854|CAZ86081|Tuber	656061.D5GNI8	100.0	1379.0	D5GNI8	Uncharacterized protein
+33	CGD-TuM-039952|CAZ84380|Tuber	656061.D5GIN7	100.0	1960.7	D5GIN7	Kinesin motor domain-containing protein; Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Kinesin family.
+34	CGD-TuM-040360|CAZ79425|Tuber	656061.D5G4I2	100.0	643.3	D5G4I2	Cytochrome c domain-containing protein
+35	CGD-TuM-041069|CAZ85188|Tuber	656061.D5GKZ5	100.0	2881.7	D5GKZ5	Uncharacterized protein
+36	CGD-TuM-041594|CAZ80684|Tuber	656061.D5G841	100.0	437.2	D5G841	Uncharacterized protein
+37	CGD-TuM-042335|CAZ84777|Tuber	656061.D5GJT4	100.0	501.1	D5GJT4	Uncharacterized protein; Belongs to the eukaryotic initiation factor 4E family. 
+38	CGD-TuM-042620|CAZ85563|Tuber	656061.D5GM20	100.0	176.8	D5GM20	Uncharacterized protein
+39	CGD-TuM-042818|CAZ79835|Tuber	656061.D5G5P2	100.0	2020.7	D5G5P2	Uncharacterized protein
+40	CGD-TuM-043748|CAZ79586|Tuber	656061.D5G4Z3	100.0	411.0	D5G4Z3	40S ribosomal protein S6; Belongs to the eukaryotic ribosomal protein eS6 family. 
+41	CGD-TuM-044211|CAZ82027|Tuber	656061.D5GBM1	100.0	966.8	D5GBM1	Uncharacterized protein
+42	CGD-TuM-044697|CAZ84142|Tuber	656061.D5GHZ9	100.0	1359.4	D5GHZ9	Plasma membrane fusion protein PRM1; Involved in cell fusion during mating by stabilizing the plasma membrane fusion event; Belongs to the PRM1 family. 
+43	CGD-TuM-044703|CAZ79661|Tuber	656061.D5G530	100.0	1046.2	D5G530	Uncharacterized protein; Belongs to the heat shock protein 70 family. 
+44	CGD-TuM-045736|CAZ83744|Tuber	656061.D5GGL4	100.0	1693.7	D5GGL4	Uncharacterized protein
+45	CGD-TuM-045802|CAZ80388|Tuber	656061.D5G795	100.0	4088.1	D5G795	Uncharacterized protein
+46	CGD-TuM-046159|CAZ79878|Tuber	656061.D5G5T5	100.0	613.2	D5G5T5	Uncharacterized protein
+47	CGD-TuM-046645|CAZ86155|Tuber	656061.D5GNQ8	100.0	513.1	D5GNQ8	DUF862 domain-containing protein
+48	CGD-TuM-047084|CAZ85382|Tuber	656061.D5GLI9	100.0	1872.8	D5GLI9	Nitrate reductase; Nitrate reductase is a key enzyme involved in the first step of nitrate assimilation in plants, fungi and bacteria. 
+49	CGD-TuM-047402|CAZ85136|Tuber	656061.D5GKU3	100.0	1094.3	D5GKU3	Succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial; Flavoprotein (FP) subunit of succinate dehydrogenase (SDH) that is involved in complex II of the mitochondrial electron transport chain and is responsible for transferring electrons from succinate to ubiquinone (coenzyme Q).
+50	CGD-TuM-047460|CAZ84463|Tuber	656061.D5GIX0	100.0	408.3	D5GIX0	Gamma-glutamylcyclotransferase; Catalyzes the cleavage of glutathione into 5-oxo-L-proline and a Cys-Gly dipeptide. Acts specifically on glutathione, but not on other gamma-glutamyl peptides; Belongs to the gamma-glutamylcyclotransferase family. 
+51	CGD-TuM-047559|CAZ84278|Tuber	656061.D5GID5	100.0	1207.6	D5GID5	Serine/threonine-protein kinase
+52	CGD-TuM-047641|CAZ83865|Tuber	656061.D5GHB3	100.0	857.4	D5GHB3	RRM domain-containing protein
+53	CGD-TuM-047800|CAZ84201|Tuber	656061.D5GI58	100.0	874.4	D5GI58	Uncharacterized protein
+54	CGD-TuM-048174|CAZ81709|Tuber	656061.D5GB16	100.0	322.4	D5GB16	Glutathione peroxidase; Belongs to the glutathione peroxidase family. 
+55	CGD-TuM-048490|CAZ81059|Tuber	656061.D5G966	100.0	480.3	D5G966	Superoxide dismutase [Cu-Zn]; Destroys radicals which are normally produced within the cells and which are toxic to biological systems. ; Belongs to the Cu-Zn superoxide dismutase family. 
+56	CGD-TuM-048968|CAZ84572|Tuber	656061.D5GJ79	100.0	582.0	D5GJ79	PABS domain-containing protein; Belongs to the spermidine/spermine synthase family. 
+57	CGD-TuM-049020|CAZ85211|Tuber	656061.D5GL18	100.0	378.3	D5GL18	40S ribosomal protein S8; Belongs to the eukaryotic ribosomal protein eS8 family. 
+58	CGD-TuM-049167|CAZ86474|Tuber	656061.D5GPN1	100.0	1048.5	D5GPN1	Uncharacterized protein; Belongs to the cytochrome P450 family. 
+59	CGD-TuM-049485|CAZ81415|Tuber	656061.D5GA61	100.0	801.6	D5GA61	Protein kinase domain-containing protein; Belongs to the protein kinase superfamily. 
+60	CGD-TuM-049503|CAZ82186|Tuber	656061.D5GCE3	100.0	1789.6	D5GCE3	Alpha-1,4 glucan phosphorylase; Phosphorylase is an important allosteric enzyme in carbohydrate metabolism. Enzymes from different sources differ in their regulatory mechanisms and in their natural substrates. However, all known phosphorylases share catalytic and structural properties. 
+61	CGD-TuM-049636|CAZ83458|Tuber	656061.D5GG15	100.0	903.7	D5GG15	Nuclear pore complex protein Nup85; Functions as a component of the nuclear pore complex (NPC). 
+62	CGD-TuM-050677|CAZ84759|Tuber	656061.D5GJR6	100.0	823.5	D5GJR6	TGc domain-containing protein
+63	CGD-TuM-050759|CAZ81272|Tuber	656061.D5G9S9	100.0	1166.4	D5G9S9	WD_REPEATS_REGION domain-containing protein
+64	CGD-TuM-050898|CAZ82720|Tuber	656061.D5GDX7	100.0	923.3	D5GDX7	Uncharacterized protein
+65	CGD-TuM-050900|CAZ82296|Tuber	656061.D5GCQ3	100.0	677.2	D5GCQ3	BTB domain-containing protein
+66	CGD-TuM-051231|CAZ81167|Tuber	656061.D5G9H4	100.0	392.1	D5G9H4	Uncharacterized protein; Belongs to the universal ribosomal protein uL13 family. 
+67	CGD-TuM-051576|CAZ79429|Tuber	656061.D5G4I6	100.0	1742.2	D5G4I6	Uncharacterized protein
+68	CGD-TuM-051933|CAZ81788|Tuber	656061.D5GB95	100.0	671.0	D5GB95	Uncharacterized protein
+69	CGD-TuM-053250|CAZ85214|Tuber	656061.D5GL21	100.0	1483.4	D5GL21	Protein kinase domain-containing protein
+70	CGD-TuM-053318|CAZ85065|Tuber	656061.D5GKM2	100.0	384.8	D5GKM2	Uncharacterized protein
+71	CGD-TuM-053381|CAZ79609|Tuber	656061.D5G516	100.0	2309.3	D5G516	Uncharacterized protein
+72	CGD-TuM-053524|CAZ82562|Tuber	656061.D5GDG9	100.0	937.9	D5GDG9	Glutamine synthetase
+73	CGD-TuM-053651|CAZ84157|Tuber	656061.D5GI14	100.0	125.9	D5GI14	Uncharacterized protein; Belongs to the eukaryotic ribosomal protein P1/P2 family. 
+74	CGD-TuM-053720|CAZ81042|Tuber	656061.D5G949	100.0	1338.2	cprA	NADPH--cytochrome P450 reductase; This enzyme is required for electron transfer from NADP to cytochrome P450 in microsomes. It can also provide electron transfer to heme oxygenase and cytochrome B5. Involved in ergosterol biosynthesis. ; In the C-terminal section; belongs to the flavoprotein pyridine nucleotide cytochrome reductase family.
+75	CGD-TuM-053978|CAZ83970|Tuber	656061.D5GHH7	100.0	1283.5	D5GHH7	5-aminolevulinate synthase; Belongs to the class-II pyridoxal-phosphate-dependent aminotransferase family.
+76	CGD-TuM-053989|CAZ79707|Tuber	656061.D5G5B4	100.0	1056.6	D5G5B4	Aamy domain-containing protein
+77	CGD-TuM-054085|CAZ82660|Tuber	656061.D5GDR7	100.0	449.9	D5GDR7	Uncharacterized protein
+78	CGD-TuM-055768|CAZ85581|Tuber	656061.D5GM38	100.0	174.1	LSM5	U6 snRNA-associated Sm-like protein LSm5; Plays a role in U6 snRNP assembly and function. Binds to the 3' end of U6 snRNA.
+79	CGD-TuM-056063|CAZ80269|Tuber	656061.D5G6X6	100.0	2688.3	D5G6X6	MAP kinase kinase kinase
+80	CGD-TuM-056318|CAZ80661|Tuber	656061.D5G818	100.0	1157.5	D5G818	Uncharacterized protein
+81	CGD-TuM-056433|CAZ79424|Tuber	656061.D5G4I1	100.0	863.2	D5G4I1	Glycerol-3-phosphate dehydrogenase [NAD(+)]
+82	CGD-TuM-056460|CAZ79777|Tuber	656061.D5G5I4	100.0	688.7	D5G5I4	Uncharacterized protein
+83	CGD-TuM-056603|CAZ82323|Tuber	656061.D5GCT0	100.0	812.4	D5GCT0	Zn(2)-C6 fungal-type domain-containing protein
+84	CGD-TuM-056812|CAZ82424|Tuber	656061.D5GD31	100.0	2025.4	D5GD31	USP domain-containing protein; Belongs to the peptidase C19 family. 
+85	CGD-TuM-056918|CAZ83410|Tuber	656061.D5GFW7	100.0	1267.7	D5GFW7	Uncharacterized protein; Belongs to the glycosyl hydrolase 32 family. 
+86	CGD-TuM-056997|CAZ81772|Tuber	656061.D5GB79	100.0	656.8	D5GB79	Uncharacterized protein; Belongs to the FPP/GGPP synthase family. 
+87	CGD-TuM-057688|CAZ80012|Tuber	656061.D5G669	100.0	884.4	D5G669	Uncharacterized protein
+88	CGD-TuM-057702|CAZ83353|Tuber	656061.D5GFR0	100.0	622.1	D5GFR0	S-methyl-5'-thioadenosine phosphorylase; Catalyzes the reversible phosphorylation of S-methyl-5'- thioadenosine (MTA) to adenine and 5-methylthioribose-1-phosphate. Involved in the breakdown of MTA, a major by-product of polyamine biosynthesis. Responsible for the first step in the methionine salvage pathway after MTA has been generated from S-adenosylmethionine. Has broad substrate specificity with 6-aminopurine nucleosides as preferred substrates.
+89	CGD-TuM-057721|CAZ81755|Tuber	656061.D5GB62	100.0	1348.2	D5GB62	Uncharacterized protein
+90	CGD-TuM-058239|CAZ79763|Tuber	656061.D5G5H0	100.0	994.2	D5G5H0	Aldedh domain-containing protein; Belongs to the aldehyde dehydrogenase family. 
+91	CGD-TuM-059229|CAZ80052|Tuber	656061.D5G6A9	100.0	320.1	D5G6A9	Uncharacterized protein
+92	CGD-TuM-059256|CAZ84438|Tuber	656061.D5GIU5	100.0	831.2	D5GIU5	ENDO3c domain-containing protein
+93	CGD-TuM-059478|CAZ82108|Tuber	656061.D5GC65	100.0	469.5	D5GC65	Uncharacterized protein
+94	CGD-TuM-059484|CAZ84964|Tuber	656061.D5GKC1	100.0	1643.2	D5GKC1	Carn_acyltransf domain-containing protein
+95	CGD-TuM-059924|CAZ82326|Tuber	656061.D5GCT3	100.0	607.1	D5GCT3	BHLH domain-containing protein
+96	CGD-TuM-060086|CAZ85553|Tuber	656061.D5GLY6	100.0	1061.6	D5GLY6	Helicase ATP-binding domain-containing protein; Belongs to the DEAD box helicase family. 
+97	CGD-TuM-060337|CAZ81601|Tuber	656061.D5GAQ8	100.0	392.1	D5GAQ8	Adenylyl-sulfate kinase; Catalyzes the synthesis of activated sulfate. 
+98	CGD-TuM-060553|CAZ82081|Tuber	656061.D5GC38	100.0	1834.7	D5GC38	Glyco_transf_20 domain-containing protein
+99	CGD-TuM-061192|CAZ80281|Tuber	656061.D5G6Y8	100.0	1835.1	D5G6Y8	Uncharacterized protein
+100	CGD-TuM-062220|CAZ79207|Tuber	656061.D5G3W4	100.0	1449.1	D5G3W4	Glycogen [starch] synthase; Transfers the glycosyl residue from UDP-Glc to the non- reducing end of alpha-1,4-glucan.
+101	CGD-TuM-062426|CAZ82979|Tuber	656061.D5GEN6	100.0	574.3	D5GEN6	ACB domain-containing protein
+102	CGD-TuM-062671|CAZ79381|Tuber	656061.D5G4D8	100.0	695.7	D5G4D8	DUF1752 domain-containing protein
+103	CGD-TuM-062782|CAZ80766|Tuber	656061.D5G8C3	100.0	1152.1	D5G8C3	Alkaline phosphatase
+104	CGD-TuM-063600|CAZ83138|Tuber	656061.D5GF45	100.0	968.0	D5GF45	Phospho-2-dehydro-3-deoxyheptonate aldolase; Belongs to the class-II DAHP synthase family. 
+105	CGD-TuM-063666|CAZ86095|Tuber	656061.D5GNK2	100.0	159.5	D5GNK2	Uncharacterized protein
+106	CGD-TuM-064021|CAZ81332|Tuber	656061.D5G9Y9	100.0	965.7	D5G9Y9	Acyl-CoA desaturase; Stearyl-CoA desaturase that utilizes O(2) and electrons from reduced cytochrome b5 to introduce the first double bond into saturated fatty acyl-CoA substrates.
+107	CGD-TuM-065277|CAZ82410|Tuber	656061.D5GD17	100.0	694.1	D5GD17	Uncharacterized protein
+108	CGD-TuM-065873|CAZ84036|Tuber	656061.D5GHS5	100.0	972.2	D5GHS5	Uncharacterized protein; Belongs to the cytochrome P450 family. 
+109	CGD-TuM-066976|CAZ83029|Tuber	656061.D5GET6	100.0	384.4	D5GET6	Uncharacterized protein; Belongs to the universal ribosomal protein uL22 family. 
+110	CGD-TuM-067280|CAZ84657|Tuber	656061.D5GJG4	100.0	719.2	D5GJG4	Elongation of fatty acids protein
+111	CGD-TuM-067320|CAZ84695|Tuber	656061.D5GJK2	100.0	1948.3	D5GJK2	3-hydroxy-3-methylglutaryl coenzyme A reductase
+112	CGD-TuM-068316|CAZ81451|Tuber	656061.D5GA97	100.0	1170.6	D5GA97	Elongator complex protein 3; Catalytic tRNA acetyltransferase subunit of the RNA polymerase II elongator complex, which is a component of the RNA polymerase II (Pol II) holoenzyme and is involved in transcriptional elongation.
+113	CGD-TuM-069326|CAZ79212|Tuber	656061.D5G3W9	100.0	673.3	D5G3W9	Elongation of fatty acids protein
+114	CGD-TuM-069456|CAZ82147|Tuber	656061.D5GCA4	100.0	719.5	D5GCA4	FBPase domain-containing protein; Belongs to the FBPase class 1 family. 
+115	CGD-TuM-069530|CAZ85853|Tuber	656061.D5GMW0	100.0	1123.6	D5GMW0	Tr-type G domain-containing protein
+116	CGD-TuM-070194|CAZ86568|Tuber	656061.D5GPW6	100.0	824.3	D5GPW6	Methyltransf_2 domain-containing protein
+117	CGD-TuM-070271|CAZ86593|Tuber	656061.D5GQ00	100.0	946.0	D5GQ00	Uncharacterized protein
+118	CGD-TuM-070304|CAZ80782|Tuber	656061.D5G8D9	100.0	3069.3	D5G8D9	3-phosphoshikimate 1-carboxyvinyltransferase; The AROM polypeptide catalyzes 5 consecutive enzymatic reactions in prechorismate polyaromatic amino acid biosynthesis. ; In the 2nd section; belongs to the EPSP synthase family.  In the 4th section; belongs to the type-I 3-dehydroquinase family. In the N-terminal section; belongs to the dehydroquinate synthase family.
+119	CGD-TuM-070597|CAZ83128|Tuber	656061.D5GF35	100.0	1598.6	D5GF35	Uncharacterized protein
+120	CGD-TuM-070631|CAZ84176|Tuber	656061.D5GI33	100.0	405.2	D5GI33	Thioredoxin domain-containing protein
+121	CGD-TuM-070736|CAZ82025|Tuber	656061.D5GBL9	100.0	1327.0	D5GBL9	Uncharacterized protein
+122	CGD-TuM-071047|CAZ80422|Tuber	656061.D5G7C9	100.0	869.4	D5G7C9	Protein kinase domain-containing protein; Belongs to the protein kinase superfamily. 
+123	CGD-TuM-071663|CAZ80739|Tuber	656061.D5G896	100.0	296.6	D5G896	Uncharacterized protein
+124	CGD-TuM-071694|CAZ80440|Tuber	656061.D5G7E7	100.0	4417.1	D5G7E7	Aamy domain-containing protein
+125	CGD-TuM-071818|CAZ80370|Tuber	656061.D5G777	100.0	631.7	D5G777	Uncharacterized protein
+126	CGD-TuM-072018|CAZ82589|Tuber	656061.D5GDJ6	100.0	1385.2	D5GDJ6	Uncharacterized protein
+127	CGD-TuM-072030|CAZ81119|Tuber	656061.D5G9C6	100.0	832.0	D5G9C6	Aspartate aminotransferase
+128	CGD-TuM-072125|CAZ80211|Tuber	656061.D5G6R8	100.0	944.5	D5G6R8	Citrate synthase; Belongs to the citrate synthase family. 
+129	CGD-TuM-072374|CAZ79477|Tuber	656061.D5G4N4	100.0	1000.7	D5G4N4	O-acyltransferase
+130	CGD-TuM-072442|CAZ82448|Tuber	656061.D5GD55	100.0	815.1	D5GD55	CTP_transf_like domain-containing protein
+131	CGD-TuM-072605|CAZ86181|Tuber	656061.D5GNT8	100.0	693.0	D5GNT8	Uncharacterized protein

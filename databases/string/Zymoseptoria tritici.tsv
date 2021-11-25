@@ -1,0 +1,147 @@
+#queryIndex	queryItem	stringId	identity	bitscore	preferredName	annotation
+1	CGD-ZyT-027642|Mycgr3P104444|Zymoseptoria	1047171.Mycgr3P104444	100.0	172.9	Mycgr3P104444	Hypothetical protein; Uncharacterized protein
+2	CGD-ZyT-028326|Mycgr3P99568|Zymoseptoria	1047171.Mycgr3P99568	100.0	4652.4	Mycgr3P99568	Alpha-1,3-glucan synthase; Uncharacterized protein
+3	CGD-ZyT-028562|Mycgr3P32139|Zymoseptoria	1047171.Mycgr3P32139	100.0	797.0	Mycgr3P32139	Cystathionine gamma-lyase; Uncharacterized protein
+4	CGD-ZyT-028603|Mycgr3P21413|Zymoseptoria	1047171.Mycgr3P21413	100.0	1085.1	MgPRM1	Pheromone-regulated membrane protein 1; Involved in cell fusion during mating by stabilizing the plasma membrane fusion event
+5	CGD-ZyT-028777|Mycgr3P71918|Zymoseptoria	1047171.Mycgr3P71918	100.0	798.9	Mycgr3P71918	Hypothetical protein; Uncharacterized protein
+6	CGD-ZyT-029566|Mycgr3P64888|Zymoseptoria	1047171.Mycgr3P64888	100.0	2181.8	HMG1	Hydroxymethylglutaryl-coa reductase (nadph); Hmg1, hmg-CoA reductase
+7	CGD-ZyT-029722|Mycgr3P33425|Zymoseptoria	1047171.Mycgr3P33425	100.0	1199.5	Mycgr3P33425	Alkaline phosphatase
+8	CGD-ZyT-030283|Mycgr3P103593|Zymoseptoria	1047171.Mycgr3P103593	100.0	315.1	Mycgr3P103593	Superoxide dismutase, cu-zn family; Destroys radicals which are normally produced within the cells and which are toxic to biological systems
+9	CGD-ZyT-030421|Mycgr3P102064|Zymoseptoria	1047171.Mycgr3P102064	100.0	807.4	Mycgr3P102064	Glutamine synthetase; Belongs to the glutamine synthetase family
+10	CGD-ZyT-030699|Mycgr3P110147|Zymoseptoria	1047171.Mycgr3P110147	100.0	1908.3	Mycgr3P110147	Glycerol-3-phosphate dehydrogenase (NAD+); Glycerol-3-phosphate dehydrogenase [NAD(+)]
+11	CGD-ZyT-030774|Mycgr3P104975|Zymoseptoria	1047171.Mycgr3P104975	100.0	364.8	Mycgr3P104975	Hypothetical protein; Thiol-specific peroxidase that catalyzes the reduction of hydrogen peroxide and organic hydroperoxides to water and alcohols, respectively. Plays a role in cell protection against oxidative stress by detoxifying peroxides
+12	CGD-ZyT-030802|Mycgr3P65882|Zymoseptoria	1047171.Mycgr3P65882	100.0	1932.5	Mycgr3P65882	Diterpene cyclase-like protein
+13	CGD-ZyT-030913|Mycgr3P107908|Zymoseptoria	1047171.Mycgr3P107908	100.0	718.4	Mycgr3P107908	Hypothetical protein; Uncharacterized protein
+14	CGD-ZyT-031325|Mycgr3P93972|Zymoseptoria	1047171.Mycgr3P93972	100.0	1669.4	Mycgr3P93972	Hypothetical protein; Uncharacterized protein
+15	CGD-ZyT-031458|Mycgr3P109721|Zymoseptoria	1047171.Mycgr3P109721	100.0	1909.8	Trehalose-phosphatase	Trehalose 6-phosphate synthase/phosphatase; Uncharacterized protein
+16	CGD-ZyT-031713|Mycgr3P72901|Zymoseptoria	1047171.Mycgr3P72901	100.0	1044.6	Mycgr3P72901	Glycine hydroxymethyltransferase; Interconversion of serine and glycine
+17	CGD-ZyT-032402|Mycgr3P76506|Zymoseptoria	1047171.Mycgr3P76506	100.0	1553.9	Mycgr3P76506	Carnitine o-acetyltransferase; Uncharacterized protein; Belongs to the carnitine/choline acetyltransferase family
+18	CGD-ZyT-032561|Mycgr3P67344|Zymoseptoria	1047171.Mycgr3P67344	100.0	2648.6	MgSsk2	Mitogen-activated protein kinase kinase kinase; SSK2 MAP kinase
+19	CGD-ZyT-032603|Mycgr3P88000|Zymoseptoria	1047171.Mycgr3P88000	100.0	473.8	GPM1	Phosphoglycerate mutase 1
+20	CGD-ZyT-032611|Mycgr3P44959|Zymoseptoria	1047171.Mycgr3P44959	100.0	228.0	Mycgr3P44959	Lipopolysaccharide-induced tumor necrosis factor-alpha factor; Uncharacterized protein
+21	CGD-ZyT-032852|Mycgr3P31911|Zymoseptoria	1047171.Mycgr3P31911	100.0	693.7	Mycgr3P31911	Fungal type iii polyketide synthase; Uncharacterized protein; Belongs to the chalcone/stilbene synthases family
+22	CGD-ZyT-033699|Mycgr3P88222|Zymoseptoria	1047171.Mycgr3P88222	100.0	915.6	Mycgr3P88222	Ethanolamine-phosphate cytidylyltransferase; Uncharacterized protein
+23	CGD-ZyT-033956|Mycgr3P37731|Zymoseptoria	1047171.Mycgr3P37731	100.0	1305.0	Mycgr3P37731	Urea-proton symporter; Uncharacterized protein; Belongs to the sodium:solute symporter (SSF) (TC 2.A.21) family
+24	CGD-ZyT-034206|Mycgr3P108180|Zymoseptoria	1047171.Mycgr3P108180	100.0	925.6	Mycgr3P108180	Translation initiation factor 4b; Uncharacterized protein
+25	CGD-ZyT-034455|Mycgr3P21187|Zymoseptoria	1047171.Mycgr3P21187	100.0	1166.0	Mycgr3P21187	Hypothetical protein; Uncharacterized protein
+26	CGD-ZyT-034957|Mycgr3P101921|Zymoseptoria	1047171.Mycgr3P101921	100.0	1233.0	Mycgr3P101921	Phytoene desaturase (3,4-didehydrolycopene-forming); Uncharacterized protein
+27	CGD-ZyT-035217|Mycgr3P107644|Zymoseptoria	1047171.Mycgr3P107644	100.0	1381.3	Mycgr3P107644	Glutamate--cysteine ligase catalytic subunit; Uncharacterized protein
+28	CGD-ZyT-035240|Mycgr3P42989|Zymoseptoria	1047171.Mycgr3P42989	100.0	339.7	Mycgr3P42989	Hypothetical protein; Uncharacterized protein
+29	CGD-ZyT-035291|Mycgr3P108832|Zymoseptoria	1047171.Mycgr3P108832	100.0	1083.2	Mycgr3P108832	Diacylglycerol o-acyltransferase 1; O-acyltransferase
+30	CGD-ZyT-035314|Mycgr3P39975|Zymoseptoria	1047171.Mycgr3P39975	100.0	315.8	Mycgr3P39975	Hypothetical protein; Uncharacterized protein
+31	CGD-ZyT-035359|Mycgr3P98363|Zymoseptoria	1047171.Mycgr3P98363	100.0	773.9	Mycgr3P98363	Hypothetical protein; Uncharacterized protein
+32	CGD-ZyT-035522|Mycgr3P53658|Zymoseptoria	1047171.Mycgr3P53658	100.0	1305.4	SDH1	Flavoprotein (FP) subunit of succinate dehydrogenase (SDH) that is involved in complex II of the mitochondrial electron transport chain and is responsible for transferring electrons from succinate to ubiquinone (coenzyme Q)
+33	CGD-ZyT-035597|Mycgr3P90261|Zymoseptoria	1047171.Mycgr3P90261	100.0	1697.6	Mycgr3P90261	Hypothetical protein; Uncharacterized protein
+34	CGD-ZyT-036540|Mycgr3P111003|Zymoseptoria	1047171.Mycgr3P111003	100.0	1746.5	Mycgr3P111003	Nitrate reductase (nad(p)h); Uncharacterized protein
+35	CGD-ZyT-037111|Mycgr3P76651|Zymoseptoria	1047171.Mycgr3P76651	100.0	2034.2	MgWCO1	Blue-light-activated transcription factor
+36	CGD-ZyT-037645|Mycgr3P91248|Zymoseptoria	1047171.Mycgr3P91248	100.0	1286.9	Mycgr3P91248	Hypothetical protein; Uncharacterized protein
+37	CGD-ZyT-038280|Mycgr3P68009|Zymoseptoria	1047171.Mycgr3P68009	100.0	798.5	MgSNF4	5'-AMP-activated protein kinase, regulatory gamma subunit; Nuclear protein SNF4, regulatory protein CAT3
+38	CGD-ZyT-038472|Mycgr3P105119|Zymoseptoria	1047171.Mycgr3P105119	100.0	531.9	Mycgr3P105119	Proteasome core particle subunit beta 6; Uncharacterized protein
+39	CGD-ZyT-038980|Mycgr3P81468|Zymoseptoria	1047171.Mycgr3P81468	100.0	170.6	LSM5	U6 snRNA-associated Sm-like protein LSm5; Plays a role in U6 snRNP assembly and function. Binds to the 3' end of U6 snRNA
+40	CGD-ZyT-039569|Mycgr3P84253|Zymoseptoria	1047171.Mycgr3P84253	100.0	575.1	Mycgr3P84253	Hypothetical protein; Uncharacterized protein
+41	CGD-ZyT-039570|Mycgr3P61567|Zymoseptoria	1047171.Mycgr3P61567	100.0	1135.2	HAG2401	Elongator complex protein 3; Catalytic tRNA acetyltransferase subunit of the RNA polymerase II elongator complex, which is a component of the RNA polymerase II (Pol II) holoenzyme and is involved in transcriptional elongation
+42	CGD-ZyT-039779|Mycgr3P101774|Zymoseptoria	1047171.Mycgr3P101774	100.0	120.6	Mycgr3P101774	Large subunit ribosomal protein lp1; Uncharacterized protein; Belongs to the eukaryotic ribosomal protein P1/P2 family
+43	CGD-ZyT-039939|Mycgr3P109561|Zymoseptoria	1047171.Mycgr3P109561	100.0	1034.2	Mycgr3P109561	Hypothetical protein; Uncharacterized protein
+44	CGD-ZyT-040248|Mycgr3P89975|Zymoseptoria	1047171.Mycgr3P89975	100.0	451.1	MGSUL6	Adenylylsulfate kinase; Catalyzes the synthesis of activated sulfate
+45	CGD-ZyT-040390|Mycgr3P103124|Zymoseptoria	1047171.Mycgr3P103124	100.0	946.4	CIT2	Citrate synthase; Belongs to the citrate synthase family
+46	CGD-ZyT-040860|Mycgr3P36274|Zymoseptoria	1047171.Mycgr3P36274	100.0	950.3	Mycgr3P36274	Hypothetical protein; Uncharacterized protein
+47	CGD-ZyT-040993|Mycgr3P98741|Zymoseptoria	1047171.Mycgr3P98741	100.0	704.1	Mycgr3P98741	Nad+-dependent protein deacetylase sir2; Uncharacterized protein
+48	CGD-ZyT-041433|Mycgr3P86659|Zymoseptoria	1047171.Mycgr3P86659	100.0	3066.2	MgCyr1	Adenylate cyclase protein
+49	CGD-ZyT-041760|Mycgr3P101387|Zymoseptoria	1047171.Mycgr3P101387	100.0	1791.2	Mycgr3P101387	Glycogen phosphorylase; Phosphorylase is an important allosteric enzyme in carbohydrate metabolism. Enzymes from different sources differ in their regulatory mechanisms and in their natural substrates. However, all known phosphorylases share catalytic and structural properties
+50	CGD-ZyT-041920|Mycgr3P91566|Zymoseptoria	1047171.Mycgr3P91566	100.0	1332.8	Mycgr3P91566	Poly(a)-specific ribonuclease; Uncharacterized protein
+51	CGD-ZyT-042015|Mycgr3P86672|Zymoseptoria	1047171.Mycgr3P86672	100.0	1055.8	Mycgr3P86672	Trehalose-6-phosphate synthase
+52	CGD-ZyT-043143|Mycgr3P49830|Zymoseptoria	1047171.Mycgr3P49830	100.0	2143.2	Mycgr3P49830	Hypothetical protein; Uncharacterized protein
+53	CGD-ZyT-043343|Mycgr3P65516|Zymoseptoria	1047171.Mycgr3P65516	100.0	3188.7	ARO1	Arom pentafunctional protein, aro1; The AROM polypeptide catalyzes 5 consecutive enzymatic reactions in prechorismate polyaromatic amino acid biosynthesis
+54	CGD-ZyT-043378|Mycgr3P42401|Zymoseptoria	1047171.Mycgr3P42401	100.0	1706.8	Mycgr3P42401	Hypothetical protein; Uncharacterized protein
+55	CGD-ZyT-043471|Mycgr3P98331|Zymoseptoria	1047171.Mycgr3P98331	100.0	1521.1	Mycgr3P98331	Hypothetical protein; Occurs in almost all aerobically respiring organisms and serves to protect cells from the toxic effects of hydrogen peroxide
+56	CGD-ZyT-043752|Mycgr3P94761|Zymoseptoria	1047171.Mycgr3P94761	100.0	1134.4	Mycgr3P94761	Hypothetical protein; Uncharacterized protein
+57	CGD-ZyT-043840|Mycgr3P67921|Zymoseptoria	1047171.Mycgr3P67921	100.0	616.7	Mycgr3P67921	Adiponectin receptor; Uncharacterized protein
+58	CGD-ZyT-044086|Mycgr3P73189|Zymoseptoria	1047171.Mycgr3P73189	100.0	1138.3	Mycgr3P73189	Sphingolipid 8-(e)-desaturase; Uncharacterized protein
+59	CGD-ZyT-044603|Mycgr3P107360|Zymoseptoria	1047171.Mycgr3P107360	100.0	605.1	Mycgr3P107360	Hypothetical protein; Uncharacterized protein; Belongs to the spermidine/spermine synthase family
+60	CGD-ZyT-045198|Mycgr3P36895|Zymoseptoria	1047171.Mycgr3P36895	100.0	1246.9	Mycgr3P36895	Hypothetical protein; Uncharacterized protein
+61	CGD-ZyT-045545|Mycgr3P75805|Zymoseptoria	1047171.Mycgr3P75805	100.0	1390.2	cprA	NADPH--cytochrome P450 reductase; In the C-terminal section; belongs to the flavoprotein pyridine nucleotide cytochrome reductase family
+62	CGD-ZyT-045601|Mycgr3P66122|Zymoseptoria	1047171.Mycgr3P66122	100.0	1312.4	Mycgr3P66122	Hypothetical protein; Uncharacterized protein
+63	CGD-ZyT-046304|Mycgr3P107190|Zymoseptoria	1047171.Mycgr3P107190	100.0	975.3	Mycgr3P107190	3-deoxy-7-phosphoheptulonate synthase; Phospho-2-dehydro-3-deoxyheptonate aldolase; Belongs to the class-II DAHP synthase family
+64	CGD-ZyT-047291|Mycgr3P74660|Zymoseptoria	1047171.Mycgr3P74660	100.0	1395.2	Mycgr3P74660	Glycogen synthase; Transfers the glycosyl residue from UDP-Glc to the non- reducing end of alpha-1,4-glucan
+65	CGD-ZyT-047485|Mycgr3P98958|Zymoseptoria	1047171.Mycgr3P98958	100.0	1063.9	MgAMY7	Putative alpha-amylase
+66	CGD-ZyT-048089|Mycgr3P110066|Zymoseptoria	1047171.Mycgr3P110066	100.0	395.6	Mycgr3P110066	Hypothetical protein; Uncharacterized protein
+67	CGD-ZyT-048335|Mycgr3P65810|Zymoseptoria	1047171.Mycgr3P65810	100.0	680.6	Mycgr3P65810	5'-methylthioadenosine phosphorylase; Catalyzes the reversible phosphorylation of S-methyl-5'- thioadenosine (MTA) to adenine and 5-methylthioribose-1-phosphate. Involved in the breakdown of MTA, a major by-product of polyamine biosynthesis. Responsible for the first step in the methionine salvage pathway after MTA has been generated from S-adenosylmethionine. Has broad substrate specificity with 6-aminopurine nucleosides as preferred substrates
+68	CGD-ZyT-048361|Mycgr3P72239|Zymoseptoria	1047171.Mycgr3P72239	100.0	184.1	Mycgr3P72239	Diazepam-binding inhibitor (gaba receptor modulator, acyl-coa-binding protein); Uncharacterized protein
+69	CGD-ZyT-049152|Mycgr3P99570|Zymoseptoria	1047171.Mycgr3P99570	100.0	2360.9	Mycgr3P99570	Atp-binding cassette, subfamily b (mdr/tap), member 1; Putative ABC transporter
+70	CGD-ZyT-049793|Mycgr3P101114|Zymoseptoria	1047171.Mycgr3P101114	100.0	1129.4	CYP-20	Putative P450 monooxygenase
+71	CGD-ZyT-049835|Mycgr3P47050|Zymoseptoria	1047171.Mycgr3P47050	100.0	831.6	Mycgr3P47050	Alpha-methylacyl-coa racemase; Uncharacterized protein
+72	CGD-ZyT-050272|Mycgr3P52118|Zymoseptoria	1047171.Mycgr3P52118	100.0	979.5	Mycgr3P52118	Hypothetical protein; Uncharacterized protein
+73	CGD-ZyT-050516|Mycgr3P39947|Zymoseptoria	1047171.Mycgr3P39947	100.0	301.6	Mycgr3P39947	Hypothetical protein; Uncharacterized protein
+74	CGD-ZyT-050611|Mycgr3P47735|Zymoseptoria	1047171.Mycgr3P47735	100.0	377.5	Mycgr3P47735	Hypothetical protein; Uncharacterized protein
+75	CGD-ZyT-050729|Mycgr3P98612|Zymoseptoria	1047171.Mycgr3P98612	100.0	1304.3	Mycgr3P98612	Atp-binding cassette, subfamily d (ald), peroxisomal long-chain fatty acid import protein; Putative ABC transporter
+76	CGD-ZyT-050919|Mycgr3P60824|Zymoseptoria	1047171.Mycgr3P60824	100.0	665.6	Mycgr3P60824	Ubiquinol-cytochrome c reductase cytochrome c1 subunit; Uncharacterized protein
+77	CGD-ZyT-050997|Mycgr3P90353|Zymoseptoria	1047171.Mycgr3P90353	100.0	4376.2	Mycgr3P90353	CCR4-NOT transcription complex subunit 1; Uncharacterized protein
+78	CGD-ZyT-051020|Mycgr3P77854|Zymoseptoria	1047171.Mycgr3P77854	100.0	682.6	Mycgr3P77854	Versiconal hemiacetal acetate esterase; Uncharacterized protein
+79	CGD-ZyT-051712|Mycgr3P102384|Zymoseptoria	1047171.Mycgr3P102384	100.0	518.5	Mycgr3P102384	Translation initiation factor 4e; Uncharacterized protein; Belongs to the eukaryotic initiation factor 4E family
+80	CGD-ZyT-051969|Mycgr3P84730|Zymoseptoria	1047171.Mycgr3P84730	100.0	1224.2	Mycgr3P84730	Protein regulator of cytokinesis 1; Uncharacterized protein
+81	CGD-ZyT-052092|Mycgr3P80591|Zymoseptoria	1047171.Mycgr3P80591	100.0	957.6	Mycgr3P80591	Stearoyl-coa desaturase (delta-9 desaturase); Stearyl-CoA desaturase that utilizes O(2) and electrons from reduced cytochrome b5 to introduce the first double bond into saturated fatty acyl-CoA substrates
+82	CGD-ZyT-052235|Mycgr3P44439|Zymoseptoria	1047171.Mycgr3P44439	100.0	1198.7	ARE1	O-acyltransferase; Acyl-CoA/sterol acyltransferase
+83	CGD-ZyT-052271|Mycgr3P71455|Zymoseptoria	1047171.Mycgr3P71455	100.0	683.7	Mycgr3P71455	N-glycosylase/dna lyase; Uncharacterized protein
+84	CGD-ZyT-052521|Mycgr3P73426|Zymoseptoria	1047171.Mycgr3P73426	100.0	878.6	COQ1	COQ1 probable hexaprenyl diphosphate synthase; Belongs to the FPP/GGPP synthase family
+85	CGD-ZyT-052755|Mycgr3P53498|Zymoseptoria	1047171.Mycgr3P53498	100.0	851.7	Mycgr3P53498	Aspartate aminotransferase, mitochondrial; Aspartate aminotransferase
+86	CGD-ZyT-053298|Mycgr3P103329|Zymoseptoria	1047171.Mycgr3P103329	100.0	356.7	Mycgr3P103329	Large subunit ribosomal protein l17e; Uncharacterized protein; Belongs to the universal ribosomal protein uL22 family
+87	CGD-ZyT-053581|Mycgr3P104155|Zymoseptoria	1047171.Mycgr3P104155	100.0	470.7	Mycgr3P104155	Small subunit ribosomal protein s6e; 40S ribosomal protein S6; Belongs to the eukaryotic ribosomal protein eS6 family
+88	CGD-ZyT-053886|Mycgr3P76401|Zymoseptoria	1047171.Mycgr3P76401	100.0	1219.5	Mycgr3P76401	Vacuolar protein sorting-associated protein 52; Uncharacterized protein
+89	CGD-ZyT-054400|Mycgr3P82889|Zymoseptoria	1047171.Mycgr3P82889	100.0	160.6	Mycgr3P82889	Cytochrome c oxidase subunit 7c; Uncharacterized protein
+90	CGD-ZyT-054664|Mycgr3P85387|Zymoseptoria	1047171.Mycgr3P85387	100.0	1180.6	Mycgr3P85387	Hypothetical protein; Occurs in almost all aerobically respiring organisms and serves to protect cells from the toxic effects of hydrogen peroxide
+91	CGD-ZyT-055247|Mycgr3P101073|Zymoseptoria	1047171.Mycgr3P101073	100.0	713.4	Mycgr3P101073	Fatty acid elongase 3; Elongation of fatty acids protein
+92	CGD-ZyT-055594|Mycgr3P48212|Zymoseptoria	1047171.Mycgr3P48212	100.0	814.3	Mycgr3P48212	Hypothetical protein; Uncharacterized protein
+93	CGD-ZyT-055777|Mycgr3P54740|Zymoseptoria	1047171.Mycgr3P54740	100.0	933.3	ERG13	Hydroxymethylglutaryl-coa synthase; This enzyme condenses acetyl-CoA with acetoacetyl-CoA to form HMG-CoA, which is the substrate for HMG-CoA reductase
+94	CGD-ZyT-056201|Mycgr3P55297|Zymoseptoria	1047171.Mycgr3P55297	100.0	1210.7	Mycgr3P55297	Hypothetical protein; Uncharacterized protein
+95	CGD-ZyT-056244|Mycgr3P100306|Zymoseptoria	1047171.Mycgr3P100306	100.0	1523.1	Mycgr3P100306	Dna topoisomerase i; Releases the supercoiling and torsional tension of DNA introduced during the DNA replication and transcription by transiently cleaving and rejoining one strand of the DNA duplex. Introduces a single-strand break via transesterification at the specific target site 5'-[CT]CCTTp site in duplex DNA. The scissile phosphodiester is attacked by the catalytic tyrosine of the enzyme, resulting in the formation of a DNA-(3'-phosphotyrosyl)-enzyme intermediate and the expulsion of a 5'-OH DNA strand. The free DNA strand then undergoes passage around the unbroken strand thus r [...] 
+96	CGD-ZyT-056630|Mycgr3P75015|Zymoseptoria	1047171.Mycgr3P75015	100.0	1147.9	CYP-35	Putative P450 monooxygenase; Belongs to the cytochrome P450 family
+97	CGD-ZyT-056679|Mycgr3P32785|Zymoseptoria	1047171.Mycgr3P32785	100.0	279.3	MgYpd1	Osomolarity two-component system, phosphorelay intermediate protein ypd1; Histidine containing phosphotransmitter protein
+98	CGD-ZyT-057280|Mycgr3P85156|Zymoseptoria	1047171.Mycgr3P85156	100.0	616.7	Mycgr3P85156	Aquaglyceroporin related protein, other eukaryote; Uncharacterized protein; Belongs to the MIP/aquaporin (TC 1.A.8) family
+99	CGD-ZyT-057340|Mycgr3P102837|Zymoseptoria	1047171.Mycgr3P102837	100.0	1048.1	Mycgr3P102837	F-type h+-transporting atpase subunit alpha; Produces ATP from ADP in the presence of a proton gradient across the membrane
+100	CGD-ZyT-057699|Mycgr3P18034|Zymoseptoria	1047171.Mycgr3P18034	100.0	384.0	Mycgr3P18034	Deubiquitinase desi2; Uncharacterized protein
+101	CGD-ZyT-058939|Mycgr3P103866|Zymoseptoria	1047171.Mycgr3P103866	100.0	604.4	FBP1	Fructose-1,6-BISPHOSPHATASE; Belongs to the FBPase class 1 family
+102	CGD-ZyT-059365|Mycgr3P33455|Zymoseptoria	1047171.Mycgr3P33455	100.0	523.5	Mycgr3P33455	Prolyl 4-hydroxylase; Uncharacterized protein
+103	CGD-ZyT-060121|Mycgr3P78914|Zymoseptoria	1047171.Mycgr3P78914	100.0	183.3	Mycgr3P78914	Dna-directed rna polymerases i, ii, and iii subunit rpabc4; Uncharacterized protein
+104	CGD-ZyT-060253|Mycgr3P110231|Zymoseptoria	1047171.Mycgr3P110231	100.0	1099.3	CYP-74	ERG11, lanosterol 14-alpha-demethylase; Belongs to the cytochrome P450 family
+105	CGD-ZyT-060803|Mycgr3P67117|Zymoseptoria	1047171.Mycgr3P67117	100.0	377.9	Mycgr3P67117	Small subunit ribosomal protein s8e; 40S ribosomal protein S8; Belongs to the eukaryotic ribosomal protein eS8 family
+106	CGD-ZyT-060841|Mycgr3P72646|Zymoseptoria	1047171.Mycgr3P72646	100.0	4791.5	Mycgr3P72646	Putative alpha 1,3 glucan synthase
+107	CGD-ZyT-061195|Mycgr3P109100|Zymoseptoria	1047171.Mycgr3P109100	100.0	1813.9	CYP-36	Putative P450 monooxygenase; Belongs to the cytochrome P450 family
+108	CGD-ZyT-061210|Mycgr3P66739|Zymoseptoria	1047171.Mycgr3P66739	100.0	462.6	Mycgr3P66739	Peroxisomal membrane protein 4; Uncharacterized protein
+109	CGD-ZyT-061439|Mycgr3P33937|Zymoseptoria	1047171.Mycgr3P33937	100.0	1753.4	Mycgr3P33937	Atp-dependent rna helicase ddx46/prp5; Uncharacterized protein
+110	CGD-ZyT-061468|Mycgr3P105895|Zymoseptoria	1047171.Mycgr3P105895	100.0	1196.8	Mycgr3P105895	Heat shock 70kda protein 1/2/6/8; Uncharacterized protein; Belongs to the heat shock protein 70 family
+111	CGD-ZyT-061510|Mycgr3P69430|Zymoseptoria	1047171.Mycgr3P69430	100.0	467.2	Mycgr3P69430	Mitochondrial superoxide dismutase [mn]; Destroys radicals which are normally produced within the cells and which are toxic to biological systems
+112	CGD-ZyT-061513|Mycgr3P69338|Zymoseptoria	1047171.Mycgr3P69338	100.0	1226.1	Mycgr3P69338	Proton-dependent oligopeptide transporter, pot family; Uncharacterized protein
+114	CGD-ZyT-062528|Mycgr3P42477|Zymoseptoria	1047171.Mycgr3P42477	100.0	1157.1	Mycgr3P42477	Hypothetical protein; Uncharacterized protein
+115	CGD-ZyT-062553|Mycgr3P100618|Zymoseptoria	1047171.Mycgr3P100618	100.0	614.0	Mycgr3P100618	Nad+-dependent protein deacetylase sir2; NAD-dependent protein deacetylase; Belongs to the sirtuin family. Class I subfamily
+116	CGD-ZyT-062684|Mycgr3P104571|Zymoseptoria	1047171.Mycgr3P104571	100.0	454.9	Mycgr3P104571	Phosphatidylethanolamine-binding-like protein
+117	CGD-ZyT-062949|Mycgr3P71535|Zymoseptoria	1047171.Mycgr3P71535	100.0	476.1	Mycgr3P71535	Glutathione-specific gamma-glutamylcyclotransferase; Catalyzes the cleavage of glutathione into 5-oxo-L-proline and a Cys-Gly dipeptide. Acts specifically on glutathione, but not on other gamma-glutamyl peptides
+118	CGD-ZyT-063825|Mycgr3P14664|Zymoseptoria	1047171.Mycgr3P14664	100.0	560.1	Mycgr3P14664	Hypothetical protein; Uncharacterized protein
+119	CGD-ZyT-063868|Mycgr3P102406|Zymoseptoria	1047171.Mycgr3P102406	100.0	409.5	Mycgr3P102406	Large subunit ribosomal protein l13ae; Uncharacterized protein
+120	CGD-ZyT-063890|Mycgr3P104937|Zymoseptoria	1047171.Mycgr3P104937	100.0	398.7	Mycgr3P104937	Hypothetical protein; Uncharacterized protein
+121	CGD-ZyT-064204|Mycgr3P101342|Zymoseptoria	1047171.Mycgr3P101342	100.0	2883.2	Mycgr3P101342	Uncharacterized protein; UDP-N-ACETYLGLUCOSAMINE--peptide N-ACETYLGLUCOSAMINYLtransferase
+122	CGD-ZyT-064245|Mycgr3P104090|Zymoseptoria	1047171.Mycgr3P104090	100.0	1158.7	Mycgr3P104090	Cell division cycle 20, cofactor of apc complex; Uncharacterized protein
+123	CGD-ZyT-064271|Mycgr3P35526|Zymoseptoria	1047171.Mycgr3P35526	100.0	848.2	GliM	Gliotoxin/aspirochlorine biosynthesis o-methyltransferase; Putative O-methyltransferase
+124	CGD-ZyT-064277|Mycgr3P32076|Zymoseptoria	1047171.Mycgr3P32076	100.0	3942.1	Mycgr3P32076	Voltage-dependent calcium channel; Ca2+ channel, alpha subunit
+125	CGD-ZyT-064395|Mycgr3P55438|Zymoseptoria	1047171.Mycgr3P55438	100.0	1114.4	CYP-70	ERG5, C-22 sterol desaturase; Belongs to the cytochrome P450 family
+126	CGD-ZyT-064474|Mycgr3P98201|Zymoseptoria	1047171.Mycgr3P98201	100.0	1430.6	MgSNF1	Carbon catabolite-derepressing protein kinase; Carbon catabolite derepressing protein kinase
+127	CGD-ZyT-064923|Mycgr3P94547|Zymoseptoria	1047171.Mycgr3P94547	100.0	542.3	Mycgr3P94547	1-acylglycerone phosphate reductase; Uncharacterized protein; Belongs to the short-chain dehydrogenases/reductases (SDR) family
+128	CGD-ZyT-065039|Mycgr3P99044|Zymoseptoria	1047171.Mycgr3P99044	100.0	645.6	GAPDH	Glyceraldehyde-3-phosphate dehydrogenase
+129	CGD-ZyT-065176|Mycgr3P72359|Zymoseptoria	1047171.Mycgr3P72359	100.0	511.1	Mycgr3P72359	Hypothetical protein; Uncharacterized protein
+130	CGD-ZyT-065212|Mycgr3P57074|Zymoseptoria	1047171.Mycgr3P57074	100.0	186.0	Mycgr3P57074	Hypothetical protein; Uncharacterized protein
+131	CGD-ZyT-065287|Mycgr3P65583|Zymoseptoria	1047171.Mycgr3P65583	100.0	1011.5	Mycgr3P65583	Swi/snf-related matrix-associated actin-dependent regulator of chromatin subfamily d; SWI/SNF complex protein
+132	CGD-ZyT-065780|Mycgr3P47899|Zymoseptoria	1047171.Mycgr3P47899	100.0	1070.5	Mycgr3P47899	Hypothetical protein; Uncharacterized protein
+133	CGD-ZyT-066091|Mycgr3P106037|Zymoseptoria	1047171.Mycgr3P106037	100.0	143.7	Mycgr3P106037	Hypothetical protein; Uncharacterized protein
+134	CGD-ZyT-066188|Mycgr3P51580|Zymoseptoria	1047171.Mycgr3P51580	100.0	1961.8	Mycgr3P51580	Kinesin family member 11; Uncharacterized protein; Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Kinesin family
+135	CGD-ZyT-066244|Mycgr3P85668|Zymoseptoria	1047171.Mycgr3P85668	100.0	1576.6	Mycgr3P85668	Ubiquitin carboxyl-terminal hydrolase 8; Uncharacterized protein; Belongs to the peptidase C19 family
+136	CGD-ZyT-066773|Mycgr3P106260|Zymoseptoria	1047171.Mycgr3P106260	100.0	242.3	Mycgr3P106260	Hypothetical protein; Uncharacterized protein
+137	CGD-ZyT-068344|Mycgr3P36249|Zymoseptoria	1047171.Mycgr3P36249	100.0	709.9	Mycgr3P36249	Aquaporin rerated protein, other eukaryote; Uncharacterized protein; Belongs to the MIP/aquaporin (TC 1.A.8) family
+138	CGD-ZyT-068637|Mycgr3P100470|Zymoseptoria	1047171.Mycgr3P100470	100.0	2223.0	Mycgr3P100470	Checkpoint serine/threonine-protein kinase; Uncharacterized protein
+139	CGD-ZyT-069085|Mycgr3P100586|Zymoseptoria	1047171.Mycgr3P100586	100.0	1018.5	HKX1	Hypothetical protein; Phosphotransferase; Belongs to the hexokinase family
+140	CGD-ZyT-069253|Mycgr3P69907|Zymoseptoria	1047171.Mycgr3P69907	100.0	1134.4	MgAMY2	Putative alpha-amylase
+141	CGD-ZyT-070477|Mycgr3P110308|Zymoseptoria	1047171.Mycgr3P110308	100.0	1186.4	Mycgr3P110308	Mfs transporter, sp family, sugar:h+ symporter; Uncharacterized protein; Belongs to the major facilitator superfamily. Sugar transporter (TC 2.A.1.1) family
+142	CGD-ZyT-070573|Mycgr3P100881|Zymoseptoria	1047171.Mycgr3P100881	100.0	800.4	GSK3	Glycogen synthase kinase 3 beta; Serine/threonine protein kinase; Belongs to the protein kinase superfamily
+143	CGD-ZyT-070768|Mycgr3P67324|Zymoseptoria	1047171.Mycgr3P67324	100.0	1127.5	CYP-14	Putative P450 monooxygenase
+144	CGD-ZyT-070892|Mycgr3P105601|Zymoseptoria	1047171.Mycgr3P105601	100.0	1181.8	ALS1	5-aminolevulinate synthase; Belongs to the class-II pyridoxal-phosphate-dependent aminotransferase family
+145	CGD-ZyT-071386|Mycgr3P69513|Zymoseptoria	1047171.Mycgr3P69513	100.0	1356.7	Mycgr3P69513	Hypothetical protein; Uncharacterized protein
+146	CGD-ZyT-071405|Mycgr3P57585|Zymoseptoria	1047171.Mycgr3P57585	100.0	484.2	Mycgr3P57585	1-acylglycerone phosphate reductase; Uncharacterized protein; Belongs to the short-chain dehydrogenases/reductases (SDR) family
+147	CGD-ZyT-071800|Mycgr3P41717|Zymoseptoria	1047171.Mycgr3P41717	100.0	2794.6	Mycgr3P41717	Phytochrome-like histidine kinase PHY1p

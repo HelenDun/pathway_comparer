@@ -1,0 +1,1148 @@
+#queryIndex	queryItem	stringId	identity	bitscore	preferredName	annotation
+1	CGD-NeC-027601|ESA41890|Neurospora	367110.P14799	100.0	276.2	ubi::crp-6	Ubiquitin-40S ribosomal protein S27a; Ubiquitin exists either covalently attached to another protein, or free (unanchored). When covalently bound, it is conjugated to target proteins via an isopeptide bond either as a monomer (monoubiquitin), a polymer linked via different Lys residues of the ubiquitin (polyubiquitin chains) or a linear polymer linked via the initiator Met of the ubiquitin (linear polyubiquitin chains). Polyubiquitin chains, when attached to a target protein, have different functions depending on the Lys residue of the ubiquitin that is linked: Lys-6-linked may be involved in 
+2	CGD-NeC-027648|EFNCRP00000004102|Neurospora	367110.Q1K7W7	100.0	665.6	Q1K7W7	Uncharacterized protein
+3	CGD-NeC-028044|EFNCRP00000004432|Neurospora	367110.Q8X0X0	100.0	1487.6	gcs-1	Glutamate--cysteine ligase; Belongs to the glutamate--cysteine ligase type 3 family. 
+4	CGD-NeC-028178|EFNCRP00000009412|Neurospora	367110.Q01233	100.0	1203.0	hsps-1	Heat shock 70 kDa protein
+5	CGD-NeC-028214|EFNCRP00000000764|Neurospora	367110.Q7SCL4	100.0	740.7	nst-2	NAD-dependent protein deacetylase; Belongs to the sirtuin family. Class I subfamily. 
+6	CGD-NeC-028272|EFNCRP00000004970|Neurospora	367110.Q7S8G4	100.0	1075.5	cat-4	Catalase 2
+8	CGD-NeC-029890|EFNCRP00000009318|Neurospora	367110.Q7S1N5	98.8	1995.3	Q7S1N5	Uncharacterized protein
+9	CGD-NeC-029957|EFNCRP00000002226|Neurospora	367110.Q7SG04	100.0	1135.6	Q7SG04	WD-repeat containing protein slp1
+10	CGD-NeC-032059|EFNCRP00000000885|Neurospora	367110.Q7SEA6	100.0	457.2	Q7SEA6	Peroxisomal membrane protein
+11	CGD-NeC-032953|EFNCRP00000000035|Neurospora	367110.Q7RXY7	100.0	794.3	Q7RXY7	Translation initiation factor 4B
+12	CGD-NeC-033108|EFNCRP00000006098|Neurospora	367110.Q7S9W0	100.0	198.7	Q7S9W0	ACB domain-containing protein
+13	CGD-NeC-033432|EFNCRP00000005089|Neurospora	367110.Q7S8K7	100.0	1093.2	Q7S8K7	Cytochrome P450 61; Belongs to the cytochrome P450 family. 
+14	CGD-NeC-033577|EFNCRP00000003196|Neurospora	367110.Q3Y3Z1	100.0	2479.5	dim-2	DNA methyltransferase Dim-2
+15	CGD-NeC-033615|EFNCRP00000003734|Neurospora	367110.Q7RZA5	100.0	636.7	Nic-7	S-methyl-5'-thioadenosine phosphorylase; Catalyzes the reversible phosphorylation of S-methyl-5'- thioadenosine (MTA) to adenine and 5-methylthioribose-1-phosphate. Involved in the breakdown of MTA, a major by-product of polyamine biosynthesis. Responsible for the first step in the methionine salvage pathway after MTA has been generated from S-adenosylmethionine. Has broad substrate specificity with 6-aminopurine nucleosides as preferred substrates.
+16	CGD-NeC-033807|EFNCRP00000009466|Neurospora	367110.Q7SCR7	100.0	538.9	pcb-6	Proteasome component C5
+17	CGD-NeC-033930|EFNCRP00000003994|Neurospora	367110.Q1K7V4	100.0	3148.6	Q1K7V4	UDP-N-acetylglucosaminyltransferase
+18	CGD-NeC-034012|EFNCRP00000001091|Neurospora	367110.P07509	100.0	312.4	sod-1	Superoxide dismutase [Cu-Zn]; Destroys radicals which are normally produced within the cells and which are toxic to biological systems; Belongs to the Cu-Zn superoxide dismutase family. 
+19	CGD-NeC-034304|EFNCRP00000008548|Neurospora	367110.Q7SGN1	100.0	664.5	Aquaporin	Aquaporin; Belongs to the MIP/aquaporin (TC 1.A.8) family. 
+20	CGD-NeC-035425|EFNCRP00000004263|Neurospora	367110.Q9P720	100.0	394.0	crp-46	60S ribosomal protein L16; Belongs to the universal ribosomal protein uL13 family. 
+21	CGD-NeC-035624|EFNCRP00000007496|Neurospora	367110.Q7SBC6	100.0	864.8	drh-1	ATP-dependent RNA helicase dbp2; ATP-dependent RNA helicase involved nonsense-mediated mRNA decay and ribosome biogenesis through rRNA processing.
+22	CGD-NeC-036378|EFNCRP00000002337|Neurospora	367110.Q7SDG8	99.5	693.3	Q7SDG8	N-glycosylase/DNA lyase
+23	CGD-NeC-036449|EFNCRP00000005178|Neurospora	367110.Q7RY55	100.0	156.0	Q7RY55	Uncharacterized protein
+24	CGD-NeC-036481|EFNCRP00000003886|Neurospora	367110.V5IPH9	100.0	280.0	V5IPH9	RRM domain-containing protein
+25	CGD-NeC-036508|EFNCRP00000009081|Neurospora	367110.Q1K900	100.0	818.5	cys-16	Cystathionine gamma-lyase
+26	CGD-NeC-036576|EFNCRP00000007031|Neurospora	367110.Q7S9A9	100.0	1803.5	Q7S9A9	Alpha-1,4 glucan phosphorylase; Phosphorylase is an important allosteric enzyme in carbohydrate metabolism. Enzymes from different sources differ in their regulatory mechanisms and in their natural substrates. However, all known phosphorylases share catalytic and structural properties. 
+27	CGD-NeC-036775|EFNCRP00000002274|Neurospora	367110.Q7SHF3	100.0	325.5	Q7SHF3	40S ribosomal protein S8
+28	CGD-NeC-037116|EFNCRP00000007796|Neurospora	367110.Q1K8N4	100.0	174.9	Q1K8N4	Uncharacterized protein
+29	CGD-NeC-037329|EFNCRP00000001128|Neurospora	367110.Q7SEY8	100.0	516.9	Q7SEY8	Eukaryotic translation initiation factor 4E; Belongs to the eukaryotic initiation factor 4E family. 
+30	CGD-NeC-038113|EFNCRP00000004373|Neurospora	367110.Q1K825	100.0	1177.9	elp3	Elongator complex protein 3; Catalytic tRNA acetyltransferase subunit of the RNA polymerase II elongator complex, which is a component of the RNA polymerase II (Pol II) holoenzyme and is involved in transcriptional elongation.
+31	CGD-NeC-038175|EFNCRP00000005866|Neurospora	367110.Q7RVR5	97.6	1395.2	prk-10	Non-specific serine/threonine protein kinase
+32	CGD-NeC-038465|EFNCRP00000000919|Neurospora	367110.Q7SED6	100.0	821.2	Q7SED6	Glycerol-3-phosphate dehydrogenase [NAD(+)]
+33	CGD-NeC-038578|EFNCRP00000002842|Neurospora	367110.V5IRK3	94.0	533.9	V5IRK3	Diploid state maintenance protein chpA, variant
+34	CGD-NeC-038689|EFNCRP00000009676|Neurospora	367110.Q7S203	100.0	420.2	Q7S203	Adenylyl-sulfate kinase; Catalyzes the synthesis of activated sulfate. 
+35	CGD-NeC-038853|EFNCRP00000001887|Neurospora	367110.P34085	100.0	946.4	cit-1	Citrate synthase, mitochondrial
+36	CGD-NeC-038941|EFNCRP00000001750|Neurospora	367110.Q1K5R5	100.0	1391.3	Q1K5R5	ATP-binding cassette protein
+37	CGD-NeC-039208|EFNCRP00000009815|Neurospora	367110.V5IRN2	94.8	2367.8	V5IRN2	Mitotic spindle checkpoint component mad3
+38	CGD-NeC-039707|EFNCRP00000006839|Neurospora	367110.Q7SC67	89.6	889.8	Q7SC67	MFS myo-inositol transporter; Belongs to the major facilitator superfamily. Sugar transporter (TC 2.A.1.1) family.
+39	CGD-NeC-039735|EFNCRP00000002422|Neurospora	367110.Q7SHI2	100.0	588.6	Q7SHI2	Short-chain dehydrogenase/reductase; Belongs to the short-chain dehydrogenases/reductases (SDR) family.
+40	CGD-NeC-039973|EFNCRP00000006015|Neurospora	367110.Q7RVY5	100.0	1234.9	alv-1	5-aminolevulinate synthase, mitochondrial; Catalyzes the synthesis of 5-aminolevulinate (ALA) from succinyl-CoA and glycine, the first and rate-limiting step in heme biosynthesis; Belongs to the class-II pyridoxal-phosphate-dependent aminotransferase family.
+41	CGD-NeC-040035|EFNCRP00000006735|Neurospora	367110.Q7S3H3	100.0	353.6	Q7S3H3	Peroxiredoxin; Thiol-specific peroxidase that catalyzes the reduction of hydrogen peroxide and organic hydroperoxides to water and alcohols, respectively. Plays a role in cell protection against oxidative stress by detoxifying peroxides; Belongs to the peroxiredoxin family. Prx5 subfamily. 
+42	CGD-NeC-040937|EFNCRP00000004827|Neurospora	367110.Q7S0E1	94.0	629.8	Q7S0E1	Hemolysin-III channel protein Izh2
+43	CGD-NeC-041733|EFNCRP00000002730|Neurospora	367110.Q1K5E9	100.0	998.8	Q1K5E9	Aldehyde dehydrogenase; Belongs to the aldehyde dehydrogenase family. 
+44	CGD-NeC-041770|EFNCRP00000007891|Neurospora	367110.Q7RVS1	100.0	2498.8	Q7RVS1	Multidrug resistance protein MDR
+45	CGD-NeC-041879|EFNCRP00000003449|Neurospora	367110.V5IL57	77.4	123.6	LSM5	U6 snRNA-associated Sm-like protein LSm5; Plays a role in U6 snRNP assembly and function. Binds to the 3' end of U6 snRNA.
+46	CGD-NeC-042341|EFNCRP00000008554|Neurospora	367110.Q7SGL6	100.0	606.3	sho1	High osmolarity signaling protein sho1; Plasma membrane osmosensor that activates the high osmolarity glycerol (HOG) MAPK signaling pathway in response to high osmolarity. 
+47	CGD-NeC-042441|EFNCRP00000004460|Neurospora	367110.Q7S6A1	100.0	726.9	Q7S6A1	Uncharacterized protein
+48	CGD-NeC-043019|EFNCRP00000003861|Neurospora	367110.Q1K6V5	100.0	807.7	Q1K6V5	Alpha-methylacyl-CoA racemase
+49	CGD-NeC-043196|EFNCRP00000006217|Neurospora	367110.Q7RYJ1	100.0	803.1	Q7RYJ1	F-box and WD repeat-containing protein
+50	CGD-NeC-043483|EFNCRP00000002115|Neurospora	367110.V5IP98	99.8	1005.4	emp-1	Phosphotransferase
+51	CGD-NeC-043835|EFNCRP00000008081|Neurospora	367110.Q7S796	100.0	122.5	Q7S796	Uncharacterized protein; Belongs to the eukaryotic ribosomal protein P1/P2 family. 
+52	CGD-NeC-044400|EFNCRP00000003349|Neurospora	367110.Q7S7Y9	99.4	2049.2	Q7S7Y9	Uncharacterized protein
+53	CGD-NeC-044654|EFNCRP00000006622|Neurospora	367110.Q7S7I2	95.8	1889.8	Q7S7I2	Nuclear pore complex protein Nup85; Functions as a component of the nuclear pore complex (NPC). 
+54	CGD-NeC-044705|EFNCRP00000004948|Neurospora	367110.Q7S8C6	100.0	1011.1	Q7S8C6	Acyl-CoA desaturase; Stearyl-CoA desaturase that utilizes O(2) and electrons from reduced cytochrome b5 to introduce the first double bond into saturated fatty acyl-CoA substrates.
+55	CGD-NeC-044713|EFNCRP00000006597|Neurospora	367110.Q9Y8H7	100.0	611.7	spe-3	Spermidine synthase; Belongs to the spermidine/spermine synthase family. 
+56	CGD-NeC-044757|EFNCRP00000005175|Neurospora	367110.A7UWK6	100.0	791.2	A7UWK6	Jumonji domain-containing protein 5
+57	CGD-NeC-044795|EFNCRP00000009207|Neurospora	367110.Q7S1Q2	100.0	1268.8	Q7S1Q2	GTP-binding protein 1
+58	CGD-NeC-045179|EFNCRP00000005256|Neurospora	367110.Q7RZ90	100.0	1152.1	Q7RZ90	TGc domain-containing protein
+59	CGD-NeC-046718|EFNCRP00000006841|Neurospora	367110.Q7RV33	100.0	1320.4	Q7RV33	Hormone-sensitive lipase
+60	CGD-NeC-046793|EFNCRP00000007774|Neurospora	367110.V5IQA2	99.1	849.4	V5IQA2	Aspartate aminotransferase
+61	CGD-NeC-047215|EFNCRP00000002632|Neurospora	367110.Q1K528	100.0	174.9	cox-15	Cytochrome c oxidase subunit 8, mitochondrial; Component of the cytochrome c oxidase, the last enzyme in the mitochondrial electron transport chain which drives oxidative phosphorylation. The respiratory chain contains 3 multisubunit complexes succinate dehydrogenase (complex II, CII), ubiquinol- cytochrome c oxidoreductase (cytochrome b-c1 complex, complex III, CIII) and cytochrome c oxidase (complex IV, CIV), that cooperate to transfer electrons derived from NADH and succinate to molecular oxygen, creating an electrochemical gradient over the inner membrane that drives transmembrane transpor
+62	CGD-NeC-047650|EFNCRP00000001924|Neurospora	367110.F5H936	100.0	451.4	F5H936	Uncharacterized protein
+63	CGD-NeC-047878|EFNCRP00000006623|Neurospora	367110.O93869	100.0	1448.0	gsy-1	Glycogen [starch] synthase; Transfers the glycosyl residue from UDP-Glc to the non- reducing end of alpha-1,4-glucan. Is believed to regulate the synthesis of glycogen; Belongs to the glycosyltransferase 3 family.
+64	CGD-NeC-048066|EFNCRP00000005320|Neurospora	367110.Q7S5F0	100.0	1153.7	Q7S5F0	Quinate permease; Belongs to the major facilitator superfamily. Sugar transporter (TC 2.A.1.1) family.
+65	CGD-NeC-048165|EFNCRP00000004980|Neurospora	367110.Q7S9E0	100.0	944.9	Q7S9E0	O-methyltransferase
+66	CGD-NeC-048235|EFNCRP00000004944|Neurospora	367110.Q7S907	100.0	241.9	Q7S907	Polyamine acetyltransferase
+67	CGD-NeC-048245|EFNCRP00000007741|Neurospora	367110.Q7SB01	99.7	766.9	nst-7	Transcriptional regulator
+68	CGD-NeC-048602|EFNCRP00000005686|Neurospora	367110.Q7S550	100.0	2264.2	Q7S550	Fatty acid oxygenase
+69	CGD-NeC-048744|EFNCRP00000008489|Neurospora	367110.V5IPM8	100.0	398.7	V5IPM8	40S ribosomal protein S8; Belongs to the eukaryotic ribosomal protein eS8 family. 
+70	CGD-NeC-048795|EFNCRP00000008626|Neurospora	367110.P27526	100.0	1270.0	phr	Deoxyribodipyrimidine photo-lyase; Involved in repair of UV radiation-induced DNA damage. Catalyzes the light-dependent monomerization (300-600 nm) of cyclobutyl pyrimidine dimers (in cis-syn configuration), which are formed between adjacent bases on the same DNA strand upon exposure to ultraviolet radiation.
+71	CGD-NeC-049111|EFNCRP00000003987|Neurospora	367110.Q1K7N7	100.0	529.6	gst-2	Theta class glutathione S-transferase; Belongs to the GST superfamily. 
+72	CGD-NeC-049707|EFNCRP00000003696|Neurospora	367110.P24917	100.0	1028.1	nuo-51	NADH-ubiquinone oxidoreductase 51 kDa subunit, mitochondrial; Core subunit of the mitochondrial membrane respiratory chain NADH dehydrogenase (Complex I) that is believed to belong to the minimal assembly required for catalysis. Complex I functions in the transfer of electrons from NADH to the respiratory chain. The immediate electron acceptor for the enzyme is believed to be ubiquinone.
+73	CGD-NeC-049864|EFNCRP00000003954|Neurospora	367110.Q1K782	100.0	892.5	Q1K782	CTP_transf_like domain-containing protein
+74	CGD-NeC-050251|EFNCRP00000004563|Neurospora	367110.Q7S6Q0	99.9	1498.4	Q7S6Q0	F-box domain-containing protein
+75	CGD-NeC-051044|EFNCRP00000006683|Neurospora	367110.V5ILS6	100.0	1249.2	gnn	Glycogenin
+76	CGD-NeC-051662|EFNCRP00000001894|Neurospora	367110.Q1K558	100.0	1500.0	Q1K558	Carnitine acetyl transferase
+77	CGD-NeC-053216|EFNCRP00000002555|Neurospora	367110.Q7RWI8	98.8	959.1	Q7RWI8	SWI-SNF complex subunit
+78	CGD-NeC-053270|EFNCRP00000001937|Neurospora	367110.P37211	100.0	1059.7	atp-1	ATP synthase subunit alpha, mitochondrial; Mitochondrial membrane ATP synthase (F(1)F(0) ATP synthase or Complex V) produces ATP from ADP in the presence of a proton gradient across the membrane which is generated by electron transport complexes of the respiratory chain. F-type ATPases consist of two structural domains, F(1) - containing the extramembraneous catalytic core, and F(0) - containing the membrane proton channel, linked together by a central stalk and a peripheral stalk. During catalysis, ATP synthesis in the catalytic domain of F(1) is coupled via a rotary mechanism of the central 
+79	CGD-NeC-053560|EFNCRP00000000502|Neurospora	367110.U9WGL4	97.6	1052.0	U9WGL4	O-acyltransferase
+80	CGD-NeC-053855|EFNCRP00000009490|Neurospora	367110.Q7SEI4	100.0	1402.9	cprA	NADPH--cytochrome P450 reductase; This enzyme is required for electron transfer from NADP to cytochrome P450 in microsomes. It can also provide electron transfer to heme oxygenase and cytochrome B5. Involved in ergosterol biosynthesis. ; In the C-terminal section; belongs to the flavoprotein pyridine nucleotide cytochrome reductase family.
+81	CGD-NeC-053985|EFNCRP00000003962|Neurospora	367110.V5ILY7	100.0	801.6	prk-1	Protein kinase gsk3, variant; Belongs to the protein kinase superfamily. 
+82	CGD-NeC-054638|EFNCRP00000000551|Neurospora	367110.Q7SFC0	98.6	1990.7	Q7SFC0	Kinesin; Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Kinesin family.
+83	CGD-NeC-055665|EFNCRP00000004683|Neurospora	367110.U9W3Q8	100.0	1358.2	U9W3Q8	CBM21 domain-containing protein
+84	CGD-NeC-055696|EFNCRP00000009499|Neurospora	367110.Q7S2R1	100.0	1062.0	Q7S2R1	Trehalose-6-phosphate synthase
+85	CGD-NeC-056636|EFNCRP00000007343|Neurospora	367110.Q7S0B7	99.9	1360.1	gfa1	Glucosamine-fructose-6-phosphate aminotransferase
+86	CGD-NeC-057758|EFNCRP00000000670|Neurospora	367110.Q7SET4	100.0	2171.7	Q7SET4	3-hydroxy-3-methylglutaryl coenzyme A reductase
+87	CGD-NeC-058372|EFNCRP00000001802|Neurospora	367110.Q1K4S3	100.0	1049.3	Q1K4S3	Hexose transporter HXT13; Belongs to the major facilitator superfamily. Sugar transporter (TC 2.A.1.1) family.
+88	CGD-NeC-058412|EFNCRP00000001572|Neurospora	367110.Q7RYF9	96.6	1559.3	Q7RYF9	Glucan endo-1,3-beta-glucosidase
+89	CGD-NeC-058465|EFNCRP00000000442|Neurospora	367110.U9W570	96.5	1590.1	acon-2	Phosphodiesterase
+90	CGD-NeC-058707|EFNCRP00000003490|Neurospora	367110.Q1K7Y9	100.0	975.3	Q1K7Y9	Uncharacterized protein
+91	CGD-NeC-061074|EFNCRP00000006616|Neurospora	367110.Q86ZF9	100.0	776.9	gln-1	Glutamine synthetase
+92	CGD-NeC-061335|EFNCRP00000004451|Neurospora	367110.Q7S6K1	100.0	2314.7	phy-1	Sensor histidine kinase/response regulator
+93	CGD-NeC-061597|EFNCRP00000005194|Neurospora	367110.V5IP66	100.0	2077.4	V5IP66	PAP-associated domain-containing protein
+94	CGD-NeC-061871|EFNCRP00000006483|Neurospora	367110.V5IQ16	94.4	1469.5	V5IQ16	DNA topoisomerase I; Releases the supercoiling and torsional tension of DNA introduced during the DNA replication and transcription by transiently cleaving and rejoining one strand of the DNA duplex. Introduces a single-strand break via transesterification at the specific target site 5'-[CT]CCTTp site in duplex DNA. The scissile phosphodiester is attacked by the catalytic tyrosine of the enzyme, resulting in the formation of a DNA-(3'-phosphotyrosyl)-enzyme intermediate and the expulsion of a 5'-OH DNA strand. The free DNA strand then undergoes passage around the unbroken strand thus removing 
+95	CGD-NeC-062477|EFNCRP00000005051|Neurospora	367110.P08619	97.6	1824.3	nit-3	Nitrate reductase [NADPH]; Nitrate reductase is a key enzyme involved in the first step of nitrate assimilation in plants, fungi and bacteria.
+96	CGD-NeC-062551|EFNCRP00000006397|Neurospora	367110.Q7S9P5	94.8	1245.0	Q7S9P5	Uncharacterized protein
+97	CGD-NeC-063396|EFNCRP00000008943|Neurospora	367110.U9W3G5	100.0	1156.4	U9W3G5	Alkaline phosphatase
+98	CGD-NeC-063806|EFNCRP00000001437|Neurospora	367110.Q7RW50	100.0	82.0	Q7RW50	Uncharacterized protein
+99	CGD-NeC-064796|EFNCRP00000005079|Neurospora	367110.Q7S8L0	96.4	1232.2	Q7S8L0	Vps52/Sac2 family protein
+100	CGD-NeC-065006|EFNCRP00000009558|Neurospora	367110.P07142	100.0	619.8	Cyt-26	Cytochrome c1, heme protein, mitochondrial; Component of the ubiquinol-cytochrome c oxidoreductase, a multisubunit transmembrane complex that is part of the mitochondrial electron transport chain which drives oxidative phosphorylation. The respiratory chain contains 3 multisubunit complexes succinate dehydrogenase (complex II, CII), ubiquinol-cytochrome c oxidoreductase (cytochrome b-c1 complex, complex III, CIII) and cytochrome c oxidase (complex IV, CIV), that cooperate to transfer electrons derived from NADH and succinate to molecular oxygen, creating an electrochemical gradient over the in
+101	CGD-NeC-065520|EFNCRP00000006426|Neurospora	367110.A7UWT5	98.3	1284.2	tca-12	Succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial; Flavoprotein (FP) subunit of succinate dehydrogenase (SDH) that is involved in complex II of the mitochondrial electron transport chain and is responsible for transferring electrons from succinate to ubiquinone (coenzyme Q).
+102	CGD-NeC-065648|EFNCRP00000002145|Neurospora	367110.Q7SDI6	100.0	1090.5	Q7SDI6	Cytochrome P450 51; Belongs to the cytochrome P450 family. 
+103	CGD-NeC-065868|EFNCRP00000008457|Neurospora	367110.V5INQ2	100.0	464.2	V5INQ2	40S ribosomal protein S6; Belongs to the eukaryotic ribosomal protein eS6 family. 
+104	CGD-NeC-066390|EFNCRP00000007864|Neurospora	367110.Q7S1Z4	100.0	984.9	Q7S1Z4	Uncharacterized protein
+105	CGD-NeC-066403|EFNCRP00000002040|Neurospora	367110.Q7SH33	100.0	1860.9	prp-5	Pre-mRNA-processing ATP-dependent RNA helicase prp-5; ATP-dependent RNA helicase involved spliceosome assembly and in nuclear splicing. Catalyzes an ATP-dependent conformational change of U2 snRNP. Bridges U1 and U2 snRNPs and enables stable U2 snRNP association with intron RNA (By similarity); Belongs to the DEAD box helicase family. DDX46/PRP5 subfamily.
+106	CGD-NeC-066601|EFNCRP00000003824|Neurospora	367110.Q8NIW7	100.0	881.3	bbp-1	Branchpoint-bridging protein; Necessary for the splicing of pre-mRNA. Has a role in the recognition of the branch site (5'-UACUAAC-3'), the pyrimidine tract and the 3'-splice site at the 3'-end of introns (By similarity). ; Belongs to the BBP/SF1 family.
+107	CGD-NeC-066931|EFNCRP00000003125|Neurospora	367110.Q7S565	100.0	855.5	Q7S565	Probable hexaprenyl pyrophosphate synthase, mitochondrial; Assembly of polyisoprenoid side chains. The polyprenyl synthase of coenzyme Q biosynthesis catalyzes the formation from isopentenyl diphosphate of all trans-polyprenyl pyrophosphates generally ranging in length of between 6 and 10 isoprene units depending on the species (By similarity); Belongs to the FPP/GGPP synthase family.
+108	CGD-NeC-066955|EFNCRP00000007641|Neurospora	367110.Q7SBA0	100.0	526.9	Q7SBA0	Uncharacterized protein
+109	CGD-NeC-067019|EFNCRP00000001155|Neurospora	367110.Q7SF35	100.0	443.0	Q7SF35	UPF0326 protein hag1
+110	CGD-NeC-067416|EFNCRP00000006095|Neurospora	367110.V5IQ66	100.0	1101.7	V5IQ66	Benzoate 4-monooxygenase cytochrome P450
+111	CGD-NeC-067719|EFNCRP00000005770|Neurospora	367110.Q7S5N8	96.5	997.3	cbs-2	Putative serine hydroxymethyltransferase, mitochondrial; Interconversion of serine and glycine.
+112	CGD-NeC-068541|EFNCRP00000003401|Neurospora	367110.Q9HE25	100.0	356.7	rpl-17	60S ribosomal protein L17; Belongs to the universal ribosomal protein uL22 family. 
+113	CGD-NeC-068606|EFNCRP00000002034|Neurospora	367110.Q7SGB2	100.0	484.2	Q7SGB2	Gamma-glutamylcyclotransferase; Catalyzes the cleavage of glutathione into 5-oxo-L-proline and a Cys-Gly dipeptide. Acts specifically on glutathione, but not on other gamma-glutamyl peptides; Belongs to the gamma-glutamylcyclotransferase family. 
+114	CGD-NeC-068744|EFNCRP00000008344|Neurospora	367110.Q7S4J9	99.9	4842.7	Q7S4J9	Alpha-1,3-glucan synthase Ags2
+115	CGD-NeC-068873|EFNCRP00000006682|Neurospora	367110.Q1K743	100.0	679.9	Q1K743	Elongation of fatty acids protein
+116	CGD-NeC-068998|EFNCRP00000006479|Neurospora	367110.Q7S0G0	100.0	1102.4	Q7S0G0	Cytochrome P450 52A11; Belongs to the cytochrome P450 family. 
+117	CGD-NeC-069307|EFNCRP00000002275|Neurospora	367110.P80576	100.0	980.3	aro-8	Phospho-2-dehydro-3-deoxyheptonate aldolase; Belongs to the class-II DAHP synthase family. 
+118	CGD-NeC-069779|EFNCRP00000009147|Neurospora	367110.V5IKH7	100.0	459.1	V5IKH7	Superoxide dismutase; Destroys radicals which are normally produced within the cells and which are toxic to biological systems. ; Belongs to the iron/manganese superoxide dismutase family. 
+119	CGD-NeC-069782|EFNCRP00000009261|Neurospora	367110.Q7S285	100.0	1458.4	Q7S285	Patatin-like phospholipase domain-containing protein; Lipid hydrolase; Belongs to the PLPL family. 
+120	CGD-NeC-070038|EFNCRP00000006404|Neurospora	367110.Q01631	100.0	3701.0	cr-1	Adenylate cyclase; Plays essential roles in regulation of cellular metabolism by catalyzing the synthesis of a second messenger, cAMP. 
+121	CGD-NeC-071277|EFNCRP00000004579|Neurospora	367110.Q7S6N8	100.0	703.0	fbp-1	Fructose-1,6-bisphosphatase; Belongs to the FBPase class 1 family. 
+122	CGD-NeC-072512|EFNCRP00000003589|Neurospora	367110.Q1K5Z3	100.0	923.3	Q1K5Z3	3-hydroxy-3-methylglutaryl coenzyme A synthase; This enzyme condenses acetyl-CoA with acetoacetyl-CoA to form HMG-CoA, which is the substrate for HMG-CoA reductase. 
+123	CGD-NeC-019889|A3RNH6|Neurospora	367110.A3RNH6	100.0	599.0	A3RNH6	Mitochondrial hydrolase
+124	CGD-NeC-019890|A3RNI2|Neurospora	367110.A3RNI2	100.0	215.7	rpa-3	Replication protein A-3
+125	CGD-NeC-019891|A7UVY8|Neurospora	367110.A7UVY8	100.0	546.6	A7UVY8	Phosphoglycerate mutase
+126	CGD-NeC-019892|A7UW01|Neurospora	367110.A7UW01	100.0	395.2	A7UW01	Glucosamine 6-phosphate N-acetyltransferase; Belongs to the acetyltransferase family. GNA1 subfamily. 
+127	CGD-NeC-019893|A7UW19|Neurospora	367110.A7UW19	100.0	1520.0	A7UW19	Zn(2)-C6 fungal-type domain-containing protein
+128	CGD-NeC-019894|A7UW39|Neurospora	367110.A7UW39	100.0	231.5	A7UW39	60S ribosomal protein L35
+129	CGD-NeC-019895|A7UWA0|Neurospora	367110.A7UWA0	100.0	373.6	A7UWA0	Uncharacterized protein
+130	CGD-NeC-019896|A7UWB0|Neurospora	367110.A7UWB0	100.0	86.7	A7UWB0	Uncharacterized protein
+131	CGD-NeC-019897|A7UWB7|Neurospora	367110.A7UWB7	100.0	1152.5	A7UWB7	MFS domain-containing protein
+132	CGD-NeC-019898|A7UWE3|Neurospora	367110.A7UWE3	100.0	880.6	A7UWE3	Uncharacterized protein
+133	CGD-NeC-019899|A7UWH6|Neurospora	367110.A7UWH6	100.0	798.9	A7UWH6	AB hydrolase-1 domain-containing protein
+134	CGD-NeC-019900|A7UWJ1|Neurospora	367110.A7UWJ1	100.0	227.6	A7UWJ1	Uncharacterized protein
+135	CGD-NeC-019901|A7UWK4|Neurospora	367110.A7UWK4	100.0	342.8	A7UWK4	Ribose 5-phosphate isomerase
+136	CGD-NeC-019902|A7UWL5|Neurospora	367110.A7UWL5	100.0	632.1	NRS/ER	NRS/ER
+137	CGD-NeC-019903|A7UWM6|Neurospora	367110.A7UWM6	100.0	335.9	A7UWM6	Ubiquitin-conjugating enzyme E2
+138	CGD-NeC-019904|A7UWN5|Neurospora	367110.A7UWN5	100.0	411.4	A7UWN5	DUF676 domain-containing protein
+139	CGD-NeC-019905|A7UWT0|Neurospora	367110.A7UWT0	100.0	651.4	A7UWT0	Ribosomal L1 domain-containing protein 1
+140	CGD-NeC-019906|A7UWT1|Neurospora	367110.A7UWT1	100.0	1053.9	A7UWT1	Transcription factor Tos4
+141	CGD-NeC-019907|A7UWT3|Neurospora	367110.A7UWT3	100.0	144.8	A7UWT3	Uncharacterized protein
+142	CGD-NeC-019908|A7UX10|Neurospora	367110.A7UX10	100.0	1039.3	A7UX10	DUF890 domain-containing protein
+143	CGD-NeC-019909|A7UX34|Neurospora	367110.A7UX34	100.0	769.2	A7UX34	5',5'''-P-1,P-4-tetraphosphate phosphorylase 2
+144	CGD-NeC-019910|A7UX48|Neurospora	367110.A7UX48	100.0	847.4	SCJ1	SCJ1
+145	CGD-NeC-019911|A7UX72|Neurospora	367110.A7UX72	100.0	135.6	A7UX72	Uncharacterized protein
+146	CGD-NeC-019912|A7UX80|Neurospora	367110.A7UX80	100.0	694.1	A7UX80	Uncharacterized protein
+147	CGD-NeC-019913|A7UXA0|Neurospora	367110.A7UXA0	100.0	931.0	A7UXA0	S-(Hydroxymethyl)glutathione dehydrogenase
+148	CGD-NeC-019914|A7UXB4|Neurospora	367110.A7UXB4	100.0	761.1	A7UXB4	Pyridoxine kinase
+149	CGD-NeC-019915|A7UXB9|Neurospora	367110.A7UXB9	100.0	452.2	A7UXB9	26S proteasome non-ATPase regulatory subunit 9
+150	CGD-NeC-019916|A7UXC1|Neurospora	367110.A7UXC1	100.0	709.5	nmt-1	Thiamine biosynthesis protein NMT-1, variant 1
+151	CGD-NeC-019917|A7UXD4|Neurospora	367110.A7UXD4	100.0	1913.3	chl1	ATP-dependent DNA helicase chl1; ATP-dependent DNA helicase important for chromosome transmission and normal cell cycle progression in G(2)/M (By similarity). May have a role in changing DNA topology to allow the loading of proteins involved in maintaining sister chromatid cohesion in the vicinity of the centromeres (By similarity). Has a specific role in chromosome segregation during meiosis II (By similarity). 
+152	CGD-NeC-019918|A7UXD9|Neurospora	367110.A7UXD9	100.0	1149.4	tzn-2	Plasma membrane zinc ion transporter
+153	CGD-NeC-019919|A7UXE2|Neurospora	367110.A7UXE2	100.0	662.1	A7UXE2	Benzoate 4-monooxygenase cytochrome P450
+154	CGD-NeC-019920|F5HAE7|Neurospora	367110.F5HAE7	100.0	1109.4	F5HAE7	Tyrosine decarboxylase
+155	CGD-NeC-019921|F5HBR2|Neurospora	367110.F5HBR2	100.0	805.8	F5HBR2	Kynurenine formamidase; Catalyzes the hydrolysis of N-formyl-L-kynurenine to L- kynurenine, the second step in the kynurenine pathway of tryptophan degradation. Kynurenine may be further oxidized to nicotinic acid, NAD(H) and NADP(H). Required for elimination of toxic metabolites. 
+156	CGD-NeC-019922|F5HCE4|Neurospora	367110.F5HCE4	100.0	810.1	SOF1	SOF1
+157	CGD-NeC-019923|F5HDV2|Neurospora	367110.F5HDV2	100.0	1403.3	F5HDV2	Transketolase; Catalyzes the transfer of a two-carbon ketol group from a ketose donor to an aldose acceptor, via a covalent intermediate with the cofactor thiamine pyrophosphate.
+158	CGD-NeC-019924|F5HES1|Neurospora	367110.F5HES1	100.0	1073.2	F5HES1	Aminotransferase
+159	CGD-NeC-019925|F5HG10|Neurospora	367110.F5HG10	100.0	305.1	F5HG10	DUF636 domain-containing protein
+160	CGD-NeC-019926|F5HG81|Neurospora	367110.F5HG81	100.0	1058.5	F5HG81	T-complex protein 1 subunit gamma
+161	CGD-NeC-019927|F5HH09|Neurospora	367110.F5HH09	100.0	2035.0	F5HH09	AMP deaminase
+162	CGD-NeC-019928|F5HHJ6|Neurospora	367110.F5HHJ6	100.0	994.2	F5HHJ6	Uncharacterized protein
+163	CGD-NeC-019929|F5HHZ9|Neurospora	367110.F5HHZ9	100.0	180.6	F5HHZ9	CFEM domain-containing protein
+164	CGD-NeC-019930|F5HI76|Neurospora	367110.F5HI76	100.0	1341.6	F5HI76	Uncharacterized protein
+165	CGD-NeC-019931|F5HIJ5|Neurospora	367110.F5HIJ5	100.0	487.3	F5HIJ5	60S ribosomal protein L16; Belongs to the universal ribosomal protein uL16 family. 
+166	CGD-NeC-019932|O42626|Neurospora	367110.O42626	100.0	1247.6	nrc-2	Serine/threonine-protein kinase nrc-2; Controls entry of the cell into the asexual developmental program. Required to repress entry into the conidiation program.
+167	CGD-NeC-019933|O59958|Neurospora	367110.O59958	100.0	592.4	cre-1	DNA-binding protein cre-1; Involved in carbon catabolite repression. Represses the transcription of a number of genes by binding to a GC-rich region in their promoter (By similarity); Belongs to the creA/MIG C2H2-type zinc-finger protein family.
+168	CGD-NeC-019934|O74225|Neurospora	367110.O74225	100.0	1294.6	hsp88	Heat shock protein hsp88; Belongs to the heat shock protein 70 family.
+169	CGD-NeC-019935|O74633|Neurospora	367110.O74633	100.0	2513.8	Un-18	DNA-directed RNA polymerase I subunit RPA2; DNA-dependent RNA polymerase catalyzes the transcription of DNA into RNA using the four ribonucleoside triphosphates as substrates. Second largest core component of RNA polymerase I which synthesizes ribosomal RNA precursors. Proposed to contribute to the polymerase catalytic activity and forms the polymerase active center together with the largest subunit. Pol I is composed of mobile elements and RPA2 is part of the core element with the central large cleft and probably a clamp element that moves to open and close the cleft (By similarity). 
+170	CGD-NeC-019936|P00365|Neurospora	367110.P00365	100.0	2112.4	gdh-1	NAD-specific glutamate dehydrogenase; Belongs to the Glu/Leu/Phe/Val dehydrogenases family. 
+171	CGD-NeC-019937|P02723|Neurospora	367110.P02723	100.0	617.8	aac	ADP,ATP carrier protein; Catalyzes the exchange of ADP and ATP across the mitochondrial inner membrane; Belongs to the mitochondrial carrier (TC 2.A.29) family. 
+172	CGD-NeC-019938|P05035|Neurospora	367110.P05035	100.0	738.4	pyr-4	Orotidine 5'-phosphate decarboxylase; Belongs to the OMP decarboxylase family.
+173	CGD-NeC-019939|P08978|Neurospora	367110.P08978	100.0	259.6	rpl-28	60S ribosomal protein L28; Belongs to the universal ribosomal protein uL15 family. 
+174	CGD-NeC-019940|P10255|Neurospora	367110.P10255	100.0	454.5	csr-1	Peptidyl-prolyl cis-trans isomerase, mitochondrial; PPIases accelerate the folding of proteins. It catalyzes the cis-trans isomerization of proline imidic peptide bonds in oligopeptides.
+175	CGD-NeC-019941|P10713|Neurospora	367110.P10713	100.0	73.2	con-10	Conidiation-specific protein 10
+176	CGD-NeC-019942|P11115|Neurospora	367110.P11115	100.0	421.8	cpc-1	Cross-pathway control protein 1; In N.crassa grown under amino acid starvation conditions, this protein is required for increasing the transcription of the genes coding for many amino acid biosynthetic pathways enzymes. This transcription factor binds and recognize the DNA sequence: 5'-TGACTC- 3'.
+177	CGD-NeC-019943|P11592|Neurospora	367110.P11592	100.0	1214.5	vma-1	V-type proton ATPase catalytic subunit A; Catalytic subunit of the peripheral V1 complex of vacuolar ATPase. V-ATPase vacuolar ATPase is responsible for acidifying a variety of intracellular compartments in eukaryotic cells.
+178	CGD-NeC-019944|P11913|Neurospora	367110.P11913	100.0	929.1	pep	Mitochondrial-processing peptidase subunit beta; Catalytic subunit of the essential mitochondrial processing protease (MPP), which cleaves the mitochondrial sequence off newly imported precursors proteins . Preferentially, cleaves after an arginine at position P2 . 
+179	CGD-NeC-019945|P13228|Neurospora	367110.P13228	100.0	1433.3	trp-3	Tryptophan synthase; In the C-terminal section; belongs to the TrpB family. 
+180	CGD-NeC-019946|P14804|Neurospora	367110.P14804	100.0	1198.7	gla-1	Glucoamylase
+181	CGD-NeC-019947|P19115|Neurospora	367110.P19115	100.0	292.4	rps-14	40S ribosomal protein S14; Belongs to the universal ribosomal protein uS11 family. 
+182	CGD-NeC-019948|P29070|Neurospora	367110.P29070	100.0	1807.0	chs-1	Chitin synthase 1; Plays a major role in cell wall biogenesis.
+183	CGD-NeC-019949|P33280|Neurospora	367110.P33280	100.0	728.4	aga-1	Arginase; Belongs to the arginase family.
+184	CGD-NeC-019950|P37211|Neurospora	367110.P37211	100.0	1059.7	atp-1	ATP synthase subunit alpha, mitochondrial; Mitochondrial membrane ATP synthase (F(1)F(0) ATP synthase or Complex V) produces ATP from ADP in the presence of a proton gradient across the membrane which is generated by electron transport complexes of the respiratory chain. F-type ATPases consist of two structural domains, F(1) - containing the extramembraneous catalytic core, and F(0) - containing the membrane proton channel, linked together by a central stalk and a peripheral stalk. During catalysis, ATP synthesis in the catalytic domain of F(1) is coupled via a rotary mechanism of the central 
+185	CGD-NeC-019951|P38667|Neurospora	367110.P38667	100.0	828.9	pgk-1	Phosphoglycerate kinase
+186	CGD-NeC-019952|P38671|Neurospora	367110.P38671	100.0	2755.7	cyt-5	DNA-directed RNA polymerase, mitochondrial; DNA-dependent RNA polymerase catalyzes the transcription of DNA into RNA using the four ribonucleoside triphosphates as substrates.
+187	CGD-NeC-019953|P38675|Neurospora	367110.P38675	100.0	1261.9	met-7	Cystathionine gamma-synthase; Catalyzes the formation of L-cystathionine from O-succinyl-L- homoserine (OSHS) and L-cysteine, via a gamma-replacement reaction. In the absence of thiol, catalyzes gamma-elimination to form 2- oxobutanoate, succinate and ammonia (By similarity).
+188	CGD-NeC-019954|P47950|Neurospora	367110.P47950	100.0	2238.8	cyt-4	Mitochondrial protein cyt-4; Required for RNA 5'- and 3'-end processing and splicing. May act on the RNA processing enzymes directly, or it may act on other regulatory molecules, which influence the activity or synthesis of these enzymes.
+189	CGD-NeC-019955|P51978|Neurospora	367110.P51978	100.0	670.2	cys-9	Thioredoxin reductase
+190	CGD-NeC-019956|P59670|Neurospora	367110.P59670	100.0	327.0	tim17	Mitochondrial import inner membrane translocase subunit tim17; Essential component of the TIM23 complex, a complex that mediates the translocation of transit peptide-containing proteins across the mitochondrial inner membrane.
+191	CGD-NeC-019957|P59671|Neurospora	367110.P59671	100.0	786.9	rpl-3	60S ribosomal protein L3
+192	CGD-NeC-019958|P78710|Neurospora	367110.P78710	100.0	1060.1	asd-1	Putative rhamnogalacturonase; Could be a pectinolytic enzyme that hydrolyzes the alpha-L- rhamnopyranosyl-(1,4)-alpha-D-galacturonopyranosyl glycosidic linkage by beta-elimination, thereby generating oligosaccharides terminating at the non-reducing end with a hex-4-enopyranosyluronic acid residue; Belongs to the polysaccharide lyase 4 family. 
+193	CGD-NeC-019959|P87252|Neurospora	367110.P87252	100.0	300.1	hex-1	Woronin body major protein; Major protein in the hexagonal crystals of Woronin bodies, a peroxisomal vesicle that seal the septal pore in response to cellular damage.
+194	CGD-NeC-019960|Q01302|Neurospora	367110.Q01302	100.0	256.5	ccg-6	Clock-controlled protein 6
+195	CGD-NeC-019961|Q01356|Neurospora	367110.Q01356	100.0	730.7	arg-13	Amino-acid transporter arg-13; Required for arginine biosynthesis. May participate in the export of matrix-made ornithine into the cytosol (Potential). ; Belongs to the mitochondrial carrier (TC 2.A.29) family. 
+196	CGD-NeC-019962|Q01369|Neurospora	367110.Q01369	100.0	560.5	cpc-2	Guanine nucleotide-binding protein subunit beta-like protein; Required to activate general amino acid control under conditions of amino acid limitation in the vegetative growth phase, and for formation of protoperithecia in preparation for the sexual phase of the life cycle of N.crassa.
+197	CGD-NeC-019963|Q01372|Neurospora	367110.Q01372	100.0	921.4	tef-1	Elongation factor 1-alpha; This protein promotes the GTP-dependent binding of aminoacyl- tRNA to the A-site of ribosomes during protein biosynthesis; Belongs to the TRAFAC class translation factor GTPase superfamily. Classic translation factor GTPase family. EF-Tu/EF-1A subfamily.
+198	CGD-NeC-019964|Q01408|Neurospora	367110.Q01408	100.0	1255.4	mus-18	UV-damage endonuclease; Endonuclease for the repair of UV-irradiated DNA. Involved in the excision of cyclobutane pyrimidine dimers (CPD) and 6-4 pyrimidine pyrimidones (6-4PP) which forms the UV damage repair (UVDR) pathway; Belongs to the uve1/UvsE family.
+199	CGD-NeC-019965|Q07103|Neurospora	367110.Q07103	100.0	753.4	fdh	Formate dehydrogenase; Catalyzes the NAD(+)-dependent oxidation of formate to carbon dioxide. Formate oxidation is the final step in the methanol oxidation pathway in methylotrophic microorganisms. Has a role in the detoxification of exogenous formate in non-methylotrophic organisms. 
+200	CGD-NeC-019966|Q1K4L9|Neurospora	367110.Q1K4L9	100.0	570.5	Q1K4L9	Uncharacterized protein
+201	CGD-NeC-019967|Q1K4N4|Neurospora	367110.Q1K4N4	100.0	1125.5	Q1K4N4	Sphingosine-1-phosphate phosphohydrolase
+202	CGD-NeC-019968|Q1K4N7|Neurospora	367110.Q1K4N7	100.0	822.4	Q1K4N7	Von Willebrand factor
+203	CGD-NeC-019969|Q1K4N9|Neurospora	367110.Q1K4N9	100.0	682.2	Q1K4N9	Plasma membrane iron permease
+204	CGD-NeC-019970|Q1K4P1|Neurospora	367110.Q1K4P1	100.0	259.2	Q1K4P1	Mitochondrial ribosomal protein subunit L32
+205	CGD-NeC-019971|Q1K4P8|Neurospora	367110.Q1K4P8	100.0	1200.7	Q1K4P8	Uncharacterized protein
+206	CGD-NeC-019972|Q1K4R2|Neurospora	367110.Q1K4R2	100.0	176.8	Q1K4R2	Transcription elongation factor 1 homolog; Transcription elongation factor implicated in the maintenance of proper chromatin structure in actively transcribed regions. ; Belongs to the ELOF1 family. 
+207	CGD-NeC-019973|Q1K4R8|Neurospora	367110.Q1K4R8	100.0	306.2	Q1K4R8	Uncharacterized protein
+208	CGD-NeC-019974|Q1K4W9|Neurospora	367110.Q1K4W9	100.0	545.0	Q1K4W9	Uncharacterized protein
+209	CGD-NeC-019975|Q1K4X0|Neurospora	367110.Q1K4X0	100.0	1991.1	Q1K4X0	WD repeat containing protein 48
+210	CGD-NeC-019976|Q1K4Y2|Neurospora	367110.Q1K4Y2	100.0	2402.5	dmm-1	JmjC domain-containing protein
+211	CGD-NeC-019977|Q1K4Y9|Neurospora	367110.Q1K4Y9	100.0	520.8	Q1K4Y9	Cytochrome-c oxidase assembly protein
+212	CGD-NeC-019978|Q1K4Z4|Neurospora	367110.Q1K4Z4	100.0	1568.1	Q1K4Z4	Dolichyl-phosphate-mannose-protein mannosyltransferase 2
+213	CGD-NeC-019979|Q1K519|Neurospora	367110.Q1K519	100.0	1545.0	iap-1	Intermembrane space AAA protease IAP-1
+214	CGD-NeC-019980|Q1K534|Neurospora	367110.Q1K534	100.0	1455.7	Q1K534	DIL and Ankyrin domain-containing protein
+215	CGD-NeC-019981|Q1K547|Neurospora	367110.Q1K547	100.0	236.5	Q1K547	Uncharacterized protein
+216	CGD-NeC-019982|Q1K557|Neurospora	367110.Q1K557	100.0	1505.0	Q1K557	Pre-mRNA splicing factor ATP-dependent RNA helicase PRP43
+217	CGD-NeC-019983|Q1K573|Neurospora	367110.Q1K573	100.0	276.2	Q1K573	Uncharacterized protein
+218	CGD-NeC-019984|Q1K580|Neurospora	367110.Q1K580	100.0	269.6	Q1K580	60S ribosomal protein L27; Belongs to the eukaryotic ribosomal protein eL27 family. 
+219	CGD-NeC-019985|Q1K592|Neurospora	367110.Q1K592	100.0	172.9	Q1K592	Uncharacterized protein
+220	CGD-NeC-019986|Q1K593|Neurospora	367110.Q1K593	100.0	677.2	Q1K593	Uncharacterized protein
+221	CGD-NeC-019987|Q1K599|Neurospora	367110.Q1K599	100.0	600.5	Q1K599	Uncharacterized protein
+222	CGD-NeC-019988|Q1K5D7|Neurospora	367110.Q1K5D7	100.0	354.0	Q1K5D7	Uncharacterized protein
+223	CGD-NeC-019989|Q1K5D9|Neurospora	367110.Q1K5D9	100.0	229.6	acw-6	Anchored cell wall protein 6
+224	CGD-NeC-019990|Q1K5E9|Neurospora	367110.Q1K5E9	100.0	998.8	Q1K5E9	Aldehyde dehydrogenase; Belongs to the aldehyde dehydrogenase family. 
+225	CGD-NeC-019991|Q1K5G5|Neurospora	367110.Q1K5G5	100.0	369.0	Q1K5G5	KxDL domain-containing protein
+226	CGD-NeC-019992|Q1K5J5|Neurospora	367110.Q1K5J5	100.0	302.0	Q1K5J5	Uncharacterized protein
+227	CGD-NeC-019993|Q1K5K7|Neurospora	367110.Q1K5K7	100.0	591.7	Q1K5K7	Calcineurin binding protein
+228	CGD-NeC-019994|Q1K5M9|Neurospora	367110.Q1K5M9	100.0	271.2	Q1K5M9	Uncharacterized protein
+229	CGD-NeC-019995|Q1K5N1|Neurospora	367110.Q1K5N1	100.0	946.8	gh7-4	Glucanase; Belongs to the glycosyl hydrolase 7 (cellulase C) family. 
+230	CGD-NeC-019996|Q1K5Q6|Neurospora	367110.Q1K5Q6	100.0	671.8	Q1K5Q6	Uncharacterized protein
+231	CGD-NeC-019997|Q1K5R2|Neurospora	367110.Q1K5R2	100.0	1182.9	Q1K5R2	Asparaginase
+232	CGD-NeC-019998|Q1K5R7|Neurospora	367110.Q1K5R7	100.0	2271.9	Q1K5R7	Glycerophosphocholine phosphodiesterase Gde1
+233	CGD-NeC-019999|Q1K5R9|Neurospora	367110.Q1K5R9	100.0	1553.9	Q1K5R9	SPX domain-containing protein
+234	CGD-NeC-020000|Q1K5T0|Neurospora	367110.Q1K5T0	100.0	529.6	Q1K5T0	Uncharacterized protein
+235	CGD-NeC-020001|Q1K5V9|Neurospora	367110.Q1K5V9	100.0	236.5	Q1K5V9	40S ribosomal protein S24; Belongs to the eukaryotic ribosomal protein eS24 family. 
+236	CGD-NeC-020002|Q1K5W7|Neurospora	367110.Q1K5W7	100.0	949.9	Q1K5W7	MFS glucose transporter; Belongs to the major facilitator superfamily. Sugar transporter (TC 2.A.1.1) family.
+237	CGD-NeC-020003|Q1K5X8|Neurospora	367110.Q1K5X8	100.0	772.7	Q1K5X8	TFIIIC_sub6 domain-containing protein
+238	CGD-NeC-020004|Q1K5Z2|Neurospora	367110.Q1K5Z2	100.0	1706.8	Q1K5Z2	DNA repair protein Rtt107
+239	CGD-NeC-020005|Q1K5Z3|Neurospora	367110.Q1K5Z3	100.0	923.3	Q1K5Z3	3-hydroxy-3-methylglutaryl coenzyme A synthase; This enzyme condenses acetyl-CoA with acetoacetyl-CoA to form HMG-CoA, which is the substrate for HMG-CoA reductase. 
+240	CGD-NeC-020006|Q1K5Z4|Neurospora	367110.Q1K5Z4	100.0	1226.5	Q1K5Z4	Mitochondrial chaperone bcs1
+241	CGD-NeC-020007|Q1K600|Neurospora	367110.Q1K600	100.0	361.3	Q1K600	Pre-rRNA processing protein
+242	CGD-NeC-020008|Q1K618|Neurospora	367110.Q1K618	100.0	1334.7	Q1K618	Mitochondrial ATPase
+243	CGD-NeC-020009|Q1K645|Neurospora	367110.Q1K645	100.0	373.6	Q1K645	Uncharacterized protein
+244	CGD-NeC-020010|Q1K666|Neurospora	367110.Q1K666	100.0	1441.4	Q1K666	NIMA interactive protein
+245	CGD-NeC-020011|Q1K670|Neurospora	367110.Q1K670	100.0	1203.7	Q1K670	ATP-binding cassette sub-family F member 2
+246	CGD-NeC-020012|Q1K678|Neurospora	367110.Q1K678	100.0	536.2	ccg-13	BYS1 domain-containing protein
+247	CGD-NeC-020013|Q1K686|Neurospora	367110.Q1K686	100.0	179.9	acw-5	Anchored cell wall protein 5
+248	CGD-NeC-020014|Q1K688|Neurospora	367110.Q1K688	100.0	604.0	Q1K688	Thymidylate kinase
+249	CGD-NeC-020015|Q1K692|Neurospora	367110.Q1K692	100.0	1520.8	Q1K692	Fungal_trans domain-containing protein
+250	CGD-NeC-020016|Q1K6A4|Neurospora	367110.Q1K6A4	100.0	837.0	Q1K6A4	Peptidase M20 domain-containing protein 2; Belongs to the peptidase M20A family. 
+251	CGD-NeC-020017|Q1K6B5|Neurospora	367110.Q1K6B5	100.0	254.6	Q1K6B5	Uncharacterized protein
+252	CGD-NeC-020018|Q1K6B7|Neurospora	367110.Q1K6B7	100.0	369.8	Q1K6B7	Uncharacterized protein
+253	CGD-NeC-020019|Q1K6D3|Neurospora	367110.Q1K6D3	100.0	1499.6	Q1K6D3	Galactose oxidase
+254	CGD-NeC-020020|Q1K6D5|Neurospora	367110.Q1K6D5	100.0	1647.1	Q1K6D5	Uncharacterized protein
+255	CGD-NeC-020021|Q1K6E4|Neurospora	367110.Q1K6E4	100.0	651.7	gpr-6	Vacuolar membrane PQ loop repeat protein
+256	CGD-NeC-020022|Q1K6F0|Neurospora	367110.Q1K6F0	100.0	448.0	Q1K6F0	Uncharacterized protein
+257	CGD-NeC-020023|Q1K6F5|Neurospora	367110.Q1K6F5	100.0	1405.6	Q1K6F5	Uncharacterized protein
+258	CGD-NeC-020024|Q1K6G9|Neurospora	367110.Q1K6G9	100.0	495.0	Q1K6G9	Altered inheritance of mitochondria protein 24, mitochondrial
+259	CGD-NeC-020025|Q1K6I2|Neurospora	367110.Q1K6I2	100.0	115.9	tom6	TOM6
+260	CGD-NeC-020026|Q1K6J1|Neurospora	367110.Q1K6J1	100.0	744.2	Q1K6J1	Sphingolipid delta(4)-desaturase; Delta(4)-fatty-acid desaturase which introduces a double bond at the 4-position in the long-chain base (LCB) of ceramides. 
+261	CGD-NeC-020027|Q1K6L0|Neurospora	367110.Q1K6L0	100.0	521.5	Q1K6L0	MSP domain-containing protein
+262	CGD-NeC-020028|Q1K6M6|Neurospora	367110.Q1K6M6	100.0	856.7	Q1K6M6	Lipid particle protein
+263	CGD-NeC-020029|Q1K6M8|Neurospora	367110.Q1K6M8	100.0	757.3	Q1K6M8	S-(hydroxymethyl)glutathione dehydrogenase; Belongs to the zinc-containing alcohol dehydrogenase family. Class-III subfamily.
+264	CGD-NeC-020030|Q1K6M9|Neurospora	367110.Q1K6M9	100.0	157.5	Q1K6M9	AN1-type zinc finger protein
+265	CGD-NeC-020031|Q1K6N6|Neurospora	367110.Q1K6N6	100.0	1127.9	Q1K6N6	Uncharacterized protein
+266	CGD-NeC-020032|Q1K6P5|Neurospora	367110.Q1K6P5	100.0	775.0	Q1K6P5	Low-temperature viability protein ltv1
+267	CGD-NeC-020033|Q1K6Q8|Neurospora	367110.Q1K6Q8	100.0	720.3	Q1K6Q8	Uncharacterized protein
+268	CGD-NeC-020034|Q1K6Q9|Neurospora	367110.Q1K6Q9	100.0	497.3	Q1K6Q9	O-methyltransferase family 3
+269	CGD-NeC-020035|Q1K6R0|Neurospora	367110.Q1K6R0	100.0	863.2	Q1K6R0	AP-2 complex subunit mu-1; Belongs to the adaptor complexes medium subunit family. 
+270	CGD-NeC-020036|Q1K6R7|Neurospora	367110.Q1K6R7	100.0	518.8	Q1K6R7	Prohibitin
+271	CGD-NeC-020037|Q1K6S6|Neurospora	367110.Q1K6S6	100.0	694.5	ccg-15	Clock-controlled gene-15, variant
+272	CGD-NeC-020038|Q1K6T3|Neurospora	367110.Q1K6T3	100.0	805.4	Q1K6T3	Centromere/microtubule-binding protein CBF5
+273	CGD-NeC-020039|Q1K6T6|Neurospora	367110.Q1K6T6	100.0	763.5	Q1K6T6	J domain-containing protein
+274	CGD-NeC-020040|Q1K6U8|Neurospora	367110.Q1K6U8	100.0	1150.6	Q1K6U8	Uncharacterized protein
+275	CGD-NeC-020041|Q1K6Z3|Neurospora	367110.Q1K6Z3	100.0	245.0	Q1K6Z3	60S ribosomal protein L22
+276	CGD-NeC-020042|Q1K709|Neurospora	367110.Q1K709	100.0	699.9	Q1K709	Uncharacterized protein
+277	CGD-NeC-020043|Q1K713|Neurospora	367110.Q1K713	100.0	1605.9	Q1K713	DNA helicase; Belongs to the MCM family.
+278	CGD-NeC-020044|Q1K720|Neurospora	367110.Q1K720	100.0	1824.3	Q1K720	Spindle pole body component
+279	CGD-NeC-020045|Q1K755|Neurospora	367110.Q1K755	100.0	440.7	Q1K755	Cupin domain-containing protein
+280	CGD-NeC-020046|Q1K771|Neurospora	367110.Q1K771	100.0	529.3	Q1K771	Lipid binding protein
+281	CGD-NeC-020047|Q1K775|Neurospora	367110.Q1K775	100.0	1494.9	Q1K775	Pentafunctional AROM polypeptide
+282	CGD-NeC-020048|Q1K7A2|Neurospora	367110.Q1K7A2	100.0	1205.7	dak-1	Dihydroxyacetone kinase 1
+283	CGD-NeC-020049|Q1K7A4|Neurospora	367110.Q1K7A4	100.0	1011.5	Q1K7A4	3-hydroxyisobutyryl-CoA hydrolase, mitochondrial; Hydrolyzes 3-hydroxyisobutyryl-CoA (HIBYL-CoA), a saline catabolite; Belongs to the enoyl-CoA hydratase/isomerase family. 
+284	CGD-NeC-020050|Q1K7B7|Neurospora	367110.Q1K7B7	100.0	696.0	Q1K7B7	60S ribosomal protein L4-A
+285	CGD-NeC-020051|Q1K7C1|Neurospora	367110.Q1K7C1	100.0	552.4	Q1K7C1	EBP domain-containing protein
+286	CGD-NeC-020052|Q1K7C7|Neurospora	367110.Q1K7C7	100.0	378.3	Q1K7C7	BZIP domain-containing protein
+287	CGD-NeC-020053|Q1K7G8|Neurospora	367110.Q1K7G8	100.0	589.7	Q1K7G8	Sorbitol utilization protein SOU2
+288	CGD-NeC-020054|Q1K7I1|Neurospora	367110.Q1K7I1	100.0	176.0	Q1K7I1	Uncharacterized protein
+289	CGD-NeC-020055|Q1K7I3|Neurospora	367110.Q1K7I3	100.0	1834.3	Q1K7I3	Extracellular developmental signal biosynthesis protein FluG; Belongs to the glutamine synthetase family. 
+290	CGD-NeC-020056|Q1K7K9|Neurospora	367110.Q1K7K9	100.0	1195.3	Q1K7K9	Mitochondrial GTPase
+291	CGD-NeC-020057|Q1K7M2|Neurospora	367110.Q1K7M2	100.0	1219.9	Q1K7M2	Acylase ACY 1
+292	CGD-NeC-020058|Q1K7N0|Neurospora	367110.Q1K7N0	100.0	631.3	Q1K7N0	SNARE complex subunit; Belongs to the syntaxin family. 
+293	CGD-NeC-020059|Q1K7N5|Neurospora	367110.Q1K7N5	100.0	1109.7	Q1K7N5	Phosphoesterase
+294	CGD-NeC-020060|Q1K7Q5|Neurospora	367110.Q1K7Q5	100.0	219.2	Q1K7Q5	Uncharacterized protein
+295	CGD-NeC-020061|Q1K7T9|Neurospora	367110.Q1K7T9	100.0	820.8	Q1K7T9	Dihydrofolate synthetase; Belongs to the folylpolyglutamate synthase family. 
+296	CGD-NeC-020062|Q1K7W0|Neurospora	367110.Q1K7W0	100.0	680.6	Q1K7W0	Uncharacterized protein
+297	CGD-NeC-020063|Q1K7X6|Neurospora	367110.Q1K7X6	100.0	657.5	SIS1	SIS1
+298	CGD-NeC-020064|Q1K7Z7|Neurospora	367110.Q1K7Z7	100.0	1143.3	Q1K7Z7	Zinc finger containing protein
+299	CGD-NeC-020065|Q1K7Z8|Neurospora	367110.Q1K7Z8	100.0	1180.6	Q1K7Z8	FAD binding domain-containing protein
+300	CGD-NeC-020066|Q1K812|Neurospora	367110.Q1K812	100.0	731.9	Q1K812	Phospholipase A2
+301	CGD-NeC-020067|Q1K835|Neurospora	367110.Q1K835	100.0	1607.4	Q1K835	Para-aminobenzoic acid synthetase
+302	CGD-NeC-020068|Q1K847|Neurospora	367110.Q1K847	100.0	620.9	Q1K847	DUF410 domain-containing protein
+303	CGD-NeC-020069|Q1K863|Neurospora	367110.Q1K863	100.0	1128.6	Q1K863	AMP-binding domain-containing protein
+304	CGD-NeC-020070|Q1K865|Neurospora	367110.Q1K865	100.0	856.3	Q1K865	LEM3/CDC50 family protein; Belongs to the CDC50/LEM3 family. 
+305	CGD-NeC-020071|Q1K868|Neurospora	367110.Q1K868	100.0	857.8	gel-1	1,3-beta-glucanosyltransferase; Splits internally a 1,3-beta-glucan molecule and transfers the newly generated reducing end (the donor) to the non-reducing end of another 1,3-beta-glucan molecule (the acceptor) forming a 1,3-beta linkage, resulting in the elongation of 1,3-beta-glucan chains in the cell wall; Belongs to the glycosyl hydrolase 72 family. 
+306	CGD-NeC-020072|Q1K872|Neurospora	367110.Q1K872	100.0	235.0	Q1K872	SMP domain-containing protein
+307	CGD-NeC-020073|Q1K873|Neurospora	367110.Q1K873	100.0	679.1	Q1K873	Short-chain dehydrogenase
+308	CGD-NeC-020074|Q1K874|Neurospora	367110.Q1K874	100.0	1276.9	Q1K874	L-amino acid oxidase
+309	CGD-NeC-020075|Q1K8A4|Neurospora	367110.Q1K8A4	100.0	172.6	Q1K8A4	Uncharacterized protein
+310	CGD-NeC-020076|Q1K8A5|Neurospora	367110.Q1K8A5	100.0	367.1	Q1K8A5	AltA1 domain-containing protein
+311	CGD-NeC-020077|Q1K8A7|Neurospora	367110.Q1K8A7	100.0	194.5	Q1K8A7	Uncharacterized protein
+312	CGD-NeC-020078|Q1K8F7|Neurospora	367110.Q1K8F7	100.0	1234.6	cyt-19	ATP-dependent RNA helicase cyt-19, mitochondrial; Acts as an RNA chaperone to resolve non-native structures formed during RNA folding to promote mitochondrial group I, but also group II, intron splicing. Functions predominantly by disrupting accessible RNA secondary structure and depends on spontaneous openings in tightly packed RNAs to gain access to RNA helices.  ECO:0000269|PubMed:16505350, ECO:0000269|PubMed:17075070, ECO:0000269|PubMed:17081564, ECO:0000269|PubMed:17311413, ECO:0000269|PubMed:17960235, ECO:0000269|PubMed:19088196, ECO:0000269|PubMed:19393667, ECO:0000269|PubMed:21878649,;
+313	CGD-NeC-020079|Q1K8Q2|Neurospora	367110.Q1K8Q2	100.0	277.7	Q1K8Q2	Uncharacterized protein
+314	CGD-NeC-020080|Q1K8R8|Neurospora	367110.Q1K8R8	100.0	612.5	Q1K8R8	Endoglucanase
+315	CGD-NeC-020081|Q1K8S0|Neurospora	367110.Q1K8S0	100.0	195.3	Q1K8S0	Uncharacterized protein
+316	CGD-NeC-020082|Q1K8U6|Neurospora	367110.Q1K8U6	100.0	1358.6	Q1K8U6	Uncharacterized protein
+317	CGD-NeC-020083|Q1K8V2|Neurospora	367110.Q1K8V2	100.0	193.7	Q1K8V2	Mitochondrial ribosomal protein S19; Belongs to the universal ribosomal protein uS19 family. 
+318	CGD-NeC-020084|Q1K8W1|Neurospora	367110.Q1K8W1	100.0	1282.3	Q1K8W1	Uncharacterized protein
+319	CGD-NeC-020085|Q1K8W4|Neurospora	367110.Q1K8W4	100.0	585.9	Q1K8W4	Inorganic pyrophosphatase
+320	CGD-NeC-020086|Q1K8X7|Neurospora	367110.Q1K8X7	100.0	1717.6	vad-5	Fungal specific transcription factor
+321	CGD-NeC-020087|Q1K8Z4|Neurospora	367110.Q1K8Z4	100.0	1276.2	Q1K8Z4	Uncharacterized protein
+322	CGD-NeC-020088|Q1K911|Neurospora	367110.Q1K911	100.0	436.4	pls-1	Tetraspanin
+323	CGD-NeC-020089|Q1K916|Neurospora	367110.Q1K916	100.0	3906.3	Q1K916	tRNA-splicing endonuclease
+324	CGD-NeC-020090|Q1K919|Neurospora	367110.Q1K919	100.0	1004.2	Q1K919	Uncharacterized protein
+325	CGD-NeC-020091|Q1K929|Neurospora	367110.Q1K929	100.0	699.5	mei-3	DNA repair protein RAD51 homolog; Required both for recombination and for the repair of DNA damage caused by X-rays; Belongs to the RecA family. RAD51 subfamily. 
+326	CGD-NeC-020092|Q1K932|Neurospora	367110.Q1K932	100.0	1200.3	Q1K932	Aminotran_5 domain-containing protein
+327	CGD-NeC-020093|Q1K947|Neurospora	367110.Q1K947	100.0	823.5	Q1K947	UPD-GlcNAc transporter
+328	CGD-NeC-020094|Q6M981|Neurospora	367110.Q6M981	100.0	238.4	fkr-3	FK506-binding protein 1B; PPIases accelerate the folding of proteins. It catalyzes the cis-trans isomerization of proline imidic peptide bonds in oligopeptides (By similarity); Belongs to the FKBP-type PPIase family. FKBP1 subfamily. 
+329	CGD-NeC-020095|Q6MV78|Neurospora	367110.Q6MV78	100.0	456.8	Q6MV78	FAS1 domain-containing protein NCU02579
+330	CGD-NeC-020096|Q6MW50|Neurospora	367110.Q6MW50	100.0	1355.9	Q6MW50	Uncharacterized protein NCU10291
+331	CGD-NeC-020097|Q7RU10|Neurospora	367110.Q7RU10	100.0	486.5	Q7RU10	Zinc finger protein 58
+332	CGD-NeC-020098|Q7RU21|Neurospora	367110.Q7RU21	100.0	786.9	Q7RU21	Uncharacterized protein
+333	CGD-NeC-020099|Q7RUH3|Neurospora	367110.Q7RUH3	100.0	987.3	Q7RUH3	Erythromycin esterase
+334	CGD-NeC-020100|Q7RUT4|Neurospora	367110.Q7RUT4	100.0	902.1	Q7RUT4	Uncharacterized protein
+335	CGD-NeC-020101|Q7RV16|Neurospora	367110.Q7RV16	100.0	1317.8	Q7RV16	3'-5' exonuclease/helicase
+336	CGD-NeC-020102|Q7RV23|Neurospora	367110.Q7RV23	100.0	1052.4	hsf-2	HSF-type DNA-binding domain-containing protein
+337	CGD-NeC-020103|Q7RV26|Neurospora	367110.Q7RV26	100.0	1693.7	Q7RV26	HET domain-containing protein
+338	CGD-NeC-020104|Q7RV27|Neurospora	367110.Q7RV27	100.0	1123.6	Q7RV27	Zn(2)-C6 fungal-type domain-containing protein
+339	CGD-NeC-020105|Q7RV85|Neurospora	367110.Q7RV85	100.0	860.5	emp-7	Enolase
+340	CGD-NeC-020106|Q7RVD1|Neurospora	367110.Q7RVD1	100.0	505.0	Q7RVD1	Phosphopantothenoylcysteine decarboxylase
+341	CGD-NeC-020107|Q7RVK6|Neurospora	367110.Q7RVK6	100.0	472.2	nfh-2	14-3-3 family protein 7; Belongs to the 14-3-3 family. 
+342	CGD-NeC-020108|Q7RVN0|Neurospora	367110.Q7RVN0	100.0	350.9	rpl-11	60S ribosomal protein L11; Component of the ribosome, a large ribonucleoprotein complex responsible for the synthesis of proteins in the cell. The small ribosomal subunit (SSU) binds messenger RNAs (mRNAs) and translates the encoded message by selecting cognate aminoacyl-transfer RNA (tRNA) molecules. The large subunit (LSU) contains the ribosomal catalytic site termed the peptidyl transferase center (PTC), which catalyzes the formation of peptide bonds, thereby polymerizing the amino acids delivered by tRNAs into a polypeptide chain. The nascent polypeptides leave the ribosome through a tunne
+343	CGD-NeC-020109|Q7RVN2|Neurospora	367110.Q7RVN2	100.0	171.4	crp-6	40S ribosomal protein S27
+344	CGD-NeC-020110|Q7RVQ9|Neurospora	367110.Q7RVQ9	100.0	504.6	Q7RVQ9	60S ribosomal protein L2
+345	CGD-NeC-020111|Q7RVS4|Neurospora	367110.Q7RVS4	100.0	1762.7	ccg-9	Clock-controlled protein 9
+346	CGD-NeC-020112|Q7RVS8|Neurospora	367110.Q7RVS8	100.0	895.2	camk-2	Calcium/calmodulin-dependent protein kinase type I; Belongs to the protein kinase superfamily. 
+347	CGD-NeC-020113|Q7RVS9|Neurospora	367110.Q7RVS9	100.0	1208.4	acu-6	Phosphoenolpyruvate carboxykinase (ATP); Belongs to the phosphoenolpyruvate carboxykinase (ATP) family.
+348	CGD-NeC-020114|Q7RVX1|Neurospora	367110.Q7RVX1	100.0	855.1	oxa-1	Mitochondrial export translocase Oxa1
+349	CGD-NeC-020115|Q7RW00|Neurospora	367110.Q7RW00	100.0	1153.3	nox-1	NADPH oxidase 1
+350	CGD-NeC-020116|Q7RW06|Neurospora	367110.Q7RW06	100.0	1105.1	hsp70-2	Heat shock protein 70; Belongs to the heat shock protein 70 family. 
+351	CGD-NeC-020117|Q7RW15|Neurospora	367110.Q7RW15	100.0	242.7	Q7RW15	60s ribosomal protein
+352	CGD-NeC-020118|Q7RW67|Neurospora	367110.Q7RW67	100.0	1188.7	Q7RW67	Uncharacterized protein
+353	CGD-NeC-020119|Q7RW75|Neurospora	367110.Q7RW75	100.0	755.4	Q7RW75	MYG1 protein
+354	CGD-NeC-020120|Q7RW96|Neurospora	367110.Q7RW96	100.0	491.5	Q7RW96	Heat shock protein 30; Belongs to the small heat shock protein (HSP20) family. 
+355	CGD-NeC-020121|Q7RWB5|Neurospora	367110.Q7RWB5	100.0	1417.9	Q7RWB5	Uncharacterized protein
+356	CGD-NeC-020122|Q7RWB7|Neurospora	367110.Q7RWB7	100.0	1082.4	Q7RWB7	Prolyl-tRNA synthetase
+357	CGD-NeC-020123|Q7RWD2|Neurospora	367110.Q7RWD2	100.0	466.8	Q7RWD2	HHE domain-containing protein
+358	CGD-NeC-020124|Q7RWD3|Neurospora	367110.Q7RWD3	100.0	894.0	Q7RWD3	Uncharacterized protein
+359	CGD-NeC-020125|Q7RWE2|Neurospora	367110.Q7RWE2	100.0	245.0	Q7RWE2	Cytochrome c oxidase assembly protein COX20, mitochondrial; Involved in the assembly of the cytochrome c oxidase complex. ; Belongs to the COX20 family. 
+360	CGD-NeC-020126|Q7RWG7|Neurospora	367110.Q7RWG7	100.0	339.7	Q7RWG7	SNF7 family protein
+361	CGD-NeC-020127|Q7RWH8|Neurospora	367110.Q7RWH8	100.0	1449.9	Q7RWH8	Uncharacterized protein
+362	CGD-NeC-020128|Q7RWJ3|Neurospora	367110.Q7RWJ3	100.0	1280.8	Q7RWJ3	Leucine Rich Repeat domain-containing protein
+363	CGD-NeC-020129|Q7RWJ5|Neurospora	367110.Q7RWJ5	100.0	723.8	Q7RWJ5	Alkyl transferase; Belongs to the UPP synthase family. 
+364	CGD-NeC-020130|Q7RWK7|Neurospora	367110.Q7RWK7	100.0	535.8	Q7RWK7	Metal homeostatis protein bsd2
+365	CGD-NeC-020131|Q7RWL9|Neurospora	367110.Q7RWL9	100.0	2511.5	Q7RWL9	Niemann-Pick C1 protein
+366	CGD-NeC-020132|Q7RWM9|Neurospora	367110.Q7RWM9	100.0	828.2	swf-1	Palmitoyltransferase SWF1; Palmitoyltransferase that targets several endosomal SNAREs. Palmitoylates the SNAREs at cysteine residues close to the cytoplasmic end of their transmembrane domain. May have a role in the cellular quality control of transmembrane domain-containing proteins (By similarity); Belongs to the DHHC palmitoyltransferase family. SWF1 subfamily.
+367	CGD-NeC-020133|Q7RWP0|Neurospora	367110.Q7RWP0	100.0	982.2	Q7RWP0	PKS_ER domain-containing protein
+368	CGD-NeC-020134|Q7RWR2|Neurospora	367110.Q7RWR2	100.0	854.0	Q7RWR2	Glutathione S-transferase Gst3; Belongs to the GST superfamily. 
+369	CGD-NeC-020135|Q7RWR8|Neurospora	367110.Q7RWR8	100.0	335.1	cwc-26	Pre-mRNA-splicing factor cwc-26; Involved in pre-mRNA splicing.
+370	CGD-NeC-020136|Q7RWU0|Neurospora	367110.Q7RWU0	100.0	585.1	EFM4	Protein-lysine N-methyltransferase EFM4; S-adenosyl-L-methionine-dependent protein-lysine N- methyltransferase that mono- and dimethylates elongation factor 1-alpha at 'Lys-316'. May play a role in intracellular transport. ; Belongs to the class I-like SAM-binding methyltransferase superfamily. EFM4 family.
+371	CGD-NeC-020137|Q7RWU3|Neurospora	367110.Q7RWU3	100.0	345.1	nuo18.4	NADH:ubiquinone oxidoreductase 18.4kD subunit
+372	CGD-NeC-020138|Q7RWX0|Neurospora	367110.Q7RWX0	100.0	254.2	Q7RWX0	Mitochondrial pyruvate carrier; Mediates the uptake of pyruvate into mitochondria. ; Belongs to the mitochondrial pyruvate carrier (MPC) (TC 2.A.105) family.
+373	CGD-NeC-020139|Q7RWX8|Neurospora	367110.Q7RWX8	100.0	599.4	faeD-3.544	Feruloyl esterase D; Involved in degradation of plant cell walls. Hydrolyzes the feruloyl-arabinose ester bond in arabinoxylans as well as the feruloyl- galactose and feruloyl-arabinose ester bonds in pectin (By similarity). Active against methyl esters of ferulate (MFA), sinapate (MSA), caffeate (MCA) and p-coumarate (MpCA) . 
+374	CGD-NeC-020140|Q7RX28|Neurospora	367110.Q7RX28	100.0	1865.5	Q7RX28	Ribosome biogenesis protein
+375	CGD-NeC-020141|Q7RX33|Neurospora	367110.Q7RX33	100.0	1799.3	egt-1	L-histidine N(alpha)-methyltransferase; Catalyzes the SAM-dependent triple methylation of the alpha- amino group of histidine to form hercynine and subsequent conjugation with cysteine and oxygen to form hercynylcysteine sulfoxide, the first two steps in the biosynthesis pathway of ergothioneine . Ergothioneine is an antioxidant against peroxide in conidia and contributes to conidial longevity (PubMed:22209968, PubMed:25446508); In the N-terminal section; belongs to the methyltransferase superfamily. EgtD family.
+376	CGD-NeC-020142|Q7RX40|Neurospora	367110.Q7RX40	100.0	316.6	Q7RX40	60S ribosomal protein L19; Belongs to the universal ribosomal protein uL11 family. 
+377	CGD-NeC-020143|Q7RX47|Neurospora	367110.Q7RX47	100.0	1999.2	Q7RX47	Trehalose-phosphatase
+378	CGD-NeC-020144|Q7RX48|Neurospora	367110.Q7RX48	100.0	457.2	Q7RX48	GFA domain-containing protein
+379	CGD-NeC-020145|Q7RX50|Neurospora	367110.Q7RX50	100.0	766.9	Q7RX50	2OG-Fe(II) oxygenase; Belongs to the iron/ascorbate-dependent oxidoreductase family.
+380	CGD-NeC-020146|Q7RX52|Neurospora	367110.Q7RX52	100.0	587.0	Q7RX52	Exonuclease domain-containing protein
+381	CGD-NeC-020147|Q7RX89|Neurospora	367110.Q7RX89	100.0	823.2	Q7RX89	GH16 domain-containing protein
+382	CGD-NeC-020148|Q7RXA0|Neurospora	367110.Q7RXA0	100.0	619.4	mig-11	Carboxyvinyl-carboxyphosphonate phosphorylmutase
+383	CGD-NeC-020149|Q7RXB0|Neurospora	367110.Q7RXB0	100.0	1565.4	Q7RXB0	Phosphoribosylformylglycinamidine cyclo-ligase
+384	CGD-NeC-020150|Q7RXB2|Neurospora	367110.Q7RXB2	100.0	218.4	Q7RXB2	Uncharacterized protein
+385	CGD-NeC-020151|Q7RXB4|Neurospora	367110.Q7RXB4	100.0	711.4	Q7RXB4	S-formylglutathione hydrolase; Serine hydrolase involved in the detoxification of formaldehyde.
+386	CGD-NeC-020152|Q7RXB5|Neurospora	367110.Q7RXB5	100.0	1550.0	MesA	MesA protein
+387	CGD-NeC-020153|Q7RXC5|Neurospora	367110.Q7RXC5	100.0	1007.7	Q7RXC5	Monooxygenase
+388	CGD-NeC-020154|Q7RXC6|Neurospora	367110.Q7RXC6	100.0	251.9	Q7RXC6	Uncharacterized protein
+389	CGD-NeC-020155|Q7RXD8|Neurospora	367110.Q7RXD8	100.0	684.5	Q7RXD8	Ketoreductase
+390	CGD-NeC-020156|Q7RXH4|Neurospora	367110.Q7RXH4	100.0	706.1	tif-34	Eukaryotic translation initiation factor 3 subunit I; Component of the eukaryotic translation initiation factor 3 (eIF-3) complex, which is involved in protein synthesis of a specialized repertoire of mRNAs and, together with other initiation factors, stimulates binding of mRNA and methionyl-tRNAi to the 40S ribosome. The eIF-3 complex specifically targets and initiates translation of a subset of mRNAs involved in cell proliferation. 
+391	CGD-NeC-020157|Q7RXJ4|Neurospora	367110.Q7RXJ4	100.0	347.4	Q7RXJ4	60S ribosomal protein L18
+392	CGD-NeC-020158|Q7RXS5|Neurospora	367110.Q7RXS5	100.0	1077.0	Q7RXS5	Protein phosphatase 2C isoform beta
+393	CGD-NeC-020159|Q7RXT5|Neurospora	367110.Q7RXT5	100.0	2027.3	Q7RXT5	PHD-type domain-containing protein
+394	CGD-NeC-020160|Q7RXW8|Neurospora	367110.Q7RXW8	100.0	1165.6	cpyA	Carboxypeptidase Y homolog A; Vacuolar carboxypeptidase involved in degradation of small peptides. Digests preferentially peptides containing an aliphatic or hydrophobic residue in P1' position, as well as methionine, leucine or phenylalanine in P1 position of ester substrate (By similarity). 
+395	CGD-NeC-020161|Q7RXY1|Neurospora	367110.Q7RXY1	100.0	253.8	crp-63	60S ribosomal protein L32; Belongs to the eukaryotic ribosomal protein eL32 family. 
+396	CGD-NeC-020162|Q7RXZ3|Neurospora	367110.Q7RXZ3	100.0	754.2	Q7RXZ3	Uncharacterized protein
+397	CGD-NeC-020163|Q7RY31|Neurospora	367110.Q7RY31	100.0	427.6	app	DUF1881 domain-containing protein
+398	CGD-NeC-020164|Q7RY38|Neurospora	367110.Q7RY38	100.0	420.6	Q7RY38	Uncharacterized protein
+399	CGD-NeC-020165|Q7RY64|Neurospora	367110.Q7RY64	100.0	1535.8	hda-1	Histone deacetylase; Responsible for the deacetylation of lysine residues on the N-terminal part of the core histones (H2A, H2B, H3 and H4). Histone deacetylation gives a tag for epigenetic repression and plays an important role in transcriptional regulation, cell cycle progression and developmental events.
+400	CGD-NeC-020166|Q7RY75|Neurospora	367110.Q7RY75	100.0	637.9	Q7RY75	Endonuclease
+401	CGD-NeC-020167|Q7RY78|Neurospora	367110.Q7RY78	100.0	405.6	tsp-1	Probable tRNA-splicing endonuclease subunit tsp-1; Non-catalytic subunit of the tRNA-splicing endonuclease complex, a complex responsible for identification and cleavage of the splice sites in pre-tRNA. It cleaves pre-tRNA at the 5' and 3' splice sites to release the intron. The products are an intron and two tRNA half-molecules bearing 2',3' cyclic phosphate and 5'-OH termini. There are no conserved sequences at the splice sites, but the intron is invariably located at the same site in the gene, placing the splice sites an invariant distance from the constant structural features of the tRNA b
+402	CGD-NeC-020168|Q7RY79|Neurospora	367110.Q7RY79	100.0	767.3	Q7RY79	Uncharacterized protein
+403	CGD-NeC-020169|Q7RYB9|Neurospora	367110.Q7RYB9	100.0	430.3	Q7RYB9	Uncharacterized protein
+404	CGD-NeC-020170|Q7RYC9|Neurospora	367110.Q7RYC9	100.0	1416.4	Q7RYC9	Phospholipase D active site-containing protein
+405	CGD-NeC-020171|Q7RYD4|Neurospora	367110.Q7RYD4	100.0	851.3	Q7RYD4	Polysaccharide export protein
+406	CGD-NeC-020172|Q7RYE1|Neurospora	367110.Q7RYE1	100.0	511.1	Q7RYE1	Cyanamide hydratase
+407	CGD-NeC-020173|Q7RYG9|Neurospora	367110.Q7RYG9	100.0	659.8	Q7RYG9	Uncharacterized protein
+408	CGD-NeC-020174|Q7RYH7|Neurospora	367110.Q7RYH7	100.0	391.0	cwc-21	Pre-mRNA-splicing factor cwc-21; Involved in pre-mRNA splicing. May function at or prior to the first catalytic step of splicing at the catalytic center of the spliceosome. May do so by stabilizing the catalytic center or the position of the RNA substrate (By similarity).
+409	CGD-NeC-020175|Q7RYJ0|Neurospora	367110.Q7RYJ0	100.0	2936.7	Q7RYJ0	Uncharacterized protein
+410	CGD-NeC-020176|Q7RYJ2|Neurospora	367110.Q7RYJ2	100.0	827.0	ace-2	Pyruvate dehydrogenase E1 component subunit alpha; The pyruvate dehydrogenase complex catalyzes the overall conversion of pyruvate to acetyl-CoA and CO(2). 
+411	CGD-NeC-020177|Q7RYK1|Neurospora	367110.Q7RYK1	100.0	607.4	Q7RYK1	Uncharacterized protein
+412	CGD-NeC-020178|Q7RYL7|Neurospora	367110.Q7RYL7	100.0	308.9	Q7RYL7	Uncharacterized protein
+413	CGD-NeC-020179|Q7RYP3|Neurospora	367110.Q7RYP3	100.0	939.9	Q7RYP3	Uncharacterized protein
+414	CGD-NeC-020180|Q7RYQ2|Neurospora	367110.Q7RYQ2	100.0	344.7	Q7RYQ2	Uncharacterized protein
+415	CGD-NeC-020181|Q7RYQ5|Neurospora	367110.Q7RYQ5	100.0	1447.6	Q7RYQ5	Glycyl-tRNA synthetase 1
+416	CGD-NeC-020182|Q7RYR1|Neurospora	367110.Q7RYR1	100.0	401.7	Q7RYR1	Cell wall protein PhiA
+417	CGD-NeC-020183|Q7RYR3|Neurospora	367110.Q7RYR3	100.0	530.4	Q7RYR3	SGNH_hydro domain-containing protein
+418	CGD-NeC-020184|Q7RYT7|Neurospora	367110.Q7RYT7	100.0	3081.2	Q7RYT7	DUF2428 domain-containing protein
+419	CGD-NeC-020185|Q7RYU4|Neurospora	367110.Q7RYU4	100.0	407.9	Q7RYU4	Uncharacterized protein
+420	CGD-NeC-020186|Q7RYU7|Neurospora	367110.Q7RYU7	100.0	713.0	Q7RYU7	ZIP metal ion transporter
+421	CGD-NeC-020187|Q7RYW4|Neurospora	367110.Q7RYW4	100.0	355.1	Q7RYW4	Uncharacterized protein
+422	CGD-NeC-020188|Q7RYW7|Neurospora	367110.Q7RYW7	100.0	773.1	Q7RYW7	Uncharacterized protein
+423	CGD-NeC-020189|Q7RYY7|Neurospora	367110.Q7RYY7	100.0	1707.6	Q7RYY7	Pseudouridine synthase TruD/Pus7
+424	CGD-NeC-020190|Q7RYZ3|Neurospora	367110.Q7RYZ3	100.0	850.5	stk-42	Serine/threonine protein kinase-42
+425	CGD-NeC-020191|Q7RZ05|Neurospora	367110.Q7RZ05	100.0	1773.1	hcp-1	Two-component system protein A
+426	CGD-NeC-020192|Q7RZ61|Neurospora	367110.Q7RZ61	100.0	397.1	Q7RZ61	UPF0132 domain-containing protein
+427	CGD-NeC-020193|Q7RZ67|Neurospora	367110.Q7RZ67	100.0	953.0	Q7RZ67	RNA methylase
+428	CGD-NeC-020194|Q7RZ82|Neurospora	367110.Q7RZ82	100.0	1353.2	Q7RZ82	MFS aflatoxin efflux pump
+429	CGD-NeC-020195|Q7RZ85|Neurospora	367110.Q7RZ85	100.0	347.1	Q7RZ85	Phosphatidylglycerol/phosphatidylinositol transfer protein; Catalyzes the intermembrane transfer of phosphatidylglycerol and phosphatidylinositol; Belongs to the NPC2 family.
+430	CGD-NeC-020196|Q7RZ88|Neurospora	367110.Q7RZ88	100.0	1809.3	Q7RZ88	Uncharacterized protein
+431	CGD-NeC-020197|Q7RZB2|Neurospora	367110.Q7RZB2	100.0	839.0	Q7RZB2	Plus3 domain-containing protein
+432	CGD-NeC-020198|Q7RZC4|Neurospora	367110.Q7RZC4	100.0	456.4	Q7RZC4	Uncharacterized protein
+433	CGD-NeC-020199|Q7RZF6|Neurospora	367110.Q7RZF6	100.0	390.6	Q7RZF6	Uncharacterized protein
+434	CGD-NeC-020200|Q7RZH4|Neurospora	367110.Q7RZH4	100.0	1327.8	mak-5	ATP-dependent RNA helicase mak-5; ATP-binding RNA helicase involved in the biogenesis of 60S ribosomal subunits and is required for the normal formation of 25S and 5.8S rRNAs; Belongs to the DEAD box helicase family. DDX24/MAK5 subfamily.
+435	CGD-NeC-020201|Q7RZH6|Neurospora	367110.Q7RZH6	100.0	355.5	Q7RZH6	GNAT family N-acetyltransferase
+436	CGD-NeC-020202|Q7RZI1|Neurospora	367110.Q7RZI1	100.0	539.7	Q7RZI1	MARVEL domain-containing protein
+437	CGD-NeC-020203|Q7RZI4|Neurospora	367110.Q7RZI4	100.0	464.5	Q7RZI4	Uncharacterized protein
+438	CGD-NeC-020204|Q7RZM7|Neurospora	367110.Q7RZM7	100.0	1185.2	Q7RZM7	Nucleolar complex-associated protein 3; Required for synthesis of 60S ribosomal subunits and the transport of pre-ribosomes from the nucleoplasm to the cytoplasm. ; Belongs to the CBF/MAK21 family. 
+439	CGD-NeC-020205|Q7RZM8|Neurospora	367110.Q7RZM8	100.0	3384.7	rbg-5	U3 small nucleolar RNA-associated protein 10; Involved in nucleolar processing of pre-18S ribosomal RNA. Involved in ribosome biosynthesis (By similarity). 
+440	CGD-NeC-020206|Q7RZM9|Neurospora	367110.Q7RZM9	100.0	288.9	Q7RZM9	Pre-mRNA-splicing factor cwc15
+441	CGD-NeC-020207|Q7RZP2|Neurospora	367110.Q7RZP2	100.0	170.2	Q7RZP2	Uncharacterized protein
+442	CGD-NeC-020208|Q7RZP9|Neurospora	367110.Q7RZP9	100.0	127.1	Q7RZP9	60S ribosomal protein L29; Belongs to the eukaryotic ribosomal protein eL29 family. 
+443	CGD-NeC-020209|Q7RZQ5|Neurospora	367110.Q7RZQ5	100.0	1080.5	Q7RZQ5	WSC domain-containing protein
+444	CGD-NeC-020210|Q7RZR0|Neurospora	367110.Q7RZR0	100.0	735.7	Q7RZR0	Uncharacterized protein
+445	CGD-NeC-020211|Q7RZU0|Neurospora	367110.Q7RZU0	100.0	3388.6	Q7RZU0	Uncharacterized protein
+446	CGD-NeC-020212|Q7RZU4|Neurospora	367110.Q7RZU4	100.0	1698.7	set-2	Histone-lysine N-methyltransferase, H3 lysine-36 specific; Histone methyltransferase that trimethylates histone H3 'Lys- 36' forming H3K36me3. Involved in transcription elongation as well as in transcription repression; Belongs to the class V-like SAM-binding methyltransferase superfamily. Histone-lysine methyltransferase family. SET2 subfamily. 
+447	CGD-NeC-020213|Q7RZV2|Neurospora	367110.Q7RZV2	100.0	1168.7	pyr-7	CTP synthase; Catalyzes the ATP-dependent amination of UTP to CTP with either L-glutamine or ammonia as the source of nitrogen.
+448	CGD-NeC-020214|Q7RZV3|Neurospora	367110.Q7RZV3	100.0	764.6	Q7RZV3	Oxidoreductase
+449	CGD-NeC-020215|Q7RZW0|Neurospora	367110.Q7RZW0	100.0	1500.0	Q7RZW0	Calpain catalytic domain-containing protein; Belongs to the peptidase C2 family. 
+450	CGD-NeC-020216|Q7RZX5|Neurospora	367110.Q7RZX5	100.0	729.6	Q7RZX5	Flavoprotein oxygenase
+451	CGD-NeC-020217|Q7RZZ8|Neurospora	367110.Q7RZZ8	100.0	619.8	Q7RZZ8	Velvet domain-containing protein
+452	CGD-NeC-020218|Q7S000|Neurospora	367110.Q7S000	100.0	902.9	Q7S000	Uncharacterized protein
+453	CGD-NeC-020219|Q7S061|Neurospora	367110.Q7S061	100.0	845.5	Q7S061	NAD binding Rossmann fold oxidoreductase
+454	CGD-NeC-020220|Q7S062|Neurospora	367110.Q7S062	100.0	977.2	gh18-4	Chitinase 1; Belongs to the glycosyl hydrolase 18 family. 
+455	CGD-NeC-020221|Q7S083|Neurospora	367110.Q7S083	100.0	305.1	atg12	Ubiquitin-like protein atg12; Ubiquitin-like protein involved in cytoplasm to vacuole transport (Cvt), autophagy vesicles formation, mitophagy, and nucleophagy. Conjugation with apg-4/atg5 through a ubiquitin-like conjugating system involving also apg-5/atg7 as an E1-like activating enzyme and atg10 as an E2-like conjugating enzyme, is essential for its function. The atg12-apg-4/atg5 conjugate functions as an E3-like enzyme which is required for lipidation of apg-6/atg8 and apg-6/atg8 association to the vesicle membranes (By similarity).
+456	CGD-NeC-020222|Q7S0B1|Neurospora	367110.Q7S0B1	100.0	1003.8	Q7S0B1	HET domain-containing protein
+457	CGD-NeC-020223|Q7S0B7|Neurospora	367110.Q7S0B7	100.0	1384.0	gfa1	Glucosamine-fructose-6-phosphate aminotransferase
+458	CGD-NeC-020224|Q7S0D0|Neurospora	367110.Q7S0D0	100.0	1127.9	Q7S0D0	Uncharacterized protein
+459	CGD-NeC-020225|Q7S0E0|Neurospora	367110.Q7S0E0	100.0	601.3	Q7S0E0	Uncharacterized protein
+460	CGD-NeC-020226|Q7S0E4|Neurospora	367110.Q7S0E4	100.0	2134.8	Q7S0E4	Elongation factor 3
+461	CGD-NeC-020227|Q7S0E7|Neurospora	367110.Q7S0E7	100.0	674.5	Q7S0E7	Monooxygenase
+462	CGD-NeC-020228|Q7S0G5|Neurospora	367110.Q7S0G5	100.0	162.5	Q7S0G5	Uncharacterized protein
+463	CGD-NeC-020229|Q7S0H1|Neurospora	367110.Q7S0H1	100.0	593.2	Q7S0H1	NmrA domain-containing protein
+464	CGD-NeC-020230|Q7S0I6|Neurospora	367110.Q7S0I6	100.0	786.2	Q7S0I6	Methionine synthase
+465	CGD-NeC-020231|Q7S0J4|Neurospora	367110.Q7S0J4	100.0	623.6	Q7S0J4	Uncharacterized protein
+466	CGD-NeC-020232|Q7S0K4|Neurospora	367110.Q7S0K4	100.0	350.9	Q7S0K4	2Fe-2S iron-sulfur cluster binding domain-containing protein
+467	CGD-NeC-020233|Q7S0L0|Neurospora	367110.Q7S0L0	100.0	541.6	Q7S0L0	Rhamnogalacturonan acetylesterase
+468	CGD-NeC-020234|Q7S0L5|Neurospora	367110.Q7S0L5	100.0	888.6	Q7S0L5	C2H2-type domain-containing protein
+469	CGD-NeC-020235|Q7S0P6|Neurospora	367110.Q7S0P6	100.0	1418.7	guf1	Translation factor guf1, mitochondrial; Promotes mitochondrial protein synthesis. May act as a fidelity factor of the translation reaction, by catalyzing a one-codon backward translocation of tRNAs on improperly translocated ribosomes. Binds to mitochondrial ribosomes in a GTP-dependent manner. 
+470	CGD-NeC-020236|Q7S0R4|Neurospora	367110.Q7S0R4	100.0	704.5	mig-6	Zinc-containing alcohol dehydrogenase
+471	CGD-NeC-020237|Q7S0S3|Neurospora	367110.Q7S0S3	100.0	1092.4	Q7S0S3	Bulb-type lectin domain-containing protein
+472	CGD-NeC-020238|Q7S0S7|Neurospora	367110.Q7S0S7	100.0	370.5	Q7S0S7	Hsp20-like protein; Belongs to the small heat shock protein (HSP20) family. 
+473	CGD-NeC-020239|Q7S0S9|Neurospora	367110.Q7S0S9	100.0	698.7	Q7S0S9	Uncharacterized protein
+474	CGD-NeC-020240|Q7S0T1|Neurospora	367110.Q7S0T1	100.0	677.6	Q7S0T1	Cellulose-binding GDSL lipase/acylhydrolase
+475	CGD-NeC-020241|Q7S0T8|Neurospora	367110.Q7S0T8	100.0	5150.1	pks-5	Polyketide synthase 5
+476	CGD-NeC-020242|Q7S0V8|Neurospora	367110.Q7S0V8	100.0	926.0	Q7S0V8	Endonuclease/exonuclease/phosphatase
+477	CGD-NeC-020243|Q7S0Z2|Neurospora	367110.Q7S0Z2	100.0	923.3	Q7S0Z2	Uncharacterized protein
+478	CGD-NeC-020244|Q7S117|Neurospora	367110.Q7S117	100.0	1112.8	Q7S117	Zn(2)-C6 fungal-type domain-containing protein
+479	CGD-NeC-020245|Q7S118|Neurospora	367110.Q7S118	100.0	563.5	Q7S118	Uncharacterized protein
+480	CGD-NeC-020246|Q7S146|Neurospora	367110.Q7S146	100.0	1749.9	Q7S146	HET domain-containing protein
+481	CGD-NeC-020247|Q7S156|Neurospora	367110.Q7S156	100.0	208.4	Q7S156	60S ribosomal protein L33
+482	CGD-NeC-020248|Q7S171|Neurospora	367110.Q7S171	100.0	404.8	Q7S171	Uncharacterized protein
+483	CGD-NeC-020249|Q7S186|Neurospora	367110.Q7S186	100.0	644.8	Q7S186	Uncharacterized protein
+484	CGD-NeC-020250|Q7S187|Neurospora	367110.Q7S187	100.0	694.5	Q7S187	Alpha-N-arabinofuranosidase
+485	CGD-NeC-020251|Q7S194|Neurospora	367110.Q7S194	100.0	970.7	Q7S194	Membrane transporter
+486	CGD-NeC-020252|Q7S1B2|Neurospora	367110.Q7S1B2	100.0	475.7	Q7S1B2	4HBT domain-containing protein
+487	CGD-NeC-020253|Q7S1C2|Neurospora	367110.Q7S1C2	100.0	329.7	Q7S1C2	Uncharacterized protein
+488	CGD-NeC-020254|Q7S1G9|Neurospora	367110.Q7S1G9	100.0	1062.8	Q7S1G9	Uncharacterized protein
+489	CGD-NeC-020255|Q7S1H2|Neurospora	367110.Q7S1H2	100.0	1818.9	Q7S1H2	Uncharacterized protein
+490	CGD-NeC-020256|Q7S1I6|Neurospora	367110.Q7S1I6	100.0	708.4	Q7S1I6	Uncharacterized protein
+491	CGD-NeC-020257|Q7S1L5|Neurospora	367110.Q7S1L5	100.0	776.5	stk-9	Serine/threonine protein kinase-9; Belongs to the protein kinase superfamily. 
+492	CGD-NeC-020258|Q7S1M7|Neurospora	367110.Q7S1M7	100.0	870.9	Q7S1M7	Uncharacterized protein
+493	CGD-NeC-020259|Q7S1N9|Neurospora	367110.Q7S1N9	100.0	962.2	Q7S1N9	Uncharacterized protein
+494	CGD-NeC-020260|Q7S1P0|Neurospora	367110.Q7S1P0	100.0	435.6	Q7S1P0	Secreted protein
+495	CGD-NeC-020261|Q7S1P1|Neurospora	367110.Q7S1P1	100.0	452.6	Q7S1P1	CBM1 domain-containing protein
+496	CGD-NeC-020262|Q7S1P2|Neurospora	367110.Q7S1P2	100.0	178.3	Q7S1P2	Uncharacterized protein
+497	CGD-NeC-020263|Q7S1P4|Neurospora	367110.Q7S1P4	100.0	795.4	Q7S1P4	Ribosome biogenesis protein
+498	CGD-NeC-020264|Q7S1P8|Neurospora	367110.Q7S1P8	100.0	775.0	Q7S1P8	Uncharacterized protein
+499	CGD-NeC-020265|Q7S1Q4|Neurospora	367110.Q7S1Q4	100.0	1482.6	Q7S1Q4	Uncharacterized protein
+500	CGD-NeC-020266|Q7S1R6|Neurospora	367110.Q7S1R6	100.0	483.8	Q7S1R6	RNase III domain-containing protein
+501	CGD-NeC-020267|Q7S1U2|Neurospora	367110.Q7S1U2	100.0	142.9	Q7S1U2	Uncharacterized protein
+502	CGD-NeC-020268|Q7S1V0|Neurospora	367110.Q7S1V0	100.0	291.6	Q7S1V0	MARVEL domain-containing protein
+503	CGD-NeC-020269|Q7S1V2|Neurospora	367110.Q7S1V2	100.0	567.8	gh61-9	Endo-1,4-beta-glucanase
+504	CGD-NeC-020270|Q7S1V6|Neurospora	367110.Q7S1V6	100.0	723.0	Q7S1V6	Arabinosidase
+505	CGD-NeC-020271|Q7S1W8|Neurospora	367110.Q7S1W8	100.0	898.3	nde-3	NAD(P)H dehydrogenase 3
+506	CGD-NeC-020272|Q7S1Y4|Neurospora	367110.Q7S1Y4	100.0	484.6	Q7S1Y4	Uncharacterized protein
+507	CGD-NeC-020273|Q7S211|Neurospora	367110.Q7S211	100.0	1573.5	Q7S211	Glycerol-3-phosphate O-acyltransferase
+508	CGD-NeC-020274|Q7S215|Neurospora	367110.Q7S215	100.0	283.9	Q7S215	Uncharacterized protein
+509	CGD-NeC-020275|Q7S222|Neurospora	367110.Q7S222	100.0	632.5	Q7S222	Glycosidase; Belongs to the glycosyl hydrolase 16 family. 
+510	CGD-NeC-020276|Q7S267|Neurospora	367110.Q7S267	100.0	901.4	Q7S267	Carboxymethylenebutenolidase
+511	CGD-NeC-020277|Q7S280|Neurospora	367110.Q7S280	100.0	2003.4	Q7S280	Fe2OG dioxygenase domain-containing protein
+512	CGD-NeC-020278|Q7S289|Neurospora	367110.Q7S289	100.0	615.1	Q7S289	NmrA family protein
+513	CGD-NeC-020279|Q7S2E0|Neurospora	367110.Q7S2E0	100.0	1011.9	Q7S2E0	HORMA domain-containing protein
+514	CGD-NeC-020280|Q7S2F2|Neurospora	367110.Q7S2F2	100.0	1194.5	Q7S2F2	Glycerol kinase; Belongs to the FGGY kinase family. 
+515	CGD-NeC-020281|Q7S2F5|Neurospora	367110.Q7S2F5	100.0	267.7	Q7S2F5	Uncharacterized protein
+516	CGD-NeC-020282|Q7S2F7|Neurospora	367110.Q7S2F7	100.0	1124.4	Q7S2F7	Protein farnesyltransferase subunit beta; Catalyzes the transfer of a farnesyl moiety from farnesyl diphosphate to a cysteine at the fourth position from the C-terminus of several proteins. The beta subunit is responsible for peptide-binding. 
+517	CGD-NeC-020283|Q7S2I2|Neurospora	367110.Q7S2I2	100.0	1008.8	Q7S2I2	Eukaryotic translation initiation factor 3 subunit D; mRNA cap-binding component of the eukaryotic translation initiation factor 3 (eIF-3) complex, which is involved in protein synthesis of a specialized repertoire of mRNAs and, together with other initiation factors, stimulates binding of mRNA and methionyl-tRNAi to the 40S ribosome. The eIF-3 complex specifically targets and initiates translation of a subset of mRNAs involved in cell proliferation. In the eIF-3 complex, eif3d specifically recognizes and binds the 7- methylguanosine cap of a subset of mRNAs.
+518	CGD-NeC-020284|Q7S2K7|Neurospora	367110.Q7S2K7	100.0	1336.6	ro-6	Cytoplasmic dynein 1 intermediate chain 2
+519	CGD-NeC-020285|Q7S2K8|Neurospora	367110.Q7S2K8	100.0	671.8	mig-9	Pyridoxal reductase
+520	CGD-NeC-020286|Q7S2L7|Neurospora	367110.Q7S2L7	100.0	958.0	nop-12	Nucleolar protein 12; Involved in pre-25S rRNA processing; Belongs to the RRM RBM34 family.
+521	CGD-NeC-020287|Q7S2N3|Neurospora	367110.Q7S2N3	100.0	168.3	Q7S2N3	Uncharacterized protein
+522	CGD-NeC-020288|Q7S2N9|Neurospora	367110.Q7S2N9	100.0	1025.4	has-1	ATP-dependent RNA helicase has-1; ATP-dependent RNA helicase involved in 40S ribosomal subunit biogenesis. Required for the processing and cleavage of 35S pre-rRNA at sites A0, A1, and A2, leading to mature 18S rRNA.
+523	CGD-NeC-020289|Q7S2P4|Neurospora	367110.Q7S2P4	100.0	547.0	Q7S2P4	Uncharacterized protein
+524	CGD-NeC-020290|Q7S2R1|Neurospora	367110.Q7S2R1	100.0	1062.0	Q7S2R1	Trehalose-6-phosphate synthase
+525	CGD-NeC-020291|Q7S2R2|Neurospora	367110.Q7S2R2	100.0	298.5	Q7S2R2	Hva1_TUDOR domain-containing protein
+526	CGD-NeC-020292|Q7S2R5|Neurospora	367110.Q7S2R5	100.0	1521.5	Q7S2R5	Uncharacterized protein
+527	CGD-NeC-020293|Q7S2T4|Neurospora	367110.Q7S2T4	100.0	676.8	Q7S2T4	L-xylulose reductase
+528	CGD-NeC-020294|Q7S2T5|Neurospora	367110.Q7S2T5	100.0	743.8	mig-4	Oxidoreductase
+529	CGD-NeC-020295|Q7S2T7|Neurospora	367110.Q7S2T7	100.0	1270.0	Q7S2T7	Protein kinase domain-containing protein
+530	CGD-NeC-020296|Q7S2T8|Neurospora	367110.Q7S2T8	100.0	1394.0	Q7S2T8	HET domain-containing protein
+531	CGD-NeC-020297|Q7S2Y4|Neurospora	367110.Q7S2Y4	100.0	414.1	Q7S2Y4	Very-long-chain (3R)-3-hydroxyacyl-CoA dehydratase; Catalyzes the third of the four reactions of the long-chain fatty acids elongation cycle. This endoplasmic reticulum-bound enzymatic process, allows the addition of two carbons to the chain of long- and very long-chain fatty acids/VLCFAs per cycle. This enzyme catalyzes the dehydration of the 3-hydroxyacyl-CoA intermediate into trans-2,3-enoyl-CoA, within each cycle of fatty acid elongation. Thereby, it participates to the production of VLCFAs of different chain lengths that are involved in multiple biological processes as precursors of membr
+532	CGD-NeC-020298|Q7S2Z1|Neurospora	367110.Q7S2Z1	100.0	1066.6	Q7S2Z1	DUF3074 domain-containing protein
+533	CGD-NeC-020299|Q7S2Z4|Neurospora	367110.Q7S2Z4	100.0	395.6	Q7S2Z4	Uncharacterized protein
+534	CGD-NeC-020300|Q7S302|Neurospora	367110.Q7S302	100.0	502.7	mrt4	Ribosome assembly factor mrt4; Component of the ribosome assembly machinery. Nuclear paralog of the ribosomal protein P0, it binds pre-60S subunits at an early stage of assembly in the nucleolus, and is replaced by P0 in cytoplasmic pre-60S subunits and mature 80S ribosomes. 
+535	CGD-NeC-020301|Q7S307|Neurospora	367110.Q7S307	100.0	945.3	Q7S307	Uncharacterized protein
+536	CGD-NeC-020302|Q7S336|Neurospora	367110.Q7S336	100.0	696.8	Q7S336	Uncharacterized protein
+537	CGD-NeC-020303|Q7S345|Neurospora	367110.Q7S345	100.0	984.9	Q7S345	Alpha-N-arabinofuranosidase II; Belongs to the glycosyl hydrolase 43 family. 
+538	CGD-NeC-020304|Q7S346|Neurospora	367110.Q7S346	100.0	654.8	Q7S346	NmrA family transcriptional regulator
+539	CGD-NeC-020305|Q7S350|Neurospora	367110.Q7S350	100.0	987.6	Q7S350	FAD-binding PCMH-type domain-containing protein
+540	CGD-NeC-020306|Q7S384|Neurospora	367110.Q7S384	100.0	1637.5	Q7S384	Uncharacterized protein
+541	CGD-NeC-020307|Q7S391|Neurospora	367110.Q7S391	100.0	181.8	Q7S391	Uncharacterized protein
+542	CGD-NeC-020308|Q7S394|Neurospora	367110.Q7S394	100.0	1942.9	Q7S394	Aminopeptidase
+543	CGD-NeC-020309|Q7S3A4|Neurospora	367110.Q7S3A4	100.0	1077.8	Q7S3A4	Dyp-type peroxidase
+544	CGD-NeC-020310|Q7S3A7|Neurospora	367110.Q7S3A7	100.0	1777.7	Q7S3A7	Uncharacterized protein
+545	CGD-NeC-020311|Q7S3C7|Neurospora	367110.Q7S3C7	100.0	865.9	Q7S3C7	Uncharacterized protein
+546	CGD-NeC-020312|Q7S3C8|Neurospora	367110.Q7S3C8	100.0	1038.1	gtt-1	Glycylpeptide N-tetradecanoyltransferase; Adds a myristoyl group to the N-terminal glycine residue of certain cellular proteins; Belongs to the NMT family.
+547	CGD-NeC-020313|Q7S3D0|Neurospora	367110.Q7S3D0	100.0	791.6	Q7S3D0	Methionine aminopeptidase; Cotranslationally removes the N-terminal methionine from nascent proteins. The N-terminal methionine is often cleaved when the second residue in the primary sequence is small and uncharged (Met- Ala-, Cys, Gly, Pro, Ser, Thr, or Val). 
+548	CGD-NeC-020314|Q7S3D8|Neurospora	367110.Q7S3D8	100.0	615.1	Q7S3D8	Uncharacterized protein
+549	CGD-NeC-020315|Q7S3G1|Neurospora	367110.Q7S3G1	100.0	226.9	Q7S3G1	40S ribosomal protein S20
+550	CGD-NeC-020316|Q7S3G3|Neurospora	367110.Q7S3G3	100.0	137.9	Q7S3G3	Uncharacterized protein
+551	CGD-NeC-020317|Q7S3L5|Neurospora	367110.Q7S3L5	100.0	1306.2	Q7S3L5	UDP-glucose dehydrogenase
+552	CGD-NeC-020318|Q7S3Q4|Neurospora	367110.Q7S3Q4	100.0	1042.7	Q7S3Q4	High-affinity glucose transporter; Belongs to the major facilitator superfamily. Sugar transporter (TC 2.A.1.1) family.
+553	CGD-NeC-020319|Q7S3T6|Neurospora	367110.Q7S3T6	100.0	706.8	Q7S3T6	Uncharacterized protein
+554	CGD-NeC-020320|Q7S3U0|Neurospora	367110.Q7S3U0	100.0	1103.2	Q7S3U0	Uncharacterized protein
+555	CGD-NeC-020321|Q7S3V9|Neurospora	367110.Q7S3V9	100.0	697.2	Q7S3V9	Uncharacterized protein
+556	CGD-NeC-020322|Q7S3W4|Neurospora	367110.Q7S3W4	100.0	877.5	Q7S3W4	Uncharacterized protein
+557	CGD-NeC-020323|Q7S3X6|Neurospora	367110.Q7S3X6	100.0	1112.8	Q7S3X6	Uncharacterized protein
+558	CGD-NeC-020324|Q7S404|Neurospora	367110.Q7S404	100.0	4119.3	Q7S404	Uncharacterized protein
+559	CGD-NeC-020325|Q7S412|Neurospora	367110.Q7S412	100.0	1386.7	Q7S412	Alpha-L-arabinofuranosidase 2
+560	CGD-NeC-020326|Q7S439|Neurospora	367110.Q7S439	100.0	537.7	gh61-1	Endoglucanase II
+561	CGD-NeC-020327|Q7S460|Neurospora	367110.Q7S460	100.0	380.2	Q7S460	CVNH domain-containing protein
+562	CGD-NeC-020328|Q7S463|Neurospora	367110.Q7S463	100.0	978.4	ods	Delta-12 fatty acid desaturase
+563	CGD-NeC-020329|Q7S477|Neurospora	367110.Q7S477	100.0	991.9	Q7S477	Dihydrolipoyl dehydrogenase
+564	CGD-NeC-020330|Q7S483|Neurospora	367110.Q7S483	100.0	1467.6	Q7S483	Exonuclease
+565	CGD-NeC-020331|Q7S4A6|Neurospora	367110.Q7S4A6	100.0	411.0	Q7S4A6	Uncharacterized protein
+566	CGD-NeC-020332|Q7S4A7|Neurospora	367110.Q7S4A7	100.0	424.9	Q7S4A7	Uncharacterized protein
+567	CGD-NeC-020333|Q7S4B4|Neurospora	367110.Q7S4B4	100.0	969.9	Q7S4B4	Glyco_hydro_79C domain-containing protein
+568	CGD-NeC-020334|Q7S4B7|Neurospora	367110.Q7S4B7	100.0	515.0	Q7S4B7	Pectate lyase A
+569	CGD-NeC-020335|Q7S4C6|Neurospora	367110.Q7S4C6	100.0	1216.4	Q7S4C6	High affinity methionine permease
+570	CGD-NeC-020336|Q7S4D5|Neurospora	367110.Q7S4D5	100.0	937.9	Q7S4D5	DnaJ and TPR domain-containing protein
+571	CGD-NeC-020337|Q7S4E7|Neurospora	367110.Q7S4E7	100.0	245.0	Q7S4E7	Ribosomal protein; Belongs to the bacterial ribosomal protein bL36 family. 
+572	CGD-NeC-020338|Q7S4F4|Neurospora	367110.Q7S4F4	100.0	465.3	rhd	Mitochondrial peroxiredoxin PRX1
+573	CGD-NeC-020339|Q7S4J8|Neurospora	367110.Q7S4J8	100.0	573.9	Q7S4J8	Carbonic anhydrase; Reversible hydration of carbon dioxide. ; Belongs to the beta-class carbonic anhydrase family. 
+574	CGD-NeC-020340|Q7S4K1|Neurospora	367110.Q7S4K1	100.0	270.4	Q7S4K1	Uncharacterized protein
+575	CGD-NeC-020341|Q7S4K9|Neurospora	367110.Q7S4K9	100.0	272.3	Q7S4K9	Uncharacterized protein
+576	CGD-NeC-020342|Q7S4N7|Neurospora	367110.Q7S4N7	100.0	1083.6	Q7S4N7	Uncharacterized protein
+577	CGD-NeC-020343|Q7S4N8|Neurospora	367110.Q7S4N8	100.0	1169.1	ilv-5	Pyruvate decarboxylase
+578	CGD-NeC-020344|Q7S4P3|Neurospora	367110.Q7S4P3	100.0	1799.3	sec24	Protein transport protein sec24; Component of the coat protein complex II (COPII) which promotes the formation of transport vesicles from the endoplasmic reticulum (ER). The coat has two main functions, the physical deformation of the endoplasmic reticulum membrane into vesicles and the selection of cargo molecules (By similarity).
+579	CGD-NeC-020345|Q7S4Q5|Neurospora	367110.Q7S4Q5	100.0	62.8	poi-2	Mating response protein POI2
+580	CGD-NeC-020346|Q7S4Q6|Neurospora	367110.Q7S4Q6	100.0	1223.0	Q7S4Q6	PRO1A C6 Zink-finger protein
+581	CGD-NeC-020347|Q7S4S1|Neurospora	367110.Q7S4S1	100.0	482.3	Q7S4S1	Cellulose-binding protein
+582	CGD-NeC-020348|Q7S4U9|Neurospora	367110.Q7S4U9	100.0	1213.4	Q7S4U9	Integral membrane protein
+583	CGD-NeC-020349|Q7S4V0|Neurospora	367110.Q7S4V0	100.0	387.5	Q7S4V0	Uncharacterized protein
+584	CGD-NeC-020350|Q7S4V5|Neurospora	367110.Q7S4V5	100.0	545.4	rbd-2	Rhomboid protein 2; Probable serine protease; Belongs to the peptidase S54 family.
+585	CGD-NeC-020351|Q7S4V6|Neurospora	367110.Q7S4V6	100.0	145.6	Q7S4V6	Rsa3 domain-containing protein
+586	CGD-NeC-020352|Q7S4V7|Neurospora	367110.Q7S4V7	100.0	745.7	gh28-1	Polygalacturonase
+587	CGD-NeC-020353|Q7S4Y4|Neurospora	367110.Q7S4Y4	100.0	184.1	Q7S4Y4	37S ribosomal protein mrp10, mitochondrial; Involved in mitochondrial genome encoded proteins translation.
+588	CGD-NeC-020354|Q7S4Y5|Neurospora	367110.Q7S4Y5	100.0	2527.7	Q7S4Y5	Uncharacterized protein
+589	CGD-NeC-020355|Q7S514|Neurospora	367110.Q7S514	100.0	741.5	Q7S514	Uncharacterized protein
+590	CGD-NeC-020356|Q7S519|Neurospora	367110.Q7S519	100.0	882.9	int-6	Eukaryotic translation initiation factor 3 subunit E; Component of the eukaryotic translation initiation factor 3 (eIF-3) complex, which is involved in protein synthesis of a specialized repertoire of mRNAs and, together with other initiation factors, stimulates binding of mRNA and methionyl-tRNAi to the 40S ribosome. The eIF-3 complex specifically targets and initiates translation of a subset of mRNAs involved in cell proliferation. 
+591	CGD-NeC-020357|Q7S521|Neurospora	367110.Q7S521	100.0	907.1	Q7S521	Oxidoreductase
+592	CGD-NeC-020358|Q7S523|Neurospora	367110.Q7S523	100.0	1414.4	Q7S523	Flavin-binding monooxygenase
+593	CGD-NeC-020359|Q7S553|Neurospora	367110.Q7S553	100.0	942.6	Q7S553	O-methyltransferase
+594	CGD-NeC-020360|Q7S563|Neurospora	367110.Q7S563	100.0	1415.6	Q7S563	Zn(2)-C6 fungal-type domain-containing protein
+595	CGD-NeC-020361|Q7S568|Neurospora	367110.Q7S568	100.0	963.8	Q7S568	Phosphatidylserine decarboxylase
+596	CGD-NeC-020362|Q7S569|Neurospora	367110.Q7S569	100.0	380.9	Q7S569	Uncharacterized protein
+597	CGD-NeC-020363|Q7S576|Neurospora	367110.Q7S576	100.0	330.9	Q7S576	Uncharacterized protein
+598	CGD-NeC-020364|Q7S597|Neurospora	367110.Q7S597	100.0	627.1	Q7S597	Mitochondrial carnitine/acylcarnitine carrier protein; Belongs to the mitochondrial carrier (TC 2.A.29) family. 
+599	CGD-NeC-020365|Q7S5B2|Neurospora	367110.Q7S5B2	100.0	1053.1	emp-6	Phosphoglycerate mutase
+600	CGD-NeC-020366|Q7S5B3|Neurospora	367110.Q7S5B3	100.0	318.2	Q7S5B3	Uncharacterized protein
+601	CGD-NeC-020367|Q7S5B7|Neurospora	367110.Q7S5B7	100.0	410.2	Q7S5B7	Uncharacterized protein
+602	CGD-NeC-020368|Q7S5D2|Neurospora	367110.Q7S5D2	100.0	100.9	Q7S5D2	Uncharacterized protein
+603	CGD-NeC-020369|Q7S5F4|Neurospora	367110.Q7S5F4	100.0	568.2	Q7S5F4	Uncharacterized protein
+604	CGD-NeC-020370|Q7S5F8|Neurospora	367110.Q7S5F8	100.0	432.6	Q7S5F8	Uncharacterized protein
+605	CGD-NeC-020371|Q7S5G3|Neurospora	367110.Q7S5G3	100.0	745.0	Q7S5G3	Uncharacterized protein
+606	CGD-NeC-020372|Q7S5J9|Neurospora	367110.Q7S5J9	100.0	248.1	Q7S5J9	Uncharacterized protein
+607	CGD-NeC-020373|Q7S5K8|Neurospora	367110.Q7S5K8	100.0	1127.9	Q7S5K8	Peptidase A1 domain-containing protein; Belongs to the peptidase A1 family. 
+608	CGD-NeC-020374|Q7S5L0|Neurospora	367110.Q7S5L0	100.0	2102.8	Q7S5L0	ANK_REP_REGION domain-containing protein
+609	CGD-NeC-020375|Q7S5L4|Neurospora	367110.Q7S5L4	100.0	988.0	Q7S5L4	Uncharacterized protein
+610	CGD-NeC-020376|Q7S5M3|Neurospora	367110.Q7S5M3	100.0	450.7	Q7S5M3	Uncharacterized protein
+611	CGD-NeC-020377|Q7S5M7|Neurospora	367110.Q7S5M7	100.0	132.1	cox-17	Cytochrome c oxidase subunit 9, mitochondrial; Component of the cytochrome c oxidase, the last enzyme in the mitochondrial electron transport chain which drives oxidative phosphorylation. The respiratory chain contains 3 multisubunit complexes succinate dehydrogenase (complex II, CII), ubiquinol- cytochrome c oxidoreductase (cytochrome b-c1 complex, complex III, CIII) and cytochrome c oxidase (complex IV, CIV), that cooperate to transfer electrons derived from NADH and succinate to molecular oxygen, creating an electrochemical gradient over the inner membrane that drives transmembrane transpor
+612	CGD-NeC-020378|Q7S5N9|Neurospora	367110.Q7S5N9	100.0	337.8	Q7S5N9	Ribosomal protein L19; Belongs to the eukaryotic ribosomal protein eL19 family. 
+613	CGD-NeC-020379|Q7S5P5|Neurospora	367110.Q7S5P5	100.0	729.2	Q7S5P5	Uncharacterized protein
+614	CGD-NeC-020380|Q7S5Q4|Neurospora	367110.Q7S5Q4	100.0	611.7	Q7S5Q4	Secreted glucosidase
+615	CGD-NeC-020381|Q7S5R1|Neurospora	367110.Q7S5R1	100.0	918.3	dbp-3	ATP-dependent RNA helicase dbp-3; ATP-dependent RNA helicase required for 60S ribosomal subunit synthesis. Involved in efficient pre-rRNA processing, predominantly at site A3, which is necessary for the normal formation of 25S and 5.8S rRNAs (By similarity); Belongs to the DEAD box helicase family. DDX5/DBP2 subfamily.
+616	CGD-NeC-020382|Q7S5S2|Neurospora	367110.Q7S5S2	100.0	770.4	Q7S5S2	Uncharacterized protein
+617	CGD-NeC-020383|Q7S5T0|Neurospora	367110.Q7S5T0	100.0	1303.9	Q7S5T0	Uncharacterized protein
+618	CGD-NeC-020384|Q7S5U4|Neurospora	367110.Q7S5U4	100.0	981.9	Q7S5U4	Aldehyde dehydrogenase; Belongs to the aldehyde dehydrogenase family. 
+619	CGD-NeC-020385|Q7S5U7|Neurospora	367110.Q7S5U7	100.0	1525.8	Q7S5U7	Uncharacterized protein
+620	CGD-NeC-020386|Q7S5U8|Neurospora	367110.Q7S5U8	100.0	522.3	Q7S5U8	Uncharacterized protein
+621	CGD-NeC-020387|Q7S5V6|Neurospora	367110.Q7S5V6	100.0	265.8	Q7S5V6	Uncharacterized protein
+622	CGD-NeC-020388|Q7S5V9|Neurospora	367110.Q7S5V9	100.0	1239.6	Q7S5V9	Small nucleolar ribonucleoprotein complex subunit Utp14
+623	CGD-NeC-020389|Q7S5W2|Neurospora	367110.Q7S5W2	100.0	965.3	Q7S5W2	Monooxygenase
+624	CGD-NeC-020390|Q7S5Y9|Neurospora	367110.Q7S5Y9	100.0	444.5	Methylase	Methylase
+625	CGD-NeC-020391|Q7S5Z0|Neurospora	367110.Q7S5Z0	100.0	866.7	Q7S5Z0	2-oxoisovalerate dehydrogenase subunit alpha; The branched-chain alpha-keto dehydrogenase complex catalyzes the overall conversion of alpha-keto acids to acyl-CoA and CO(2). It contains multiple copies of three enzymatic components: branched-chain alpha-keto acid decarboxylase (E1), lipoamide acyltransferase (E2) and lipoamide dehydrogenase (E3).
+626	CGD-NeC-020392|Q7S5Z9|Neurospora	367110.Q7S5Z9	100.0	675.6	Q7S5Z9	NAD-binding Rossmann fold oxidoreductase
+627	CGD-NeC-020393|Q7S601|Neurospora	367110.Q7S601	100.0	847.0	Q7S601	UDP-galactose transporter Gms1
+628	CGD-NeC-020394|Q7S608|Neurospora	367110.Q7S608	100.0	218.4	Q7S608	Uncharacterized protein
+629	CGD-NeC-020395|Q7S610|Neurospora	367110.Q7S610	100.0	2128.6	Q7S610	Karyopherin Kap123
+630	CGD-NeC-020396|Q7S626|Neurospora	367110.Q7S626	100.0	763.5	Q7S626	EH domain binding protein epsin 2
+631	CGD-NeC-020397|Q7S630|Neurospora	367110.Q7S630	100.0	396.7	Q7S630	60S ribosomal protein L8
+632	CGD-NeC-020398|Q7S642|Neurospora	367110.Q7S642	100.0	1058.1	Q7S642	DUF1752 domain-containing protein
+633	CGD-NeC-020399|Q7S6A5|Neurospora	367110.Q7S6A5	100.0	1465.3	Q7S6A5	HET domain-containing protein
+634	CGD-NeC-020400|Q7S6B1|Neurospora	367110.Q7S6B1	100.0	812.8	Q7S6B1	Uncharacterized protein
+635	CGD-NeC-020401|Q7S6B3|Neurospora	367110.Q7S6B3	100.0	1628.2	bek-2	BEAK-2
+636	CGD-NeC-020402|Q7S6C3|Neurospora	367110.Q7S6C3	100.0	1121.7	Q7S6C3	Amino-acid permease inda1
+637	CGD-NeC-020403|Q7S6E3|Neurospora	367110.Q7S6E3	100.0	781.9	Q7S6E3	Lipase
+638	CGD-NeC-020404|Q7S6F9|Neurospora	367110.Q7S6F9	100.0	929.5	Q7S6F9	L-galactonate dehydratase
+639	CGD-NeC-020405|Q7S6H3|Neurospora	367110.Q7S6H3	100.0	1121.7	Q7S6H3	Uncharacterized protein
+640	CGD-NeC-020406|Q7S6I8|Neurospora	367110.Q7S6I8	100.0	607.4	Q7S6I8	Cyclin
+641	CGD-NeC-020407|Q7S6J8|Neurospora	367110.Q7S6J8	100.0	625.5	Q7S6J8	Mitochondrial 2-oxodicarboxylate carrier 1; Belongs to the mitochondrial carrier (TC 2.A.29) family. 
+642	CGD-NeC-020408|Q7S6K1|Neurospora	367110.Q7S6K1	100.0	2338.9	phy-1	Sensor histidine kinase/response regulator
+643	CGD-NeC-020409|Q7S6K5|Neurospora	367110.Q7S6K5	100.0	827.0	Q7S6K5	Copper-fist domain-containing protein
+644	CGD-NeC-020410|Q7S6L9|Neurospora	367110.Q7S6L9	100.0	206.5	Q7S6L9	Uncharacterized protein
+645	CGD-NeC-020411|Q7S6M0|Neurospora	367110.Q7S6M0	100.0	731.9	Q7S6M0	Lactoylglutathione lyase; Catalyzes the conversion of hemimercaptal, formed from methylglyoxal and glutathione, to S-lactoylglutathione. 
+646	CGD-NeC-020412|Q7S6P6|Neurospora	367110.Q7S6P6	100.0	1220.3	Q7S6P6	RanGTP-binding protein
+647	CGD-NeC-020413|Q7S6Q5|Neurospora	367110.Q7S6Q5	100.0	620.2	Q7S6Q5	Uncharacterized protein
+648	CGD-NeC-020414|Q7S6R4|Neurospora	367110.Q7S6R4	100.0	774.2	Q7S6R4	DUF833 domain-containing protein
+649	CGD-NeC-020415|Q7S6S2|Neurospora	367110.Q7S6S2	100.0	577.8	Q7S6S2	Mitochondrial genome maintenance protein MGM101
+650	CGD-NeC-020416|Q7S6U1|Neurospora	367110.Q7S6U1	100.0	328.2	Q7S6U1	Uncharacterized protein
+651	CGD-NeC-020417|Q7S6U4|Neurospora	367110.Q7S6U4	100.0	233.8	Ccg-16	Cyanovirin-N homolog; Mannose-binding lectin.
+652	CGD-NeC-020418|Q7S6U5|Neurospora	367110.Q7S6U5	100.0	384.8	Q7S6U5	Uncharacterized protein
+653	CGD-NeC-020419|Q7S6W5|Neurospora	367110.Q7S6W5	100.0	129.8	rps-28	40S ribosomal protein S28; Belongs to the eukaryotic ribosomal protein eS28 family. 
+654	CGD-NeC-020420|Q7S6W6|Neurospora	367110.Q7S6W6	100.0	1029.2	asd-3	Ascus development protein 3; Belongs to the major facilitator superfamily. Sugar transporter (TC 2.A.1.1) family.
+655	CGD-NeC-020421|Q7S6Z6|Neurospora	367110.Q7S6Z6	100.0	273.5	Q7S6Z6	Uncharacterized protein
+656	CGD-NeC-020422|Q7S718|Neurospora	367110.Q7S718	100.0	1958.7	Q7S718	Uncharacterized protein
+657	CGD-NeC-020423|Q7S753|Neurospora	367110.Q7S753	100.0	66.2	Q7S753	Zinc knuckle domain-containing protein
+658	CGD-NeC-020424|Q7S776|Neurospora	367110.Q7S776	100.0	1006.9	Q7S776	MFS domain-containing protein
+659	CGD-NeC-020425|Q7S797|Neurospora	367110.Q7S797	100.0	857.4	Q7S797	Uncharacterized protein
+660	CGD-NeC-020426|Q7S7C5|Neurospora	367110.Q7S7C5	100.0	1110.9	ptr-3	Palmitoyltransferase pfa3; Palmitoyltransferase specific for vac8. Palmitoylates vac8 at one or more of its N-terminal cysteine residues, which is required for its proper membrane localization (By similarity).
+661	CGD-NeC-020427|Q7S7E6|Neurospora	367110.Q7S7E6	100.0	671.8	Q7S7E6	rRNA adenine N(6)-methyltransferase; Belongs to the class I-like SAM-binding methyltransferase superfamily. rRNA adenine N(6)-methyltransferase family. 
+662	CGD-NeC-020428|Q7S7F1|Neurospora	367110.Q7S7F1	100.0	209.1	rpl-30	60S ribosomal protein L30; Belongs to the eukaryotic ribosomal protein eL30 family. 
+663	CGD-NeC-020429|Q7S7F8|Neurospora	367110.Q7S7F8	100.0	1100.1	Q7S7F8	Uncharacterized protein
+664	CGD-NeC-020430|Q7S7I2|Neurospora	367110.Q7S7I2	100.0	1993.0	Q7S7I2	Nuclear pore complex protein Nup85; Functions as a component of the nuclear pore complex (NPC). 
+665	CGD-NeC-020431|Q7S7L2|Neurospora	367110.Q7S7L2	100.0	284.6	Q7S7L2	Uncharacterized protein
+666	CGD-NeC-020432|Q7S7L3|Neurospora	367110.Q7S7L3	100.0	954.5	Q7S7L3	Methionyl-tRNA formyltransferase
+667	CGD-NeC-020433|Q7S7M4|Neurospora	367110.Q7S7M4	100.0	112.8	Q7S7M4	Uncharacterized protein
+668	CGD-NeC-020434|Q7S7P3|Neurospora	367110.Q7S7P3	100.0	176.4	Q7S7P3	Uncharacterized protein
+669	CGD-NeC-020435|Q7S7Q5|Neurospora	367110.Q7S7Q5	100.0	996.5	Q7S7Q5	tRNA (Adenine-N(1)-)-methyltransferase catalytic subunit trm61
+670	CGD-NeC-020436|Q7S7S6|Neurospora	367110.Q7S7S6	100.0	504.2	Q7S7S6	Uncharacterized protein
+671	CGD-NeC-020437|Q7S7V1|Neurospora	367110.Q7S7V1	100.0	751.5	Q7S7V1	Opy2 domain-containing protein
+672	CGD-NeC-020438|Q7S7W0|Neurospora	367110.Q7S7W0	100.0	1048.9	kal-1	Homeobox domain-containing protein
+673	CGD-NeC-020439|Q7S7W2|Neurospora	367110.Q7S7W2	100.0	199.1	Q7S7W2	Uncharacterized protein
+674	CGD-NeC-020440|Q7S7W8|Neurospora	367110.Q7S7W8	100.0	1457.2	Q7S7W8	Uncharacterized protein
+675	CGD-NeC-020441|Q7S7Y9|Neurospora	367110.Q7S7Y9	100.0	2265.7	Q7S7Y9	Uncharacterized protein
+676	CGD-NeC-020442|Q7S852|Neurospora	367110.Q7S852	100.0	1033.1	pho-3	Purple acid phosphatase
+677	CGD-NeC-020443|Q7S855|Neurospora	367110.Q7S855	100.0	614.4	Q7S855	Uncharacterized protein
+678	CGD-NeC-020444|Q7S873|Neurospora	367110.Q7S873	100.0	1558.9	dbp-7	ATP-dependent RNA helicase dbp-7; ATP-binding RNA helicase involved in the biogenesis of 60S ribosomal subunits and is required for the normal formation of 25S and 5.8S rRNAs.
+679	CGD-NeC-020445|Q7S891|Neurospora	367110.Q7S891	100.0	614.4	lia1	Deoxyhypusine hydroxylase; Catalyzes the hydroxylation of the N(6)-(4-aminobutyl)-L- lysine intermediate to form hypusine, an essential post-translational modification only found in mature eIF-5A factor.
+680	CGD-NeC-020446|Q7S8C6|Neurospora	367110.Q7S8C6	100.0	1011.1	Q7S8C6	Acyl-CoA desaturase; Stearyl-CoA desaturase that utilizes O(2) and electrons from reduced cytochrome b5 to introduce the first double bond into saturated fatty acyl-CoA substrates.
+681	CGD-NeC-020447|Q7S8E0|Neurospora	367110.Q7S8E0	100.0	2246.1	Q7S8E0	Bifunctional cytochrome P450/NADPH--P450 reductase; In the N-terminal section; belongs to the cytochrome P450 family.
+682	CGD-NeC-020448|Q7S8E9|Neurospora	367110.Q7S8E9	100.0	1777.7	Q7S8E9	Uncharacterized protein
+683	CGD-NeC-020449|Q7S8H2|Neurospora	367110.Q7S8H2	100.0	843.6	Q7S8H2	Alpha/beta hydrolase fold-3 domain-containing protein
+684	CGD-NeC-020450|Q7S8H3|Neurospora	367110.Q7S8H3	100.0	944.1	Q7S8H3	ATP-dependent Zn protease
+685	CGD-NeC-020451|Q7S8I6|Neurospora	367110.Q7S8I6	100.0	208.4	Q7S8I6	ATP synthase subunit F
+686	CGD-NeC-020452|Q7S8K6|Neurospora	367110.Q7S8K6	100.0	337.8	Q7S8K6	Rhodanese domain-containing protein
+687	CGD-NeC-020453|Q7S8K8|Neurospora	367110.Q7S8K8	100.0	99.0	Q7S8K8	Uncharacterized protein
+688	CGD-NeC-020454|Q7S8K9|Neurospora	367110.Q7S8K9	100.0	526.9	Q7S8K9	Protein YIP
+689	CGD-NeC-020455|Q7S8M8|Neurospora	367110.Q7S8M8	100.0	635.6	Q7S8M8	AN1 zinc finger protein
+690	CGD-NeC-020456|Q7S8R0|Neurospora	367110.Q7S8R0	100.0	862.4	Q7S8R0	Uncharacterized protein
+691	CGD-NeC-020457|Q7S8R3|Neurospora	367110.Q7S8R3	100.0	508.8	bcp-1	Protein bcp-1; Involved in nuclear export, actin cytoskeleton organization and vesicular transport; Belongs to the BCP1 family.
+692	CGD-NeC-020458|Q7S8R6|Neurospora	367110.Q7S8R6	100.0	774.6	Q7S8R6	Norsolorinic acid reductase
+693	CGD-NeC-020459|Q7S8U8|Neurospora	367110.Q7S8U8	100.0	232.3	Q7S8U8	Uncharacterized protein
+694	CGD-NeC-020460|Q7S8U9|Neurospora	367110.Q7S8U9	100.0	386.3	Q7S8U9	Ribosome biogenesis protein RLP24
+695	CGD-NeC-020461|Q7S8V8|Neurospora	367110.Q7S8V8	100.0	175.3	Q7S8V8	Uncharacterized protein
+696	CGD-NeC-020462|Q7S8Y5|Neurospora	367110.Q7S8Y5	100.0	785.8	Q7S8Y5	Uncharacterized protein
+697	CGD-NeC-020463|Q7S8Z0|Neurospora	367110.Q7S8Z0	100.0	703.4	nbp35	Cytosolic Fe-S cluster assembly factor nbp35; Component of the cytosolic iron-sulfur (Fe/S) protein assembly (CIA) machinery. Required for maturation of extramitochondrial Fe-S proteins. The NBP35-CFD1 heterotetramer forms a Fe-S scaffold complex, mediating the de novo assembly of an Fe-S cluster and its transfer to target apoproteins; Belongs to the Mrp/NBP35 ATP-binding proteins family. NUBP1/NBP35 subfamily.
+698	CGD-NeC-020464|Q7S8Z3|Neurospora	367110.Q7S8Z3	100.0	947.6	Q7S8Z3	Uncharacterized protein
+699	CGD-NeC-020465|Q7S8Z8|Neurospora	367110.Q7S8Z8	100.0	1185.6	Q7S8Z8	GTP-binding protein Obg
+700	CGD-NeC-020466|Q7S908|Neurospora	367110.Q7S908	100.0	1292.7	Q7S908	Nucleolar GTP-binding protein 1; Involved in the biogenesis of the 60S ribosomal subunit. ; Belongs to the TRAFAC class OBG-HflX-like GTPase superfamily. OBG GTPase family. NOG subfamily. 
+701	CGD-NeC-020467|Q7S918|Neurospora	367110.Q7S918	100.0	431.4	Q7S918	Uncharacterized protein
+702	CGD-NeC-020468|Q7S919|Neurospora	367110.Q7S919	100.0	2180.2	Q7S919	Calcium-transporting ATPase 3; Belongs to the cation transport ATPase (P-type) (TC 3.A.3) family.
+703	CGD-NeC-020469|Q7S943|Neurospora	367110.Q7S943	100.0	313.9	Q7S943	Uncharacterized protein
+704	CGD-NeC-020470|Q7S947|Neurospora	367110.Q7S947	100.0	1707.2	Q7S947	Alpha-1,2-mannosidase
+705	CGD-NeC-020471|Q7S949|Neurospora	367110.Q7S949	100.0	578.9	dph-5	Diphthine methyl ester synthase; S-adenosyl-L-methionine-dependent methyltransferase that catalyzes four methylations of the modified target histidine residue in translation elongation factor 2 (EF-2), to form an intermediate called diphthine methyl ester. The four successive methylation reactions represent the second step of diphthamide biosynthesis. 
+706	CGD-NeC-020472|Q7S953|Neurospora	367110.Q7S953	100.0	751.5	Q7S953	Uncharacterized protein
+707	CGD-NeC-020473|Q7S956|Neurospora	367110.Q7S956	100.0	798.5	Q7S956	GPI-anchor transamidase; Mediates GPI anchoring in the endoplasmic reticulum, by replacing a protein's C-terminal GPI attachment signal peptide with a pre-assembled GPI. During this transamidation reaction, the GPI transamidase forms a carbonyl intermediate with the substrate protein. ; Belongs to the peptidase C13 family. 
+708	CGD-NeC-020474|Q7S962|Neurospora	367110.Q7S962	100.0	875.2	gel-4	1,3-beta-glucanosyltransferase; Splits internally a 1,3-beta-glucan molecule and transfers the newly generated reducing end (the donor) to the non-reducing end of another 1,3-beta-glucan molecule (the acceptor) forming a 1,3-beta linkage, resulting in the elongation of 1,3-beta-glucan chains in the cell wall; Belongs to the glycosyl hydrolase 72 family. 
+709	CGD-NeC-020475|Q7S970|Neurospora	367110.Q7S970	100.0	896.3	Q7S970	CAIB/BAIF family enzyme
+710	CGD-NeC-020476|Q7S973|Neurospora	367110.Q7S973	100.0	186.4	Q7S973	Nefa_Nip30_N domain-containing protein
+711	CGD-NeC-020477|Q7S986|Neurospora	367110.Q7S986	100.0	1129.8	pgi-1	Glucose-6-phosphate isomerase
+712	CGD-NeC-020478|Q7S9A1|Neurospora	367110.Q7S9A1	100.0	2163.7	gh18-9	Bacteriodes thetaiotaomicron symbiotic chitinase; Belongs to the glycosyl hydrolase 18 family. 
+713	CGD-NeC-020479|Q7S9A4|Neurospora	367110.Q7S9A4	100.0	1238.8	Q7S9A4	ANK_REP_REGION domain-containing protein
+714	CGD-NeC-020480|Q7S9A5|Neurospora	367110.Q7S9A5	100.0	247.3	Q7S9A5	Uncharacterized protein
+715	CGD-NeC-020481|Q7S9A9|Neurospora	367110.Q7S9A9	100.0	1803.5	Q7S9A9	Alpha-1,4 glucan phosphorylase; Phosphorylase is an important allosteric enzyme in carbohydrate metabolism. Enzymes from different sources differ in their regulatory mechanisms and in their natural substrates. However, all known phosphorylases share catalytic and structural properties. 
+716	CGD-NeC-020482|Q7S9B3|Neurospora	367110.Q7S9B3	100.0	828.2	Q7S9B3	Sorbitol dehydrogenase
+717	CGD-NeC-020483|Q7S9D2|Neurospora	367110.Q7S9D2	100.0	2077.0	nma111	Pro-apoptotic serine protease nma111; Nuclear serine protease which mediates apoptosis. ; Belongs to the peptidase S1C family.
+718	CGD-NeC-020484|Q7S9D4|Neurospora	367110.Q7S9D4	100.0	1119.8	Q7S9D4	General amino acid permease
+719	CGD-NeC-020485|Q7S9E8|Neurospora	367110.Q7S9E8	100.0	508.1	Q7S9E8	BZIP domain-containing protein
+720	CGD-NeC-020486|Q7S9G2|Neurospora	367110.Q7S9G2	100.0	651.7	Q7S9G2	Uncharacterized protein
+721	CGD-NeC-020487|Q7S9I4|Neurospora	367110.Q7S9I4	100.0	335.9	Q7S9I4	Mitochondrial 30S ribosomal protein S12; Belongs to the universal ribosomal protein uS12 family. 
+722	CGD-NeC-020488|Q7S9K6|Neurospora	367110.Q7S9K6	100.0	1379.8	Q7S9K6	Uncharacterized protein
+723	CGD-NeC-020489|Q7S9Q8|Neurospora	367110.Q7S9Q8	100.0	591.7	Q7S9Q8	Uncharacterized protein
+724	CGD-NeC-020490|Q7S9R2|Neurospora	367110.Q7S9R2	100.0	483.0	Q7S9R2	ThiJ/PfpI family protein
+725	CGD-NeC-020491|Q7S9R8|Neurospora	367110.Q7S9R8	100.0	137.1	Q7S9R8	Uncharacterized protein
+726	CGD-NeC-020492|Q7S9X9|Neurospora	367110.Q7S9X9	100.0	679.9	Q7S9X9	Syntaxin
+727	CGD-NeC-020493|Q7S9Y0|Neurospora	367110.Q7S9Y0	100.0	1052.0	Q7S9Y0	MFS transporter
+728	CGD-NeC-020494|Q7S9Y3|Neurospora	367110.Q7S9Y3	100.0	396.0	Q7S9Y3	Caffeine-induced death protein Cid2
+729	CGD-NeC-020495|Q7S9Y9|Neurospora	367110.Q7S9Y9	100.0	697.6	eif3h	Eukaryotic translation initiation factor 3 subunit H; Component of the eukaryotic translation initiation factor 3 (eIF-3) complex, which is involved in protein synthesis of a specialized repertoire of mRNAs and, together with other initiation factors, stimulates binding of mRNA and methionyl-tRNAi to the 40S ribosome. The eIF-3 complex specifically targets and initiates translation of a subset of mRNAs involved in cell proliferation. 
+730	CGD-NeC-020496|Q7SA44|Neurospora	367110.Q7SA44	100.0	786.9	Q7SA44	Mannitol-1-phosphate 5-dehydrogenase; Catalyzes the NAD(H)-dependent interconversion of D-fructose 6-phosphate and D-mannitol 1-phosphate in the mannitol metabolic pathway.
+731	CGD-NeC-020497|Q7SA51|Neurospora	367110.Q7SA51	100.0	381.7	Q7SA51	Uncharacterized protein
+732	CGD-NeC-020498|Q7SA74|Neurospora	367110.Q7SA74	100.0	98.6	Q7SA74	CYSTM domain-containing protein
+733	CGD-NeC-020499|Q7SA80|Neurospora	367110.Q7SA80	100.0	240.4	Q7SA80	Uncharacterized protein
+734	CGD-NeC-020500|Q7SA89|Neurospora	367110.Q7SA89	100.0	1518.1	Q7SA89	Lysophospholipase
+735	CGD-NeC-020501|Q7SA91|Neurospora	367110.Q7SA91	100.0	522.7	Q7SA91	RNA-binding La domain-containing protein
+736	CGD-NeC-020502|Q7SAC0|Neurospora	367110.Q7SAC0	100.0	511.9	Q7SAC0	GMP synthase
+737	CGD-NeC-020503|Q7SAC5|Neurospora	367110.Q7SAC5	100.0	1124.8	Q7SAC5	Tartrate transporter
+738	CGD-NeC-020504|Q7SAC8|Neurospora	367110.Q7SAC8	100.0	900.6	ecd-1	Early conidial development-1 protein
+739	CGD-NeC-020505|Q7SAD2|Neurospora	367110.Q7SAD2	100.0	193.4	Q7SAD2	Uncharacterized protein
+740	CGD-NeC-020506|Q7SAG3|Neurospora	367110.Q7SAG3	100.0	1004.2	Q7SAG3	Uncharacterized protein
+741	CGD-NeC-020507|Q7SAH3|Neurospora	367110.Q7SAH3	100.0	576.6	Q7SAH3	Uncharacterized protein
+742	CGD-NeC-020508|Q7SAH5|Neurospora	367110.Q7SAH5	100.0	658.7	Q7SAH5	Histidinol-phosphatase; Belongs to the PHP hydrolase family. HisK subfamily. 
+743	CGD-NeC-020509|Q7SAI5|Neurospora	367110.Q7SAI5	100.0	889.8	Q7SAI5	Taurine catabolism dioxygenase TauD
+744	CGD-NeC-020510|Q7SAI8|Neurospora	367110.Q7SAI8	100.0	842.0	gh28-2	Exopolygalacturonase; Belongs to the glycosyl hydrolase 28 family. 
+745	CGD-NeC-020511|Q7SAM4|Neurospora	367110.Q7SAM4	100.0	256.5	Q7SAM4	Uncharacterized protein
+746	CGD-NeC-020512|Q7SAM8|Neurospora	367110.Q7SAM8	100.0	97.8	Q7SAM8	Uncharacterized protein
+747	CGD-NeC-020513|Q7SAQ6|Neurospora	367110.Q7SAQ6	100.0	152.1	Q7SAQ6	Uncharacterized protein
+748	CGD-NeC-020514|Q7SAR4|Neurospora	367110.Q7SAR4	100.0	815.8	Q7SAR4	Endoglucanase B
+749	CGD-NeC-020515|Q7SAY5|Neurospora	367110.Q7SAY5	100.0	607.4	Q7SAY5	Uncharacterized protein
+750	CGD-NeC-020516|Q7SAZ8|Neurospora	367110.Q7SAZ8	100.0	540.0	Q7SAZ8	Uncharacterized protein
+751	CGD-NeC-020517|Q7SB34|Neurospora	367110.Q7SB34	100.0	1053.5	Q7SB34	MFS pantothenate transporter
+752	CGD-NeC-020518|Q7SB52|Neurospora	367110.Q7SB52	100.0	445.3	Q7SB52	Uracil phosphoribosyltransferase
+753	CGD-NeC-020519|Q7SB60|Neurospora	367110.Q7SB60	100.0	1739.9	Q7SB60	Uncharacterized protein
+754	CGD-NeC-020520|Q7SB62|Neurospora	367110.Q7SB62	100.0	945.7	Q7SB62	Eukaryotic translation initiation factor 3 subunit L; Component of the eukaryotic translation initiation factor 3 (eIF-3) complex, which is involved in protein synthesis of a specialized repertoire of mRNAs and, together with other initiation factors, stimulates binding of mRNA and methionyl-tRNAi to the 40S ribosome. The eIF-3 complex specifically targets and initiates translation of a subset of mRNAs involved in cell proliferation. 
+755	CGD-NeC-020521|Q7SB65|Neurospora	367110.Q7SB65	100.0	1132.1	irs-4	Increased rDNA silencing protein 4; Positive regulator of phosphatidylinositol 4,5-bisphosphate turnover and negatively regulates signaling through the cell integrity pathway. Involved in rDNA silencing (By similarity).
+756	CGD-NeC-020522|Q7SB69|Neurospora	367110.Q7SB69	100.0	3107.8	Q7SB69	Mito ribosomal protein S16
+757	CGD-NeC-020523|Q7SB78|Neurospora	367110.Q7SB78	100.0	1050.0	Q7SB78	Membrane transporter
+758	CGD-NeC-020524|Q7SB80|Neurospora	367110.Q7SB80	100.0	511.1	Q7SB80	Uncharacterized protein
+759	CGD-NeC-020525|Q7SB95|Neurospora	367110.Q7SB95	100.0	239.6	Q7SB95	Mito ribosomal protein S6
+760	CGD-NeC-020526|Q7SB96|Neurospora	367110.Q7SB96	100.0	612.5	Q7SB96	Defective in cullin neddylation protein; Neddylation of cullins play an essential role in the regulation of SCF-type complexes activity. 
+761	CGD-NeC-020527|Q7SBA6|Neurospora	367110.Q7SBA6	100.0	1207.2	Q7SBA6	Nucleolar protein 4
+762	CGD-NeC-020528|Q7SBC6|Neurospora	367110.Q7SBC6	100.0	863.6	drh-1	ATP-dependent RNA helicase dbp2; ATP-dependent RNA helicase involved nonsense-mediated mRNA decay and ribosome biogenesis through rRNA processing.
+763	CGD-NeC-020529|Q7SBD2|Neurospora	367110.Q7SBD2	100.0	217.6	Q7SBD2	Uncharacterized protein
+764	CGD-NeC-020530|Q7SBD4|Neurospora	367110.Q7SBD4	100.0	1460.3	nip-1	Eukaryotic translation initiation factor 3 subunit C; Component of the eukaryotic translation initiation factor 3 (eIF-3) complex, which is involved in protein synthesis of a specialized repertoire of mRNAs and, together with other initiation factors, stimulates binding of mRNA and methionyl-tRNAi to the 40S ribosome. The eIF-3 complex specifically targets and initiates translation of a subset of mRNAs involved in cell proliferation. 
+765	CGD-NeC-020531|Q7SBD5|Neurospora	367110.Q7SBD5	100.0	424.5	rpl-7	60S ribosomal protein L7; Belongs to the universal ribosomal protein uL30 family. 
+766	CGD-NeC-020532|Q7SBD8|Neurospora	367110.Q7SBD8	100.0	301.6	Q7SBD8	40S ribosomal protein S19
+767	CGD-NeC-020533|Q7SBE0|Neurospora	367110.Q7SBE0	100.0	777.3	mdm10	Mitochondrial distribution and morphology protein 10; Component of the ERMES/MDM complex, which serves as a molecular tether to connect the endoplasmic reticulum and mitochondria. Components of this complex are involved in the control of mitochondrial shape and protein biogenesis and may function in phospholipid exchange. mdm10 is involved in the late assembly steps of the general translocase of the mitochondrial outer membrane (TOM complex). Functions in the tom40-specific route of the assembly of outer membrane beta-barrel proteins, including the association of tom40 with the receptor tom22 
+768	CGD-NeC-020534|Q7SBG6|Neurospora	367110.Q7SBG6	100.0	1407.1	Q7SBG6	Ser/Thr protein phosphatase; Belongs to the 5'-nucleotidase family. 
+769	CGD-NeC-020535|Q7SBJ8|Neurospora	367110.Q7SBJ8	100.0	250.8	Q7SBJ8	50S ribosomal protein L14; Belongs to the universal ribosomal protein uL14 family. 
+770	CGD-NeC-020536|Q7SBK1|Neurospora	367110.Q7SBK1	100.0	585.1	Q7SBK1	UDP-galactose 4-epimerase
+771	CGD-NeC-020537|Q7SBK9|Neurospora	367110.Q7SBK9	100.0	287.0	Q7SBK9	Uncharacterized protein
+772	CGD-NeC-020538|Q7SBM1|Neurospora	367110.Q7SBM1	100.0	273.1	Q7SBM1	Uncharacterized protein
+773	CGD-NeC-020539|Q7SBN0|Neurospora	367110.Q7SBN0	100.0	1235.7	Q7SBN0	Phenol 2-monooxygenase
+774	CGD-NeC-020540|Q7SBN4|Neurospora	367110.Q7SBN4	100.0	610.9	Q7SBN4	Uncharacterized protein
+775	CGD-NeC-020541|Q7SBQ7|Neurospora	367110.Q7SBQ7	100.0	1078.2	Q7SBQ7	F-box/LRR repeat containing protein 2
+776	CGD-NeC-020542|Q7SBQ9|Neurospora	367110.Q7SBQ9	100.0	804.7	Q7SBQ9	Iwr1 domain-containing protein
+777	CGD-NeC-020543|Q7SBR4|Neurospora	367110.Q7SBR4	100.0	525.4	Q7SBR4	DUF2040 domain-containing protein
+778	CGD-NeC-020544|Q7SBR9|Neurospora	367110.Q7SBR9	100.0	262.7	Q7SBR9	Uncharacterized protein
+779	CGD-NeC-020545|Q7SBS1|Neurospora	367110.Q7SBS1	100.0	1218.0	Q7SBS1	Uncharacterized protein
+780	CGD-NeC-020546|Q7SBS9|Neurospora	367110.Q7SBS9	100.0	293.5	Q7SBS9	60S ribosomal protein L25
+781	CGD-NeC-020547|Q7SBY0|Neurospora	367110.Q7SBY0	100.0	1350.9	hsf-1	Heat-shock transcription factor-1
+782	CGD-NeC-020548|Q7SBZ2|Neurospora	367110.Q7SBZ2	100.0	318.5	Q7SBZ2	Uncharacterized protein
+783	CGD-NeC-020549|Q7SBZ5|Neurospora	367110.Q7SBZ5	100.0	1309.3	Q7SBZ5	Protein SDA1; Required for 60S pre-ribosomal subunits export to the cytoplasm; Belongs to the SDA1 family. 
+784	CGD-NeC-020550|Q7SBZ7|Neurospora	367110.Q7SBZ7	100.0	1134.0	gh13-3	Glucan 1,4-alpha-maltohexaosidase
+785	CGD-NeC-020551|Q7SC42|Neurospora	367110.Q7SC42	100.0	842.4	Q7SC42	Endo-beta-1,4-mannanase; Belongs to the glycosyl hydrolase 5 (cellulase A) family. 
+786	CGD-NeC-020552|Q7SC47|Neurospora	367110.Q7SC47	100.0	650.6	Q7SC47	Uncharacterized protein
+787	CGD-NeC-020553|Q7SC85|Neurospora	367110.Q7SC85	100.0	1624.8	Q7SC85	Zn(2)-C6 fungal-type domain-containing protein
+788	CGD-NeC-020554|Q7SCC3|Neurospora	367110.Q7SCC3	100.0	898.7	stk-48	Protein-serine/threonine kinase
+789	CGD-NeC-020555|Q7SCM0|Neurospora	367110.Q7SCM0	100.0	427.9	Q7SCM0	Adenine phosphoribosyltransferase
+790	CGD-NeC-020556|Q7SCN0|Neurospora	367110.Q7SCN0	100.0	535.8	fkr-4	FK506-binding protein 4; PPIase that acts as a histone chaperone. Histone proline isomerase that increases the rate of cis-trans isomerization at prolines on the histone H3 N-terminal tail. Proline isomerization influences H3 methylation thereby regulating gene expression. 
+791	CGD-NeC-020557|Q7SCN4|Neurospora	367110.Q7SCN4	100.0	1010.0	Q7SCN4	Zn(2)-C6 fungal-type domain-containing protein
+792	CGD-NeC-020558|Q7SCP6|Neurospora	367110.Q7SCP6	100.0	604.7	Q7SCP6	Oxidoreductase
+793	CGD-NeC-020559|Q7SCP9|Neurospora	367110.Q7SCP9	100.0	463.8	Q7SCP9	Integral membrane protein
+794	CGD-NeC-020560|Q7SCT7|Neurospora	367110.Q7SCT7	100.0	303.5	Q7SCT7	BZIP transcription factor
+795	CGD-NeC-020561|Q7SCV5|Neurospora	367110.Q7SCV5	100.0	705.7	Q7SCV5	Uncharacterized protein
+796	CGD-NeC-020562|Q7SCW9|Neurospora	367110.Q7SCW9	100.0	817.0	ant-1	Protein arginine N-methyltransferase 2; S-adenosyl-L-methionine-dependent protein-arginine N- methyltransferase that methylates the delta-nitrogen atom of arginine residues to form N5-methylarginine (type IV) in target proteins. Monomethylates ribosomal protein L12.
+797	CGD-NeC-020563|Q7SCX7|Neurospora	367110.Q7SCX7	100.0	755.7	Q7SCX7	60S ribosomal protein L2
+798	CGD-NeC-020564|Q7SCY8|Neurospora	367110.Q7SCY8	100.0	688.7	Q7SCY8	Metallo-beta-lactamase
+799	CGD-NeC-020565|Q7SCZ8|Neurospora	367110.Q7SCZ8	100.0	818.1	Q7SCZ8	Uncharacterized protein
+800	CGD-NeC-020566|Q7SD29|Neurospora	367110.Q7SD29	100.0	294.3	Q7SD29	Uncharacterized protein
+801	CGD-NeC-020567|Q7SD38|Neurospora	367110.Q7SD38	100.0	768.1	Q7SD38	NAD dependent epimerase/dehydratase
+802	CGD-NeC-020568|Q7SD42|Neurospora	367110.Q7SD42	100.0	961.4	Q7SD42	PNP_UDP_1 domain-containing protein
+803	CGD-NeC-020569|Q7SD52|Neurospora	367110.Q7SD52	100.0	1456.4	Q7SD52	Zinc finger transcription factor ace1
+804	CGD-NeC-020570|Q7SD55|Neurospora	367110.Q7SD55	100.0	308.1	Q7SD55	Uncharacterized protein
+805	CGD-NeC-020571|Q7SD63|Neurospora	367110.Q7SD63	100.0	917.9	csn-8	Protein CSN12 homolog; Belongs to the CSN12 family.
+806	CGD-NeC-020572|Q7SD73|Neurospora	367110.Q7SD73	100.0	3267.6	Q7SD73	Rif1_N domain-containing protein
+807	CGD-NeC-020573|Q7SD95|Neurospora	367110.Q7SD95	100.0	1150.2	Q7SD95	Uncharacterized protein
+808	CGD-NeC-020574|Q7SDA1|Neurospora	367110.Q7SDA1	100.0	710.3	Q7SDA1	3-dehydroshikimate dehydratase
+809	CGD-NeC-020575|Q7SDC0|Neurospora	367110.Q7SDC0	100.0	1072.0	Q7SDC0	Uncharacterized protein
+810	CGD-NeC-020576|Q7SDF9|Neurospora	367110.Q7SDF9	100.0	3624.3	Q7SDF9	Ankyrin repeat protein
+811	CGD-NeC-020577|Q7SDG6|Neurospora	367110.Q7SDG6	100.0	2207.9	Q7SDG6	U2 snRNP component prp10
+812	CGD-NeC-020578|Q7SDH5|Neurospora	367110.Q7SDH5	100.0	750.4	Q7SDH5	Mannan polymerase complexes MNN9 subunit
+813	CGD-NeC-020579|Q7SDJ9|Neurospora	367110.Q7SDJ9	100.0	156.0	Q7SDJ9	Uncharacterized protein
+814	CGD-NeC-020580|Q7SDN0|Neurospora	367110.Q7SDN0	100.0	3129.7	Q7SDN0	DNA-directed RNA polymerase subunit; DNA-dependent RNA polymerase catalyzes the transcription of DNA into RNA using the four ribonucleoside triphosphates as substrates. 
+815	CGD-NeC-020581|Q7SDQ5|Neurospora	367110.Q7SDQ5	100.0	679.9	Q7SDQ5	Uncharacterized protein
+816	CGD-NeC-020582|Q7SDQ7|Neurospora	367110.Q7SDQ7	100.0	580.1	Q7SDQ7	Uncharacterized protein
+817	CGD-NeC-020583|Q7SDT2|Neurospora	367110.Q7SDT2	100.0	508.1	Q7SDT2	Uncharacterized protein
+818	CGD-NeC-020584|Q7SDT6|Neurospora	367110.Q7SDT6	100.0	547.4	Q7SDT6	Uncharacterized protein
+819	CGD-NeC-020585|Q7SDT8|Neurospora	367110.Q7SDT8	100.0	2028.1	Q7SDT8	SLD3 domain-containing protein
+820	CGD-NeC-020586|Q7SDU0|Neurospora	367110.Q7SDU0	100.0	327.0	Q7SDU0	DUF1348 domain-containing protein
+821	CGD-NeC-020587|Q7SDU1|Neurospora	367110.Q7SDU1	100.0	340.1	Q7SDU1	Peroxiredoxin; Thiol-specific peroxidase that catalyzes the reduction of hydrogen peroxide and organic hydroperoxides to water and alcohols, respectively. Plays a role in cell protection against oxidative stress by detoxifying peroxides; Belongs to the peroxiredoxin family. Prx5 subfamily. 
+822	CGD-NeC-020588|Q7SDV8|Neurospora	367110.Q7SDV8	100.0	1089.3	Q7SDV8	Uncharacterized protein
+823	CGD-NeC-020589|Q7SDV9|Neurospora	367110.Q7SDV9	100.0	738.8	ccp-1	Cytochrome c peroxidase, mitochondrial; Destroys radicals which are normally produced within the cells and which are toxic to biological systems.
+824	CGD-NeC-020590|Q7SDY0|Neurospora	367110.Q7SDY0	100.0	580.5	AR2	AR2
+825	CGD-NeC-020591|Q7SDY7|Neurospora	367110.Q7SDY7	100.0	332.8	un-16	40S ribosomal protein S9; Belongs to the universal ribosomal protein uS4 family. 
+826	CGD-NeC-020592|Q7SE09|Neurospora	367110.Q7SE09	100.0	350.1	Q7SE09	Protein phosphatase; Belongs to the PP2C family. 
+827	CGD-NeC-020593|Q7SE21|Neurospora	367110.Q7SE21	100.0	282.3	Q7SE21	Uncharacterized protein
+828	CGD-NeC-020594|Q7SE29|Neurospora	367110.Q7SE29	100.0	235.3	Q7SE29	RNA binding protein
+829	CGD-NeC-020595|Q7SE63|Neurospora	367110.Q7SE63	100.0	250.8	Q7SE63	Uncharacterized protein
+830	CGD-NeC-020596|Q7SE93|Neurospora	367110.Q7SE93	100.0	666.8	Q7SE93	Uncharacterized protein
+831	CGD-NeC-020597|Q7SEA7|Neurospora	367110.Q7SEA7	100.0	832.0	Q7SEA7	Uncharacterized protein
+832	CGD-NeC-020598|Q7SEC4|Neurospora	367110.Q7SEC4	100.0	2263.4	gh2-3	Intracellular beta-galactosidase BgaD; Belongs to the glycosyl hydrolase 2 family. 
+833	CGD-NeC-020599|Q7SED8|Neurospora	367110.Q7SED8	100.0	1453.3	Q7SED8	Uncharacterized protein
+834	CGD-NeC-020600|Q7SEE6|Neurospora	367110.Q7SEE6	100.0	1033.5	Q7SEE6	Trichothecene C-15 hydroxylase; Belongs to the cytochrome P450 family. 
+835	CGD-NeC-020601|Q7SEE8|Neurospora	367110.Q7SEE8	100.0	1242.6	Q7SEE8	Fungal_trans domain-containing protein
+836	CGD-NeC-020602|Q7SEF5|Neurospora	367110.Q7SEF5	100.0	2055.8	Q7SEF5	NF-X1 finger transcription factor
+837	CGD-NeC-020603|Q7SEG1|Neurospora	367110.Q7SEG1	100.0	1317.0	Q7SEG1	NAD+ kinase Utr1
+838	CGD-NeC-020604|Q7SEH2|Neurospora	367110.Q7SEH2	100.0	1253.4	Q7SEH2	3-phytase A; Belongs to the histidine acid phosphatase family. 
+839	CGD-NeC-020605|Q7SEH3|Neurospora	367110.Q7SEH3	100.0	999.6	Q7SEH3	Cellulase domain-containing protein; Belongs to the glycosyl hydrolase 5 (cellulase A) family. 
+840	CGD-NeC-020606|Q7SEH4|Neurospora	367110.Q7SEH4	100.0	1138.3	Q7SEH4	G_PROTEIN_RECEP_F2_4 domain-containing protein
+841	CGD-NeC-020607|Q7SEI6|Neurospora	367110.Q7SEI6	100.0	1323.5	fld	ADA-7
+842	CGD-NeC-020608|Q7SEI7|Neurospora	367110.Q7SEI7	100.0	850.9	xan-1	Alpha-ketoglutarate-dependent xanthine dioxygenase xan-1; Alpha-ketoglutarate-dependent xanthine dioxygenase is a non- heme mononuclear Fe(2+) enzyme that decarboxylates alpha-ketoglutarate to succinate and CO(2) while hydroxylating xanthine to generate uric acid . Allows xanthine utilization as a nitrogen source ; Belongs to the TfdA dioxygenase family.
+843	CGD-NeC-020609|Q7SEI9|Neurospora	367110.Q7SEI9	100.0	1008.4	Q7SEI9	Uncharacterized protein
+844	CGD-NeC-020610|Q7SEJ1|Neurospora	367110.Q7SEJ1	100.0	179.5	Q7SEJ1	Uncharacterized protein
+845	CGD-NeC-020611|Q7SEK4|Neurospora	367110.Q7SEK4	100.0	1001.5	Q7SEK4	Eukaryotic translation initiation factor 2 gamma subunit
+846	CGD-NeC-020612|Q7SEK9|Neurospora	367110.Q7SEK9	100.0	328.2	Q7SEK9	Mitochondrial 60S ribosomal protein L25
+847	CGD-NeC-020613|Q7SEL3|Neurospora	367110.Q7SEL3	100.0	524.2	Q7SEL3	Uncharacterized protein
+848	CGD-NeC-020614|Q7SEM6|Neurospora	367110.Q7SEM6	100.0	824.7	Q7SEM6	Uncharacterized protein
+849	CGD-NeC-020615|Q7SEP6|Neurospora	367110.Q7SEP6	100.0	458.0	Q7SEP6	Uncharacterized protein
+850	CGD-NeC-020616|Q7SEQ5|Neurospora	367110.Q7SEQ5	100.0	689.1	Q7SEQ5	SURF1-like protein; Probably involved in the biogenesis of the COX complex. ; Belongs to the SURF1 family. 
+851	CGD-NeC-020617|Q7SER5|Neurospora	367110.Q7SER5	100.0	1278.8	Q7SER5	WD repeat containing protein 23
+852	CGD-NeC-020618|Q7SES1|Neurospora	367110.Q7SES1	100.0	218.8	Q7SES1	Uncharacterized protein
+853	CGD-NeC-020619|Q7SES6|Neurospora	367110.Q7SES6	100.0	630.6	tca-17	L-lactate dehydrogenase; Belongs to the LDH/MDH superfamily. 
+854	CGD-NeC-020620|Q7SET0|Neurospora	367110.Q7SET0	100.0	334.0	ncw-5	Non-anchored cell wall protein 5
+855	CGD-NeC-020621|Q7SET9|Neurospora	367110.Q7SET9	100.0	581.3	Q7SET9	Uncharacterized protein
+856	CGD-NeC-020622|Q7SEU4|Neurospora	367110.Q7SEU4	100.0	463.4	lyz	Lysozyme
+857	CGD-NeC-020623|Q7SEU9|Neurospora	367110.Q7SEU9	100.0	251.1	Q7SEU9	Uncharacterized protein
+858	CGD-NeC-020624|Q7SEZ7|Neurospora	367110.Q7SEZ7	100.0	1176.8	Q7SEZ7	Ribosome assembly protein Noc2
+859	CGD-NeC-020625|Q7SF14|Neurospora	367110.Q7SF14	100.0	150.2	Q7SF14	Uncharacterized protein
+860	CGD-NeC-020626|Q7SF16|Neurospora	367110.Q7SF16	100.0	268.1	Q7SF16	Eukaryotic translation initiation factor 1A; Belongs to the eIF-1A family. 
+861	CGD-NeC-020627|Q7SF32|Neurospora	367110.Q7SF32	100.0	892.1	Q7SF32	Uncharacterized protein
+862	CGD-NeC-020628|Q7SF60|Neurospora	367110.Q7SF60	100.0	168.7	Q7SF60	COX assembly mitochondrial protein; Required for mitochondrial cytochrome c oxidase (COX) assembly and respiration; Belongs to the CMC family.
+863	CGD-NeC-020629|Q7SF74|Neurospora	367110.Q7SF74	100.0	552.7	Q7SF74	N-acetyltransferase domain-containing protein
+864	CGD-NeC-020630|Q7SF85|Neurospora	367110.Q7SF85	100.0	228.4	Q7SF85	Mitochondrial 40S ribosomal protein MRP2
+865	CGD-NeC-020631|Q7SFA9|Neurospora	367110.Q7SFA9	100.0	584.7	Q7SFA9	Uncharacterized protein
+866	CGD-NeC-020632|Q7SFC1|Neurospora	367110.Q7SFC1	100.0	1102.4	Q7SFC1	RRN9 domain-containing protein
+867	CGD-NeC-020633|Q7SFC2|Neurospora	367110.Q7SFC2	100.0	1035.8	nop7	Pescadillo homolog; Component of the NOP7 complex, which is required for maturation of the 25S and 5.8S ribosomal RNAs and formation of the 60S ribosome.
+868	CGD-NeC-020634|Q7SFE7|Neurospora	367110.Q7SFE7	100.0	855.9	Q7SFE7	NAD dependent epimerase/dehydratase
+869	CGD-NeC-020635|Q7SFF6|Neurospora	367110.Q7SFF6	100.0	1020.4	Q7SFF6	MFS domain-containing protein
+870	CGD-NeC-020636|Q7SFG8|Neurospora	367110.Q7SFG8	100.0	842.4	Q7SFG8	Transcriptional regulator
+871	CGD-NeC-020637|Q7SFJ9|Neurospora	367110.Q7SFJ9	100.0	277.7	rps-16	40S ribosomal protein S16; Belongs to the universal ribosomal protein uS9 family. 
+872	CGD-NeC-020638|Q7SFL2|Neurospora	367110.Q7SFL2	100.0	1826.2	Q7SFL2	Metalloreductase transmembrane component
+873	CGD-NeC-020639|Q7SFN5|Neurospora	367110.Q7SFN5	100.0	984.9	prr-5	pH-response regulator protein palI/prr-5; Required for the proteolytic cleavage of the transcription factor pacc-1 in response to alkaline ambient pH; Belongs to the palI/RIM9 family.
+874	CGD-NeC-020640|Q7SFP2|Neurospora	367110.Q7SFP2	100.0	555.4	Q7SFP2	Uncharacterized protein
+875	CGD-NeC-020641|Q7SFP7|Neurospora	367110.Q7SFP7	100.0	1097.8	Q7SFP7	Uncharacterized protein; Belongs to the cytochrome P450 family. 
+876	CGD-NeC-020642|Q7SFS4|Neurospora	367110.Q7SFS4	100.0	201.1	Q7SFS4	Uncharacterized protein
+877	CGD-NeC-020643|Q7SFT9|Neurospora	367110.Q7SFT9	100.0	817.4	Q7SFT9	Branched-chain-amino-acid aminotransferase
+878	CGD-NeC-020644|Q7SFV3|Neurospora	367110.Q7SFV3	100.0	548.1	Q7SFV3	Methyltransferase
+879	CGD-NeC-020645|Q7SFV5|Neurospora	367110.Q7SFV5	100.0	693.0	Q7SFV5	Uncharacterized protein
+880	CGD-NeC-020646|Q7SFZ2|Neurospora	367110.Q7SFZ2	100.0	325.9	Q7SFZ2	40S ribosomal protein S11; Belongs to the universal ribosomal protein uS17 family. 
+881	CGD-NeC-020647|Q7SFZ6|Neurospora	367110.Q7SFZ6	100.0	1412.5	Q7SFZ6	Glycosyl hydrolase
+882	CGD-NeC-020648|Q7SFZ9|Neurospora	367110.Q7SFZ9	100.0	1248.0	Q7SFZ9	C2H2 transcription factor
+883	CGD-NeC-020649|Q7SG21|Neurospora	367110.Q7SG21	100.0	387.9	Q7SG21	BAP31 domain-containing protein
+884	CGD-NeC-020650|Q7SG24|Neurospora	367110.Q7SG24	100.0	283.1	Q7SG24	Uncharacterized protein
+885	CGD-NeC-020651|Q7SG47|Neurospora	367110.Q7SG47	100.0	674.1	Q7SG47	Sphingolipid long chain base-responsive protein LSP1
+886	CGD-NeC-020652|Q7SG51|Neurospora	367110.Q7SG51	100.0	565.5	Q7SG51	Uncharacterized protein
+887	CGD-NeC-020653|Q7SG70|Neurospora	367110.Q7SG70	100.0	5024.9	Q7SG70	DRIM domain-containing protein
+888	CGD-NeC-020654|Q7SG72|Neurospora	367110.Q7SG72	100.0	483.8	Q7SG72	Uncharacterized protein
+889	CGD-NeC-020655|Q7SG74|Neurospora	367110.Q7SG74	100.0	691.8	Q7SG74	DnaJ domain-containing protein
+890	CGD-NeC-020656|Q7SG83|Neurospora	367110.Q7SG83	100.0	1243.0	Q7SG83	Mitochondrial 2-methylisocitrate lyase
+891	CGD-NeC-020657|Q7SG90|Neurospora	367110.Q7SG90	100.0	94.7	tom5	Outer mitochondrial membrane translocase 5
+892	CGD-NeC-020658|Q7SG93|Neurospora	367110.Q7SG93	100.0	527.3	Q7SG93	SCP domain-containing protein; Belongs to the CRISP family. 
+893	CGD-NeC-020659|Q7SGA9|Neurospora	367110.Q7SGA9	100.0	617.5	Q7SGA9	Uncharacterized protein
+894	CGD-NeC-020660|Q7SGC3|Neurospora	367110.Q7SGC3	100.0	884.0	Q7SGC3	Ethanolamine kinase
+895	CGD-NeC-020661|Q7SGC9|Neurospora	367110.Q7SGC9	100.0	1460.7	Q7SGC9	HTH La-type RNA-binding domain-containing protein
+896	CGD-NeC-020662|Q7SGD7|Neurospora	367110.Q7SGD7	100.0	1410.2	Q7SGD7	Hydrolase
+897	CGD-NeC-020663|Q7SGE3|Neurospora	367110.Q7SGE3	100.0	126.3	Q7SGE3	60S acidic ribosomal protein P2; Belongs to the eukaryotic ribosomal protein P1/P2 family. 
+898	CGD-NeC-020664|Q7SGG1|Neurospora	367110.Q7SGG1	100.0	283.9	Q7SGG1	Uncharacterized protein
+899	CGD-NeC-020665|Q7SGI9|Neurospora	367110.Q7SGI9	100.0	520.8	Q7SGI9	Uncharacterized protein
+900	CGD-NeC-020666|Q7SGJ1|Neurospora	367110.Q7SGJ1	100.0	134.8	Q7SGJ1	Uncharacterized protein
+901	CGD-NeC-020667|Q7SGL3|Neurospora	367110.Q7SGL3	100.0	470.7	Q7SGL3	NAD(P)H-hydrate epimerase; Catalyzes the epimerization of the S- and R-forms of NAD(P)HX, a damaged form of NAD(P)H that is a result of enzymatic or heat-dependent hydration. This is a prerequisite for the S-specific NAD(P)H-hydrate dehydratase to allow the repair of both epimers of NAD(P)HX.
+902	CGD-NeC-020668|Q7SGL7|Neurospora	367110.Q7SGL7	100.0	984.9	Q7SGL7	Amino acid transporter
+903	CGD-NeC-020669|Q7SGL8|Neurospora	367110.Q7SGL8	100.0	949.5	Q7SGL8	Uncharacterized protein
+904	CGD-NeC-020670|Q7SGM3|Neurospora	367110.Q7SGM3	100.0	972.6	Q7SGM3	Cytochrome b5
+905	CGD-NeC-020671|Q7SGM6|Neurospora	367110.Q7SGM6	100.0	601.3	Q7SGM6	Short chain dehydrogenase/reductase; Belongs to the short-chain dehydrogenases/reductases (SDR) family.
+906	CGD-NeC-020672|Q7SGM9|Neurospora	367110.Q7SGM9	100.0	1963.7	gh3-2	Beta-glucosidase; Belongs to the glycosyl hydrolase 3 family. 
+907	CGD-NeC-020673|Q7SGN3|Neurospora	367110.Q7SGN3	100.0	1079.7	Q7SGN3	Uncharacterized protein
+908	CGD-NeC-020674|Q7SGP9|Neurospora	367110.Q7SGP9	100.0	1079.7	Q7SGP9	Acyl_transf_3 domain-containing protein
+909	CGD-NeC-020675|Q7SGQ7|Neurospora	367110.Q7SGQ7	100.0	2946.0	Q7SGQ7	Uncharacterized protein
+910	CGD-NeC-020676|Q7SGR0|Neurospora	367110.Q7SGR0	100.0	556.6	Q7SGR0	Methyltransf_25 domain-containing protein
+911	CGD-NeC-020677|Q7SGT0|Neurospora	367110.Q7SGT0	100.0	1307.0	Q7SGT0	Glyco_trans_2-like domain-containing protein
+912	CGD-NeC-020678|Q7SGU8|Neurospora	367110.Q7SGU8	100.0	528.9	Q7SGU8	PX domain-containing protein
+913	CGD-NeC-020679|Q7SGX6|Neurospora	367110.Q7SGX6	100.0	227.3	Q7SGX6	Uncharacterized protein
+914	CGD-NeC-020680|Q7SGX7|Neurospora	367110.Q7SGX7	100.0	115.9	Q7SGX7	Uncharacterized protein
+915	CGD-NeC-020681|Q7SGZ3|Neurospora	367110.Q7SGZ3	100.0	1359.7	Q7SGZ3	Phenol 2-monooxygenase
+916	CGD-NeC-020682|Q7SGZ4|Neurospora	367110.Q7SGZ4	100.0	1375.9	Q7SGZ4	F-box domain-containing protein
+917	CGD-NeC-020683|Q7SGZ5|Neurospora	367110.Q7SGZ5	100.0	1714.9	prr-3	pH-response regulator protein palF/prr-3; Required for the proteolytic cleavage of the transcription factor pacc-1 in response to alkaline ambient pH.
+918	CGD-NeC-020684|Q7SH16|Neurospora	367110.Q7SH16	100.0	469.2	csp-1	Conidial separation-1
+919	CGD-NeC-020685|Q7SH17|Neurospora	367110.Q7SH17	100.0	931.4	Q7SH17	Probable acetate kinase
+920	CGD-NeC-020686|Q7SH45|Neurospora	367110.Q7SH45	100.0	515.0	crf4-3	PWWP domain-containing protein
+921	CGD-NeC-020687|Q7SH56|Neurospora	367110.Q7SH56	100.0	437.6	Q7SH56	Uncharacterized protein
+922	CGD-NeC-020688|Q7SH61|Neurospora	367110.Q7SH61	100.0	815.5	Q7SH61	Cell wall synthesis protein-Penicillium chrysogenum
+923	CGD-NeC-020689|Q7SH74|Neurospora	367110.Q7SH74	100.0	783.1	Q7SH74	Glycosyl hydrolase family 88
+924	CGD-NeC-020690|Q7SH77|Neurospora	367110.Q7SH77	100.0	775.0	Q7SH77	Uncharacterized protein
+925	CGD-NeC-020691|Q7SH92|Neurospora	367110.Q7SH92	100.0	300.8	snx-3	Sorting nexin-3; Required for retention of late Golgi membrane proteins. Component of the retrieval machinery that functions by direct interaction with the cytosolic tails of certain TGN membrane proteins during the sorting/budding process at the prevacuolar compartment. Binds phosphatidylinositol 3-phosphate (PtdIns(P3)) (By similarity). 
+926	CGD-NeC-020692|Q7SHA3|Neurospora	367110.Q7SHA3	100.0	932.9	Q7SHA3	Pigment biosynthesis protein Ayg1
+927	CGD-NeC-020693|Q7SHC0|Neurospora	367110.Q7SHC0	100.0	1415.6	Q7SHC0	Uncharacterized protein
+928	CGD-NeC-020694|Q7SHD6|Neurospora	367110.Q7SHD6	100.0	891.7	Q7SHD6	Eno3 protein
+929	CGD-NeC-020695|Q7SHE5|Neurospora	367110.Q7SHE5	100.0	649.8	Q7SHE5	Short chain dehydrogenase/reductase family protein; Belongs to the short-chain dehydrogenases/reductases (SDR) family.
+930	CGD-NeC-020696|Q7SHF3|Neurospora	367110.Q7SHF3	100.0	325.5	Q7SHF3	40S ribosomal protein S8
+931	CGD-NeC-020697|Q7SHF4|Neurospora	367110.Q7SHF4	100.0	732.6	Q7SHF4	Uncharacterized protein
+932	CGD-NeC-020698|Q7SHF6|Neurospora	367110.Q7SHF6	100.0	412.1	ncw-4	Non-anchored cell wall protein 4
+933	CGD-NeC-020699|Q7SHG5|Neurospora	367110.Q7SHG5	100.0	358.2	Q7SHG5	CVNH domain-containing protein
+934	CGD-NeC-020700|Q7SHH2|Neurospora	367110.Q7SHH2	100.0	369.4	Q7SHH2	mRNA stability protein; Plays an essential role in initiation of the G0 program by preventing the degradation of specific nutrient-regulated mRNAs via the 5'-3' mRNA decay pathway.
+935	CGD-NeC-020701|Q7SHJ8|Neurospora	367110.Q7SHJ8	100.0	1322.4	Q7SHJ8	Malic enzyme
+936	CGD-NeC-020702|Q7SHK1|Neurospora	367110.Q7SHK1	100.0	734.6	Q7SHK1	Integral membrane protein
+937	CGD-NeC-020703|Q7SHL0|Neurospora	367110.Q7SHL0	100.0	1044.3	Q7SHL0	Flavin-binding monooxygenase
+938	CGD-NeC-020704|Q7SHL4|Neurospora	367110.Q7SHL4	100.0	440.7	Q7SHL4	Uncharacterized protein
+939	CGD-NeC-020705|Q7SHL6|Neurospora	367110.Q7SHL6	100.0	513.8	Q7SHL6	GST N-terminal domain-containing protein
+940	CGD-NeC-020706|Q7SHL7|Neurospora	367110.Q7SHL7	100.0	800.8	Q7SHL7	Voltage-gated potassium channel beta-2 subunit
+941	CGD-NeC-020707|Q7SHM4|Neurospora	367110.Q7SHM4	100.0	162.5	Q7SHM4	Uncharacterized protein
+942	CGD-NeC-020708|Q7SHT0|Neurospora	367110.Q7SHT0	100.0	771.5	Q7SHT0	DNA-directed RNA polymerase I and III polypeptide
+943	CGD-NeC-020709|Q7SHT8|Neurospora	367110.Q7SHT8	100.0	1949.9	Q7SHT8	Zn(2)-C6 fungal-type domain-containing protein
+944	CGD-NeC-020710|Q7SHU6|Neurospora	367110.Q7SHU6	100.0	225.7	Q7SHU6	Uncharacterized protein
+945	CGD-NeC-020711|Q7SHU9|Neurospora	367110.Q7SHU9	100.0	679.9	Q7SHU9	ATP-dependent (S)-NAD(P)H-hydrate dehydratase; Catalyzes the dehydration of the S-form of NAD(P)HX at the expense of ATP, which is converted to ADP. Together with NAD(P)HX epimerase, which catalyzes the epimerization of the S- and R-forms, the enzyme allows the repair of both epimers of NAD(P)HX, a damaged form of NAD(P)H that is a result of enzymatic or heat-dependent hydration. 
+946	CGD-NeC-020712|Q7SHV9|Neurospora	367110.Q7SHV9	100.0	808.1	Q7SHV9	Uncharacterized protein
+947	CGD-NeC-020713|Q7SHY0|Neurospora	367110.Q7SHY0	100.0	1035.4	Q7SHY0	Serine protease p2; Belongs to the peptidase S8 family. 
+948	CGD-NeC-020714|Q7SI02|Neurospora	367110.Q7SI02	100.0	1725.7	Wdr1p	Wdr1p
+949	CGD-NeC-020715|Q7SI09|Neurospora	367110.Q7SI09	100.0	738.4	ard-1	L-arabinitol 4-dehydrogenase; Catalyzes the NAD-dependent oxidation of L-arabinitol to L- xylulose in the fungal L-arabinose catabolic pathway. L-arabinose catabolism is important for using plant material as a carbon source. Not active on D-arabinitol, D-sorbitol and D-mannitol. ; Belongs to the zinc-containing alcohol dehydrogenase family.
+950	CGD-NeC-020716|Q7SI18|Neurospora	367110.Q7SI18	100.0	267.7	Q7SI18	Ribosomal protein L14
+951	CGD-NeC-020717|Q7SI43|Neurospora	367110.Q7SI43	100.0	1324.3	Q7SI43	AMP-binding enzyme
+952	CGD-NeC-020718|Q871U2|Neurospora	367110.Q871U2	100.0	1419.1	apg-5	Ubiquitin-like modifier-activating enzyme atg7; E1-like activating enzyme involved in the 2 ubiquitin-like systems required for cytoplasm to vacuole transport (Cvt) and autophagy. Activates atg12 for its conjugation with apg-4/atg5 and apg- 6/atg8 for its conjugation with phosphatidylethanolamine. Both systems are needed for the apg-6/atg8 association to Cvt vesicles and autophagosomes membranes. Autophagy is essential for maintenance of amino acid levels and protein synthesis under nitrogen starvation. Required for selective autophagic degradation of the nucleus (nucleophagy) as well as for m
+953	CGD-NeC-020719|Q871V2|Neurospora	367110.Q871V2	100.0	112.5	pmp-1	Plasma membrane proteolipid 3; Plays a role in the regulation of membrane potential. Could mediate a proton leak (By similarity); Belongs to the UPF0057 (PMP3) family.
+954	CGD-NeC-020720|Q872S3|Neurospora	367110.Q872S3	100.0	989.9	yos-9	Protein OS-9 homolog; Lectin involved in the quality control of the secretory pathway. As a member of the endoplasmic reticulum-associated degradation lumenal (ERAD-L) surveillance system, targets misfolded endoplasmic reticulum lumenal glycoproteins for degradation (By similarity).
+955	CGD-NeC-020721|Q873C7|Neurospora	367110.Q873C7	100.0	916.0	hel-2	RuvB-like helicase 2; DNA helicase which participates in several chromatin remodeling complexes, including the SWR1 and the INO80 complexes. The SWR1 complex mediates the ATP-dependent exchange of histone H2A for the H2A variant H2A.Z leading to transcriptional regulation of selected genes by chromatin remodeling. The INO80 complex remodels chromatin by shifting nucleosomes and is involved in DNA repair. Also involved in pre-rRNA processing (By similarity); Belongs to the RuvB family.
+956	CGD-NeC-020722|Q873G4|Neurospora	367110.Q873G4	100.0	246.1	hH2Az	Histone H2A.Z; Variant histone H2A which can replace H2A in some nucleosomes. Nucleosomes wrap and compact DNA into chromatin, limiting DNA accessibility to the cellular machineries which require DNA as a template. Histones thereby play a central role in transcription regulation, DNA repair, DNA replication and chromosomal stability. DNA accessibility is regulated via a complex set of post-translational modifications of histones, also called histone code, and nucleosome remodeling. This variant is enriched at promoters, it may keep them in a repressed state until the appropriate activation sig
+957	CGD-NeC-020723|Q8X034|Neurospora	367110.Q8X034	100.0	409.5	rpl-15	60S ribosomal protein L15; Belongs to the eukaryotic ribosomal protein eL15 family. 
+958	CGD-NeC-020724|Q8X066|Neurospora	367110.Q8X066	100.0	966.5	nop-58	Nucleolar protein 58; Required for pre-18S rRNA processing. May bind microtubules (By similarity); Belongs to the NOP5/NOP56 family.
+959	CGD-NeC-020725|Q8X0F1|Neurospora	367110.Q8X0F1	100.0	605.9	cfd1	Cytosolic Fe-S cluster assembly factor cfd1; Component of the cytosolic iron-sulfur (Fe/S) protein assembly (CIA) machinery. Required for maturation of extramitochondrial Fe-S proteins. The NBP35-CFD1 heterotetramer forms a Fe-S scaffold complex, mediating the de novo assembly of an Fe-S cluster and its transfer to target apoproteins; Belongs to the Mrp/NBP35 ATP-binding proteins family. NUBP2/CFD1 subfamily.
+960	CGD-NeC-020726|Q92249|Neurospora	367110.Q92249	100.0	692.2	erp38	Protein disulfide-isomerase erp38
+961	CGD-NeC-020727|Q96TL5|Neurospora	367110.Q96TL5	100.0	729.9	hog-1	Mitogen-activated protein kinase hog-1; Mitogen-activated protein kinase involved in a signal transduction pathway that is activated by changes in the osmolarity of the extracellular environment. Controls osmotic regulation of transcription of target genes. Involved in ion flux-mediated turgor regulation; Belongs to the protein kinase superfamily. Ser/Thr protein kinase family. MAP kinase subfamily. HOG1 sub-subfamily. 
+962	CGD-NeC-020728|Q96UB1|Neurospora	367110.Q96UB1	100.0	891.3	cbs-1	Trimethyllysine dioxygenase; Converts trimethyllysine (TML) into hydroxytrimethyllysine (HTML); Belongs to the gamma-BBH/TMLD family.
+963	CGD-NeC-020729|Q96X45|Neurospora	367110.Q96X45	100.0	1673.3	cot-3	Elongation factor 2; Catalyzes the GTP-dependent ribosomal translocation step during translation elongation. During this step, the ribosome changes from the pre-translocational (PRE) to the post-translocational (POST) state as the newly formed A-site-bound peptidyl-tRNA and P-site-bound deacylated tRNA move to the P and E sites, respectively. Catalyzes the coordinated movement of the two tRNA molecules, the mRNA and conformational changes in the ribosome (By similarity); Belongs to the TRAFAC class translation factor GTPase superfamily. Classic translation factor GTPase family. EF-G/EF-2 subfa
+964	CGD-NeC-020730|Q9C1K6|Neurospora	367110.Q9C1K6	100.0	538.5	pdx-1	Probable pyridoxal 5'-phosphate synthase subunit pdx-1; Catalyzes the formation of pyridoxal 5'-phosphate from ribose 5-phosphate (RBP), glyceraldehyde 3-phosphate (G3P) and ammonia. The ammonia is provided by pdx-2. Can also use ribulose 5-phosphate and dihydroxyacetone phosphate as substrates, resulting from enzyme- catalyzed isomerization of RBP and G3P, respectively. Also plays an indirect role in resistance to singlet oxygen-generating photosensitizers.
+965	CGD-NeC-020731|Q9C284|Neurospora	367110.Q9C284	100.0	1577.4	sec23-1	Protein transport protein sec23; Component of the coat protein complex II (COPII) which promotes the formation of transport vesicles from the endoplasmic reticulum (ER). The coat has two main functions, the physical deformation of the endoplasmic reticulum membrane into vesicles and the selection of cargo molecules (By similarity).
+966	CGD-NeC-020732|Q9C285|Neurospora	367110.Q9C285	100.0	318.5	rpl-12	60S ribosomal protein L12; Belongs to the universal ribosomal protein uL11 family. 
+967	CGD-NeC-020733|Q9C2H9|Neurospora	367110.Q9C2H9	100.0	1255.0	Q9C2H9	Probable methionine--tRNA ligase, mitochondrial; Belongs to the class-I aminoacyl-tRNA synthetase family. 
+968	CGD-NeC-020734|Q9HE74|Neurospora	367110.Q9HE74	100.0	290.4	crp-28	40S ribosomal protein S23; Belongs to the universal ribosomal protein uS12 family. 
+969	CGD-NeC-020735|Q9P567|Neurospora	367110.Q9P567	100.0	864.0	tca-9	Succinate--CoA ligase [ADP-forming] subunit beta, mitochondrial; Succinyl-CoA synthetase functions in the citric acid cycle (TCA), coupling the hydrolysis of succinyl-CoA to the synthesis of ATP and thus represents the only step of substrate-level phosphorylation in the TCA. The beta subunit provides nucleotide specificity of the enzyme and binds the substrate succinate, while the binding sites for coenzyme A and phosphate are found in the alpha subunit.
+970	CGD-NeC-020736|Q9P5T3|Neurospora	367110.Q9P5T3	100.0	559.7	rrg9	Required for respiratory growth protein 9, mitochondrial; Required for respiratory activity and maintenance and expression of the mitochondrial genome; Belongs to the RRG9 family.
+971	CGD-NeC-020737|Q9P6V8|Neurospora	367110.Q9P6V8	100.0	1210.7	spb1	AdoMet-dependent rRNA methyltransferase spb1; Required for proper assembly of pre-ribosomal particles during the biogenesis of the 60S ribosomal subunit; Belongs to the class I-like SAM-binding methyltransferase superfamily. RNA methyltransferase RlmE family. SPB1 subfamily. 
+972	CGD-NeC-020738|Q9P727|Neurospora	367110.Q9P727	100.0	647.5	tca-8	Succinate--CoA ligase [ADP-forming] subunit alpha, mitochondrial; Succinyl-CoA synthetase functions in the citric acid cycle (TCA), coupling the hydrolysis of succinyl-CoA to the synthesis of ATP and thus represents the only step of substrate-level phosphorylation in the TCA. The alpha subunit of the enzyme binds the substrates coenzyme A and phosphate, while succinate binding and nucleotide specificity is provided by the beta subunit.
+973	CGD-NeC-020739|Q9UW15|Neurospora	367110.Q9UW15	100.0	1877.1	rnr-1	Ribonucleoside-diphosphate reductase large chain; Provides the precursors necessary for DNA synthesis. Catalyzes the biosynthesis of deoxyribonucleotides from the corresponding ribonucleotides; Belongs to the ribonucleoside diphosphate reductase large chain family.
+974	CGD-NeC-020740|Q9UW81|Neurospora	367110.Q9UW81	100.0	625.9	Nop-1	Opsin-1; Could facilitate a sensory photoresponse. ; Belongs to the archaeal/bacterial/fungal opsin family. 
+975	CGD-NeC-020741|Q9UW86|Neurospora	367110.Q9UW86	100.0	651.7	pph-3	Serine/threonine-protein phosphatase PP1; Belongs to the PPP phosphatase family. PP-1 subfamily. 
+976	CGD-NeC-020742|Q9Y756|Neurospora	367110.Q9Y756	100.0	249.6	vma-7	V-type proton ATPase subunit F; Subunit of the peripheral V1 complex of vacuolar ATPase essential for assembly or catalytic function. V-ATPase is responsible for acidifying a variety of intracellular compartments in eukaryotic cells (By similarity).
+977	CGD-NeC-020743|U9W2M5|Neurospora	367110.U9W2M5	100.0	780.0	U9W2M5	Uncharacterized protein
+978	CGD-NeC-020744|U9W2V6|Neurospora	367110.U9W2V6	100.0	1764.2	U9W2V6	Uncharacterized protein
+979	CGD-NeC-020745|U9W2Y9|Neurospora	367110.U9W2S4	100.0	307.0	cdc42	Rho-type GTPase
+980	CGD-NeC-020746|U9W380|Neurospora	367110.U9W337	100.0	178.7	U9W337	SsDNA binding protein
+981	CGD-NeC-020747|U9W3A4|Neurospora	367110.U9W3A4	100.0	445.7	U9W3A4	Uncharacterized protein
+982	CGD-NeC-020748|U9W3C2|Neurospora	367110.U9W3H7	99.4	2129.8	U9W3H7	Uncharacterized protein
+983	CGD-NeC-020749|U9W3F0|Neurospora	367110.U9WGX9	99.7	775.0	U9WGX9	GTR/RAG family GTPase Gtr2
+984	CGD-NeC-020750|U9W3Q0|Neurospora	367110.U9W3Q0	100.0	357.1	U9W3Q0	Uncharacterized protein
+985	CGD-NeC-020751|U9W3R3|Neurospora	367110.U9W3R3	100.0	466.1	U9W3R3	Uncharacterized protein
+986	CGD-NeC-020752|U9W4M3|Neurospora	367110.U9W4M3	100.0	302.8	U9W4M3	Cell wall biogenesis protein Ecm15
+987	CGD-NeC-020753|U9W4M7|Neurospora	367110.U9W851	99.2	1023.5	U9W851	MIZ zinc finger protein
+988	CGD-NeC-020754|U9W594|Neurospora	367110.U9W594	100.0	1001.9	U9W594	Uncharacterized protein
+989	CGD-NeC-020755|U9W5H2|Neurospora	367110.U9W5H2	100.0	575.9	U9W5H2	Uncharacterized protein
+990	CGD-NeC-020756|U9W5I8|Neurospora	367110.U9W5I8	100.0	342.8	U9W5I8	Uncharacterized protein
+991	CGD-NeC-020757|U9W846|Neurospora	367110.U9W846	100.0	382.1	U9W846	Uncharacterized protein
+992	CGD-NeC-020758|U9W8C3|Neurospora	367110.U9W8C3	100.0	721.5	U9W8C3	Phosphatidyl synthase, variant; Belongs to the CDP-alcohol phosphatidyltransferase class-I family.
+993	CGD-NeC-020759|U9W8F2|Neurospora	367110.U9W8F2	100.0	227.3	U9W8F2	54S ribosomal protein L31, mitochondrial
+994	CGD-NeC-020760|U9WGD4|Neurospora	367110.U9WGD4	100.0	462.6	U9WGD4	C2H2-type domain-containing protein
+995	CGD-NeC-020761|U9WGF9|Neurospora	367110.U9WGF9	100.0	830.9	U9WGF9	Uncharacterized protein
+996	CGD-NeC-020762|U9WGH7|Neurospora	367110.U9WGH7	100.0	1066.6	U9WGH7	Glutathione synthetase
+997	CGD-NeC-020763|U9WGT4|Neurospora	367110.U9WGT4	100.0	1875.1	U9WGT4	Zn(2)-C6 fungal-type domain-containing protein
+998	CGD-NeC-020764|V5IKC3|Neurospora	367110.V5IKC3	100.0	1316.6	V5IKC3	Sulfite oxidase, variant
+999	CGD-NeC-020765|V5IKF7|Neurospora	367110.V5IKM7	100.0	960.3	V5IKM7	AAA_16 domain-containing protein
+1000	CGD-NeC-020766|V5IKG9|Neurospora	367110.V5ILP2	98.5	2839.7	mik-1	MAP kinase kinase kinase
+1001	CGD-NeC-020767|V5IKH2|Neurospora	367110.V5IKH2	100.0	882.9	V5IKH2	MFS domain-containing protein
+1002	CGD-NeC-020768|V5IKK0|Neurospora	367110.V5IKK0	100.0	811.2	syn-1	Syntaxin family protein
+1003	CGD-NeC-020769|V5IKP5|Neurospora	367110.V5IKP5	100.0	582.0	V5IKP5	Uncharacterized protein
+1004	CGD-NeC-020770|V5IKQ9|Neurospora	367110.V5IKQ9	100.0	1665.2	V5IKQ9	Uncharacterized protein
+1005	CGD-NeC-020771|V5IKV9|Neurospora	367110.V5IN22	100.0	772.7	V5IN22	NADP-dependent alcohol dehydrogenase C
+1006	CGD-NeC-020772|V5IKW1|Neurospora	367110.V5IKW1	100.0	114.4	V5IKW1	Uncharacterized protein
+1007	CGD-NeC-020773|V5IKW7|Neurospora	367110.V5IKW7	100.0	1009.6	tob55	Mitochondrial outer membrane beta-barrel protein Tob55
+1008	CGD-NeC-020774|V5IKX0|Neurospora	367110.V5IKX0	100.0	455.7	V5IKX0	Uncharacterized protein
+1009	CGD-NeC-020775|V5IL01|Neurospora	367110.V5IL77	100.0	206.5	V5IL77	Uncharacterized protein
+1010	CGD-NeC-020776|V5IL06|Neurospora	367110.V5IL06	100.0	209.5	V5IL06	Polyadenylate-binding protein 2, variant
+1011	CGD-NeC-020777|V5IL07|Neurospora	367110.V5ILJ4	100.0	698.4	V5ILJ4	RNP domain-containing protein, variant 1
+1012	CGD-NeC-020778|V5IL38|Neurospora	367110.V5IL38	100.0	522.7	V5IL38	Uncharacterized protein
+1013	CGD-NeC-020779|V5IL53|Neurospora	367110.V5IL53	100.0	592.0	V5IL53	Hydroxyacylglutathione hydrolase, variant 1
+1014	CGD-NeC-020780|V5IL92|Neurospora	367110.V5ILJ3	99.4	915.2	sub-1	Submerged protoperithecia-1
+1016	CGD-NeC-020782|V5ILB7|Neurospora	367110.V5ILB7	100.0	508.1	V5ILB7	Beta-taxilin
+1017	CGD-NeC-020783|V5ILC8|Neurospora	367110.V5ILC8	100.0	397.1	V5ILC8	Uncharacterized protein
+1018	CGD-NeC-020784|V5ILT0|Neurospora	367110.V5ILT0	100.0	165.6	V5ILT0	Zinc knuckle domain-containing protein, variant
+1019	CGD-NeC-020785|V5ILT2|Neurospora	367110.V5ILT2	100.0	315.8	V5ILT2	Uncharacterized protein
+1020	CGD-NeC-020786|V5ILW0|Neurospora	367110.V5ILW0	100.0	899.0	V5ILW0	Uncharacterized protein
+1021	CGD-NeC-020787|V5ILX2|Neurospora	367110.V5ILX2	100.0	214.5	V5ILX2	Uncharacterized protein
+1022	CGD-NeC-020788|V5ILY4|Neurospora	367110.V5ILY4	100.0	105.1	tom7	TOM7, variant 1
+1023	CGD-NeC-020789|V5ILZ3|Neurospora	367110.V5ILZ3	100.0	859.4	V5ILZ3	Uncharacterized protein
+1024	CGD-NeC-020790|V5ILZ6|Neurospora	367110.V5ILZ6	100.0	1206.4	V5ILZ6	N-acyl-phosphatidylethanolamine-hydrolyzing phospholipase D
+1025	CGD-NeC-020791|V5IM40|Neurospora	367110.V5IM40	100.0	875.9	V5IM40	Sterigmatocystin 8-O-methyltransferase, variant
+1026	CGD-NeC-020792|V5IM63|Neurospora	367110.V5IM63	100.0	1060.8	cut-1	HAD-superfamily hydrolase
+1027	CGD-NeC-020793|V5IM90|Neurospora	367110.V5IM90	100.0	277.3	V5IM90	Endosomal cargo receptor, variant
+1028	CGD-NeC-020794|V5IMC5|Neurospora	367110.V5IMC5	100.0	454.1	V5IMC5	F-box domain-containing protein
+1029	CGD-NeC-020795|V5IMJ7|Neurospora	367110.V5IMJ7	100.0	641.0	V5IMJ7	Pectate lyase 1
+1030	CGD-NeC-020796|V5IML4|Neurospora	367110.V5IML4	100.0	411.4	V5IML4	Uncharacterized protein
+1031	CGD-NeC-020797|V5IMM3|Neurospora	367110.V5IMM3	100.0	1795.0	gh3-1	Beta-glucosidase; Belongs to the glycosyl hydrolase 3 family. 
+1032	CGD-NeC-020798|V5IMR2|Neurospora	367110.V5IPH9	98.2	275.8	V5IPH9	RRM domain-containing protein
+1033	CGD-NeC-020799|V5IMT4|Neurospora	367110.V5IMT4	100.0	1698.7	V5IMT4	ZZ type zinc finger domain-containing protein, variant
+1034	CGD-NeC-020800|V5IMT5|Neurospora	367110.V5IMT5	100.0	1634.0	V5IMT5	HET domain-containing protein
+1035	CGD-NeC-020801|V5IMU4|Neurospora	367110.V5IMU4	100.0	1312.7	V5IMU4	Uncharacterized protein
+1036	CGD-NeC-020802|V5IMU8|Neurospora	367110.V5IMU8	100.0	99.4	V5IMU8	Uncharacterized protein
+1037	CGD-NeC-020803|V5IMW2|Neurospora	367110.V5IPM3	93.8	987.3	V5IPM3	Uncharacterized protein
+1038	CGD-NeC-020804|V5IMY4|Neurospora	367110.V5IMY4	100.0	1597.0	V5IMY4	HET domain-containing protein
+1039	CGD-NeC-020805|V5IMZ7|Neurospora	367110.V5IMZ7	100.0	1910.6	V5IMZ7	Uncharacterized protein
+1040	CGD-NeC-020806|V5IN02|Neurospora	367110.V5IN02	100.0	299.7	V5IN02	Uncharacterized protein
+1041	CGD-NeC-020807|V5IN09|Neurospora	367110.V5IQP3	93.1	1112.8	fsd-1	Female sexual development-1 protein
+1042	CGD-NeC-020808|V5IN20|Neurospora	367110.Q9P3K9	100.0	1590.1	lcm-2	tRNA wybutosine-synthesizing protein 4; Probable S-adenosyl-L-methionine-dependent methyltransferase that acts as a component of the wybutosine biosynthesis pathway. Wybutosine is a hyper modified guanosine with a tricyclic base found at the 3'-position adjacent to the anticodon of eukaryotic phenylalanine tRNA. May methylate the carboxyl group of leucine residues to form alpha-leucine ester residues (By similarity); Belongs to the methyltransferase superfamily. LCMT family. 
+1043	CGD-NeC-020809|V5IN27|Neurospora	367110.V5IN27	100.0	297.4	V5IN27	Uncharacterized protein
+1044	CGD-NeC-020810|V5IN38|Neurospora	367110.V5IP34	98.0	1976.1	V5IP34	Uncharacterized protein
+1045	CGD-NeC-020811|V5IN45|Neurospora	367110.V5IN45	100.0	419.5	V5IN45	Cell cycle control protein cwf16, variant
+1046	CGD-NeC-020812|V5IN52|Neurospora	367110.V5IN52	100.0	979.2	V5IN52	ATP citrate lyase, variant
+1047	CGD-NeC-020813|V5IN69|Neurospora	367110.V5IN69	100.0	1064.3	V5IN69	Uncharacterized protein
+1048	CGD-NeC-020814|V5IN81|Neurospora	367110.V5IN81	100.0	115.9	V5IN81	SMAP domain-containing protein
+1049	CGD-NeC-020815|V5IN82|Neurospora	367110.V5IN82	100.0	201.4	V5IN82	Uncharacterized protein
+1050	CGD-NeC-020816|V5IN83|Neurospora	367110.V5IN83	100.0	267.7	V5IN83	Uncharacterized protein
+1051	CGD-NeC-020817|V5INB4|Neurospora	367110.V5IQY3	100.0	108.2	V5IQY3	Uncharacterized protein
+1052	CGD-NeC-020818|V5IND0|Neurospora	367110.V5INM3	100.0	1246.1	pp-2	Protein arginine N-methyltransferase; Belongs to the class I-like SAM-binding methyltransferase superfamily.
+1053	CGD-NeC-020819|V5IND7|Neurospora	367110.V5IND7	100.0	1211.4	V5IND7	Zn(2)-C6 fungal-type domain-containing protein
+1054	CGD-NeC-020820|V5INF5|Neurospora	367110.V5INF5	100.0	2622.0	V5INF5	Elongator complex protein 1; Component of the RNA polymerase II elongator complex, a multiprotein complex associated with the RNA polymerase II (Pol II) holoenzyme, and which is involved in transcriptional elongation. ; Belongs to the ELP1/IKA1 family. 
+1055	CGD-NeC-020821|V5INI1|Neurospora	367110.V5INI1	100.0	110.5	V5INI1	60S ribosomal protein L40, variant
+1056	CGD-NeC-020822|V5INJ2|Neurospora	367110.V5INJ2	100.0	132.1	V5INJ2	Uncharacterized protein
+1057	CGD-NeC-020823|V5INK9|Neurospora	367110.V5IP37	90.8	360.5	V5IP37	Clr5 domain-containing protein
+1058	CGD-NeC-020824|V5INL1|Neurospora	367110.V5INL1	100.0	1062.4	V5INL1	Uncharacterized protein
+1059	CGD-NeC-020825|V5INM7|Neurospora	367110.V5ILU9	92.6	762.3	gln-2	Glutamine synthetase
+1060	CGD-NeC-020826|V5INN5|Neurospora	367110.V5INN5	100.0	1701.8	V5INN5	Zn(2)-C6 fungal-type domain-containing protein
+1061	CGD-NeC-020827|V5INR2|Neurospora	367110.V5INR2	100.0	899.0	cys-18	Adenosylhomocysteinase
+1062	CGD-NeC-020828|V5INR3|Neurospora	367110.V5INR3	100.0	231.1	V5INR3	Uncharacterized protein
+1063	CGD-NeC-020829|V5INR8|Neurospora	367110.V5INR8	100.0	120.2	V5INR8	40S ribosomal protein S30; Belongs to the eukaryotic ribosomal protein eS30 family. 
+1064	CGD-NeC-020830|V5INX7|Neurospora	367110.V5INX7	100.0	1343.2	V5INX7	DNA lyase Apn2
+1065	CGD-NeC-020831|V5INX8|Neurospora	367110.V5INX8	100.0	519.6	V5INX8	Uncharacterized protein
+1066	CGD-NeC-020832|V5INZ5|Neurospora	367110.V5INZ5	100.0	122.1	V5INZ5	Uncharacterized protein
+1067	CGD-NeC-020833|V5IP08|Neurospora	367110.V5IP08	100.0	693.7	V5IP08	BHLH domain-containing protein
+1068	CGD-NeC-020834|V5IP29|Neurospora	367110.V5IP29	100.0	360.5	V5IP29	Uncharacterized protein
+1069	CGD-NeC-020835|V5IP35|Neurospora	367110.V5IP35	100.0	1236.5	V5IP35	Uncharacterized protein
+1070	CGD-NeC-020836|V5IP57|Neurospora	367110.V5IP57	100.0	1016.9	V5IP57	D-ser_dehydrat domain-containing protein
+1071	CGD-NeC-020837|V5IP59|Neurospora	367110.V5IP59	100.0	400.2	V5IP59	Uncharacterized protein
+1072	CGD-NeC-020838|V5IP70|Neurospora	367110.V5IP70	100.0	890.6	stk-58	Protein-serine/threonine kinase
+1073	CGD-NeC-020839|V5IP71|Neurospora	367110.V5IP71	100.0	993.4	V5IP71	Uncharacterized protein
+1074	CGD-NeC-020840|V5IP73|Neurospora	367110.V5IP73	100.0	347.8	V5IP73	Uncharacterized protein
+1075	CGD-NeC-020841|V5IP93|Neurospora	367110.V5IRG0	100.0	737.6	V5IRG0	NEDD8-activating enzyme E1 catalytic subunit
+1076	CGD-NeC-020842|V5IPC5|Neurospora	367110.V5IPC5	100.0	1682.5	V5IPC5	Uncharacterized protein
+1077	CGD-NeC-020843|V5IPD1|Neurospora	367110.V5IPD1	100.0	1157.5	V5IPD1	Thermatolerance membrane protein Dlt1
+1078	CGD-NeC-020844|V5IPE4|Neurospora	367110.V5IPE4	100.0	677.9	V5IPE4	Arylacetonitrilase; Nitrilase that hydrolyzes preferentially phenylacetonitrile, but also (R,S)-mandelonitrile, and 2-phenylpropionitrile. ; Belongs to the carbon-nitrogen hydrolase superfamily. Nitrilase family.
+1079	CGD-NeC-020845|V5IPG4|Neurospora	367110.V5IPG4	100.0	193.0	V5IPG4	Questionable protein, variant
+1080	CGD-NeC-020846|V5IPH0|Neurospora	367110.V5IPH0	100.0	593.2	V5IPH0	Uncharacterized protein
+1081	CGD-NeC-020847|V5IPL7|Neurospora	367110.V5IPL7	100.0	310.5	V5IPL7	Uncharacterized protein
+1082	CGD-NeC-020848|V5IPM7|Neurospora	367110.V5IPM7	100.0	342.4	V5IPM7	Uncharacterized protein
+1083	CGD-NeC-020849|V5IPM8|Neurospora	367110.V5IPM8	100.0	398.7	V5IPM8	40S ribosomal protein S8; Belongs to the eukaryotic ribosomal protein eS8 family. 
+1084	CGD-NeC-020850|V5IPP6|Neurospora	367110.V5IPP6	100.0	1086.6	V5IPP6	Uncharacterized protein
+1085	CGD-NeC-020851|V5IPS9|Neurospora	367110.V5IPS9	100.0	999.6	V5IPS9	ATP-dependent DNA helicase; Belongs to the helicase family. RecQ subfamily. 
+1086	CGD-NeC-020852|V5IPT2|Neurospora	367110.V5IPT2	100.0	1337.4	V5IPT2	COesterase domain-containing protein
+1087	CGD-NeC-020853|V5IPY9|Neurospora	367110.V5IPK5	82.5	303.1	tcu-2	TCU-2
+1088	CGD-NeC-020854|V5IQ01|Neurospora	367110.V5IQ01	100.0	479.9	V5IQ01	Uncharacterized protein
+1089	CGD-NeC-020855|V5IQ14|Neurospora	367110.V5IQI7	100.0	544.3	V5IQI7	Dienelactone hydrolase
+1090	CGD-NeC-020856|V5IQ22|Neurospora	367110.V5IQ22	100.0	508.4	V5IQ22	Uncharacterized protein
+1091	CGD-NeC-020857|V5IQ40|Neurospora	367110.V5IQ40	100.0	773.5	ck-1a	Casein kinase I isoform delta; Belongs to the protein kinase superfamily. 
+1092	CGD-NeC-020858|V5IQ48|Neurospora	367110.V5IQ48	100.0	189.5	V5IQ48	Ribosomal protein L37; Binds to the 23S rRNA.
+1093	CGD-NeC-020859|V5IQ52|Neurospora	367110.V5IQ52	100.0	300.4	V5IQ52	Uncharacterized protein
+1094	CGD-NeC-020860|V5IQ72|Neurospora	367110.V5IQ72	100.0	319.7	hpt-1	Histidine phosphotransferase-1
+1095	CGD-NeC-020861|V5IQ85|Neurospora	367110.V5IRN2	100.0	1846.2	V5IRN2	Mitotic spindle checkpoint component mad3
+1096	CGD-NeC-020862|V5IQ86|Neurospora	367110.V5IQL3	95.3	582.8	V5IQL3	Uncharacterized protein
+1097	CGD-NeC-020863|V5IQE0|Neurospora	367110.V5IQE0	100.0	402.5	V5IQE0	Uncharacterized protein
+1098	CGD-NeC-020864|V5IQF2|Neurospora	367110.V5IQ09	96.9	392.1	V5IQ09	Uncharacterized protein
+1099	CGD-NeC-020865|V5IQG7|Neurospora	367110.V5IQG7	100.0	971.8	V5IQG7	Uncharacterized protein
+1100	CGD-NeC-020866|V5IQI3|Neurospora	367110.V5IQI3	100.0	917.5	V5IQI3	Ubiquitin-conjugating enzyme E2Z
+1102	CGD-NeC-020868|V5IQK4|Neurospora	367110.V5IQK4	100.0	867.1	V5IQK4	Uncharacterized protein
+1103	CGD-NeC-020869|V5IQN1|Neurospora	367110.V5IQN1	100.0	1686.8	V5IQN1	Urease; In the C-terminal section; belongs to the metallo-dependent hydrolases superfamily. Urease alpha subunit family. 
+1104	CGD-NeC-020870|V5IQN3|Neurospora	367110.V5IQN3	100.0	467.6	V5IQN3	Uncharacterized protein
+1105	CGD-NeC-020871|V5IQP4|Neurospora	367110.V5IQP4	100.0	241.9	V5IQP4	Uncharacterized protein
+1106	CGD-NeC-020872|V5IQT8|Neurospora	367110.V5IQT8	100.0	350.1	V5IQT8	60S ribosomal protein L20; Belongs to the eukaryotic ribosomal protein eL20 family. 
+1107	CGD-NeC-020873|V5IQU7|Neurospora	367110.V5IQU7	100.0	727.2	V5IQU7	RPN13_C domain-containing protein
+1108	CGD-NeC-020874|V5IQU8|Neurospora	367110.V5IQU8	100.0	1166.0	V5IQU8	Uncharacterized protein
+1109	CGD-NeC-020875|V5IQV9|Neurospora	367110.V5IPB2	100.0	166.0	V5IPB2	RRM domain-containing protein
+1110	CGD-NeC-020876|V5IQX3|Neurospora	367110.V5IQX3	100.0	316.6	V5IQX3	CVNH domain-containing protein
+1111	CGD-NeC-020877|V5IQZ1|Neurospora	367110.V5IRA4	100.0	1165.2	V5IRA4	Lysyl-tRNA synthetase
+1112	CGD-NeC-020878|V5IQZ2|Neurospora	367110.V5IQZ2	100.0	882.1	V5IQZ2	Lipoyltransferase and lipoate-protein ligase, variant 1
+1113	CGD-NeC-020879|V5IQZ6|Neurospora	367110.V5IQZ6	100.0	1471.4	V5IQZ6	1,4-alpha-glucan branching enzyme, variant
+1114	CGD-NeC-020880|V5IR15|Neurospora	367110.V5IPE0	100.0	424.9	V5IPE0	Uncharacterized protein
+1115	CGD-NeC-020881|V5IR24|Neurospora	367110.V5IR24	100.0	234.6	V5IR24	Uncharacterized protein
+1116	CGD-NeC-020882|V5IR31|Neurospora	367110.Q9P6C8	100.0	550.4	adh-1	Alcohol dehydrogenase 1
+1117	CGD-NeC-020883|V5IR46|Neurospora	367110.V5IR46	100.0	1721.4	V5IR46	Uncharacterized protein
+1118	CGD-NeC-020884|V5IR65|Neurospora	367110.V5IR65	100.0	1781.1	V5IR65	PX domain-containing protein, variant 1
+1119	CGD-NeC-020885|V5IRC4|Neurospora	367110.V5IRC4	100.0	845.5	V5IRC4	Uncharacterized protein
+1120	CGD-NeC-020886|V5IRG8|Neurospora	367110.V5IRG8	100.0	1608.6	V5IRG8	Cytoskeleton assembly control protein SLA1p
+1121	CGD-NeC-020887|V5IRH2|Neurospora	367110.V5IRH2	100.0	366.7	V5IRH2	Uncharacterized protein
+1122	CGD-NeC-020888|V5IRI9|Neurospora	367110.V5IRI9	100.0	377.5	V5IRI9	rRNA-processing protein utp23, variant
+1123	CGD-NeC-020889|V5IRK5|Neurospora	367110.V5IRK5	100.0	1536.5	V5IRK5	Zn(2)-C6 fungal-type domain-containing protein
+1124	CGD-NeC-020890|V5IRM6|Neurospora	367110.Q01631	100.0	3084.3	cr-1	Adenylate cyclase; Plays essential roles in regulation of cellular metabolism by catalyzing the synthesis of a second messenger, cAMP. 
+1125	CGD-NeC-020891|V5IRP4|Neurospora	367110.V5IRP4	100.0	1208.7	V5IRP4	Membrane bound cation transporter; Belongs to the Ca(2+):cation antiporter (CaCA) (TC 2.A.19) family.
+1126	CGD-NeC-020892|V5IRR9|Neurospora	367110.V5IRR9	100.0	529.3	V5IRR9	Nucleic acid-binding protein
+1127	CGD-NeC-020895|P78714|Neurospora	367110.P78714	100.0	909.1	wc-2	White collar 2 protein; May function as a transcription factor involved in light regulation. Binds and affects blue light regulation of the al-3 gene. Wc-1 and wc-2 interact via homologous PAS domains, bind to promoters of light regulated genes such as frq, and activate transcription. May bind directly to frq.
+1128	CGD-NeC-020906|A0A0B0EAI3|Neurospora	367110.P10713	100.0	73.2	con-10	Conidiation-specific protein 10
+1129	CGD-NeC-021034|O13360|Neurospora	367110.O13360	100.0	1568.1	fl	Conidial development protein fluffy; Required for conidiophore morphogenesis where it has a role in the budding phase.
+1130	CGD-NeC-021249|P19970|Neurospora	367110.P19970	100.0	1725.7	frq	Frequency clock protein; Circadian clock component involved in the generation of biological rhythms, in particular in rhythm stability, period length, and temperature compensation. Oscillates in abundance with a daily peak early in the morning. Behaves as a negative element in circadian transcriptional loop. May bind to wc-2 protein. The complex frq-wc-2 may turn off the expression of frq.
+1131	CGD-NeC-021256|P21334|Neurospora	367110.P21334	100.0	1190.6	al-1	Phytoene desaturase; Phytoene desaturase involved in the carotenoid biosynthesis pathway. Converts phytoene into 3,4-didehydrolycopene via the intermediary of phytofluene, zeta-carotene, neurosporene and lycopene, by introducing up to five double bonds into phytoene. 
+1132	CGD-NeC-021260|P22151|Neurospora	367110.P22151	100.0	68.9	grg-1	Glucose-repressible gene protein
+1133	CGD-NeC-021330|P36981|Neurospora	367110.Q1K507	42.7	67.4	Q1K507	HMG box domain-containing protein
+1134	CGD-NeC-021413|P54118|Neurospora	367110.P54118	100.0	669.1	gpd-1	Glyceraldehyde-3-phosphate dehydrogenase
+1135	CGD-NeC-021495|Q01301|Neurospora	367110.Q01301	100.0	449.9	ccg-4	Clock-controlled pheromone ccg-4; Pheromone that is regulated by the circadian clock. Expression is mating type specific and under the control of the mating type locus. Involved in conidiation.
+1136	CGD-NeC-021497|Q01358|Neurospora	367110.Q01358	100.0	419.5	bli-3	Protein bli-3
+1137	CGD-NeC-021498|Q01371|Neurospora	367110.Q01371	100.0	1878.2	wc-1	White collar 1 protein; May function as a transcription factor involved in light regulation. Binds and affects blue light regulation of the al-3 gene. Wc-1 and wc-2 proteins interact via homologous PAS domains, bind to promoters of light regulated genes such as frq, and activate transcription.
+1138	CGD-NeC-021511|Q04571|Neurospora	367110.Q04571	100.0	215.3	eas	Hydrophobin; Contributes to surface hydrophobicity, which is important for processes such as association of hyphae in reproductive structures, dispersal of aerial spores and adhesion of pathogens to host structures. Important for the formation of hydrophobic rodlet layers of asexually-produced spores; Belongs to the fungal hydrophobin family.
+1139	CGD-NeC-021555|Q1K5Y8|Neurospora	367110.Q1K5Y8	100.0	389.8	vvd	Vivid PAS protein VVD
+1140	CGD-NeC-021556|Q1K679|Neurospora	367110.Q1K679	100.0	283.5	ccg-14	Clock controlled protein CCG-14
+1141	CGD-NeC-021557|Q1K904|Neurospora	367110.Q1K904	100.0	2702.9	os-4	MAP kinase kinase kinase
+1142	CGD-NeC-021558|Q1K9D1|Neurospora	367110.Q7RVS4	98.9	780.4	ccg-9	Clock-controlled protein 9
+1143	CGD-NeC-021734|Q7RY53|Neurospora	367110.Q7RY53	100.0	672.2	gcy-3	Aldose reductase
+1144	CGD-NeC-021735|Q7S130|Neurospora	367110.Q7S130	100.0	1433.3	Prm1	Plasma membrane fusion protein prm-1; Involved in cell fusion during mating by stabilizing the plasma membrane fusion event; Belongs to the PRM1 family.
+1145	CGD-NeC-021736|Q7S3U4|Neurospora	367110.Q7S3U4	100.0	692.2	gcy-1	Gld1
+1146	CGD-NeC-021737|Q7S687|Neurospora	367110.Q7S687	100.0	4159.4	Q7S687	Ccr4-Not transcription complex subunit
+1147	CGD-NeC-021907|Q92254|Neurospora	367110.Q92254	100.0	470.3	erg-1	C-8 sterol isomerase; Catalyzes the reaction which results in unsaturation at C-7 in the B ring of sterols.
+1148	CGD-NeC-021955|Q9C168|Neurospora	367110.Q9C168	100.0	1503.4	cat-1	Catalase-1; Occurs in almost all aerobically respiring organisms and serves to protect cells from the toxic effects of hydrogen peroxide. 
+1149	CGD-NeC-021956|Q9C3Y6|Neurospora	367110.Q1K5Y8	100.0	389.8	vvd	Vivid PAS protein VVD
+1150	CGD-NeC-022191|V5IR58|Neurospora	367110.V5IQ72	100.0	292.0	hpt-1	Histidine phosphotransferase-1

@@ -1,0 +1,149 @@
+#queryIndex	queryItem	stringId	identity	bitscore	preferredName	annotation
+1	CGD-AsF-028160|CADAFLAP00003626|Aspergillus	332952.B8N6Y8	100.0	427.9	B8N6Y8	Blue light-inducible protein Bli-3
+2	CGD-AsF-028479|CADAFLAP00004669|Aspergillus	332952.B8N8Y9	100.0	1384.4	cprA	NADPH--cytochrome P450 reductase; This enzyme is required for electron transfer from NADP to cytochrome P450 in microsomes. It can also provide electron transfer to heme oxygenase and cytochrome B5. Involved in ergosterol biosynthesis. ; In the C-terminal section; belongs to the flavoprotein pyridine nucleotide cytochrome reductase family.
+3	CGD-AsF-028605|CADAFLAP00000281|Aspergillus	332952.B8MWP1	100.0	885.6	B8MWP1	DNA N-glycosylase, putative
+4	CGD-AsF-028842|CADAFLAP00001011|Aspergillus	332952.B8MYU2	100.0	1134.0	B8MYU2	Uncharacterized protein
+5	CGD-AsF-029419|CADAFLAP00007318|Aspergillus	332952.B8NGA0	100.0	574.3	B8NGA0	Acetyltransferase, GNAT family
+6	CGD-AsF-029686|CADAFLAP00008215|Aspergillus	332952.B8NIK4	100.0	560.1	B8NIK4	HLH transcription factor, putative
+7	CGD-AsF-030172|CADAFLAP00003740|Aspergillus	332952.B8N691	100.0	1790.4	B8N691	Alpha-1,4 glucan phosphorylase; Phosphorylase is an important allosteric enzyme in carbohydrate metabolism. Enzymes from different sources differ in their regulatory mechanisms and in their natural substrates. However, all known phosphorylases share catalytic and structural properties. 
+8	CGD-AsF-030406|CADAFLAP00009211|Aspergillus	332952.B8NM94	100.0	194.9	B8NM94	Uncharacterized protein
+9	CGD-AsF-030449|CADAFLAP00002556|Aspergillus	332952.B8N3U7	100.0	896.3	B8N3U7	Zinc knuckle splicing factor Zfm1
+10	CGD-AsF-030537|CADAFLAP00003677|Aspergillus	332952.B8N4T3	100.0	693.7	B8N4T3	Spermidine synthase; Belongs to the spermidine/spermine synthase family. 
+11	CGD-AsF-030687|CADAFLAP00011676|Aspergillus	332952.B8NTK8	100.0	393.3	B8NTK8	WSC domain-containing protein
+12	CGD-AsF-030892|CADAFLAP00009871|Aspergillus	332952.B8NP30	100.0	3952.1	B8NP30	Adenylate cyclase AcyA
+13	CGD-AsF-030990|CADAFLAP00002420|Aspergillus	332952.B8N1I0	100.0	1436.4	B8N1I0	Trehalose synthase (Ccg-9), putative
+14	CGD-AsF-031149|CADAFLAP00002060|Aspergillus	332952.B8N372	100.0	1339.7	B8N372	HMG box protein, putative
+15	CGD-AsF-031647|CADAFLAP00002004|Aspergillus	332952.B8N0U4	100.0	323.2	B8N0U4	Phosphotransmitter protein Ypd1, putative
+16	CGD-AsF-032240|CADAFLAP00011082|Aspergillus	332952.B8NRU9	100.0	3316.9	B8NRU9	Capsule-associated protein CAP1, putative
+17	CGD-AsF-032506|CADAFLAP00002022|Aspergillus	332952.B8N0W2	100.0	865.9	B8N0W2	Aspartate aminotransferase
+18	CGD-AsF-032588|CADAFLAP00003741|Aspergillus	332952.B8N692	100.0	1389.8	B8N692	ABC fatty acid transporter, putative
+19	CGD-AsF-032793|CADAFLAP00009309|Aspergillus	332952.B8NL41	100.0	596.7	B8NL41	Uncharacterized protein
+20	CGD-AsF-033790|CADAFLAP00011988|Aspergillus	332952.B8NUV8	100.0	1091.3	B8NUV8	Phytoene dehydrogenase, putative
+21	CGD-AsF-033796|CADAFLAP00000648|Aspergillus	332952.B8MXS9	100.0	381.7	B8MXS9	DUF962 domain protein
+22	CGD-AsF-034660|CADAFLAP00003978|Aspergillus	332952.B8N555	100.0	518.8	B8N555	Uncharacterized protein
+23	CGD-AsF-034817|CADAFLAP00002964|Aspergillus	332952.B8N2A4	100.0	229.6	B8N2A4	Arylalkylamine N-acetyltransferase, putative
+24	CGD-AsF-035853|CADAFLAP00005139|Aspergillus	332952.B8NAA9	100.0	932.2	B8NAA9	Phosphoethanolamine
+25	CGD-AsF-036119|CADAFLAP00009212|Aspergillus	332952.B8NM95	100.0	537.7	B8NM95	Uncharacterized protein
+26	CGD-AsF-036554|CADAFLAP00009509|Aspergillus	332952.B8NML5	100.0	1123.6	B8NML5	Glucan endo-1,3-alpha-glucosidase agn1, putative
+27	CGD-AsF-036768|CADAFLAP00008303|Aspergillus	332952.B8NJR9	100.0	420.6	B8NJR9	Adenylyl-sulfate kinase; Catalyzes the synthesis of activated sulfate. 
+28	CGD-AsF-037196|CADAFLAP00010532|Aspergillus	332952.B8NQ75	100.0	1467.6	B8NQ75	Glycogen [starch] synthase; Transfers the glycosyl residue from UDP-Glc to the non- reducing end of alpha-1,4-glucan.
+29	CGD-AsF-037354|CADAFLAP00004123|Aspergillus	332952.B8N5B0	100.0	1186.8	B8N5B0	Molecular chaperone Hsp70; Belongs to the heat shock protein 70 family. 
+30	CGD-AsF-038274|CADAFLAP00005640|Aspergillus	332952.B8NAT8	100.0	1167.1	B8NAT8	Fatty acid desaturase, putative
+31	CGD-AsF-038365|CADAFLAP00012151|Aspergillus	332952.B8NX93	100.0	559.7	B8NX93	Short-chain dehydrogenase, putative; Belongs to the short-chain dehydrogenases/reductases (SDR) family.
+32	CGD-AsF-038662|CADAFLAP00007271|Aspergillus	332952.B8NFW3	100.0	275.8	B8NFW3	Acyl CoA binding protein family
+33	CGD-AsF-038739|CADAFLAP00010398|Aspergillus	332952.B8NQ29	100.0	183.0	B8NQ29	Uncharacterized protein
+34	CGD-AsF-039205|CADAFLAP00012364|Aspergillus	332952.B8NW45	100.0	2032.7	B8NW45	Kinesin family protein (BimC), putative; Belongs to the TRAFAC class myosin-kinesin ATPase superfamily. Kinesin family.
+35	CGD-AsF-039342|CADAFLAP00009869|Aspergillus	332952.B8NNK0	100.0	700.3	B8NNK0	Aquaglyceroporin, putative; Belongs to the MIP/aquaporin (TC 1.A.8) family. 
+36	CGD-AsF-039505|CADAFLAP00007723|Aspergillus	332952.B8NGX8	100.0	1026.5	B8NGX8	Cytochrome P450, putative
+37	CGD-AsF-039659|CADAFLAP00005526|Aspergillus	332952.B8NCW4	100.0	454.1	B8NCW4	60S ribosomal protein L17; Belongs to the universal ribosomal protein uL22 family. 
+38	CGD-AsF-039804|CADAFLAP00008613|Aspergillus	332952.B8NL91	100.0	629.4	B8NL91	BZIP transcription factor HacA
+39	CGD-AsF-039834|CADAFLAP00004827|Aspergillus	332952.B8N9E7	100.0	961.1	B8N9E7	Phospho-2-dehydro-3-deoxyheptonate aldolase; Belongs to the class-II DAHP synthase family. 
+40	CGD-AsF-040228|CADAFLAP00011399|Aspergillus	332952.B8NS87	100.0	5114.3	B8NS87	Polyketide synthase, putative
+41	CGD-AsF-040489|CADAFLAP00003653|Aspergillus	332952.B8N4Q9	100.0	3135.1	aroM	3-phosphoshikimate 1-carboxyvinyltransferase; The AROM polypeptide catalyzes 5 consecutive enzymatic reactions in prechorismate polyaromatic amino acid biosynthesis. ; In the N-terminal section; belongs to the sugar phosphate cyclases superfamily. Dehydroquinate synthase family.  In the 3rd section; belongs to the shikimate kinase family.  In the C-terminal section; belongs to the shikimate dehydrogenase family.
+42	CGD-AsF-040912|CADAFLAP00008874|Aspergillus	332952.B8NKM3	100.0	2357.4	B8NKM3	Rho guanyl nucleotide exchange factor (Rom2), putative
+43	CGD-AsF-041067|CADAFLAP00010410|Aspergillus	332952.B8NQW0	100.0	859.4	B8NQW0	Translation initiation factor 4B
+44	CGD-AsF-041125|CADAFLAP00010854|Aspergillus	332952.B8NSJ9	100.0	1174.5	B8NSJ9	Elongator complex protein 3; Catalytic tRNA acetyltransferase subunit of the RNA polymerase II elongator complex, which is a component of the RNA polymerase II (Pol II) holoenzyme and is involved in transcriptional elongation.
+45	CGD-AsF-041633|CADAFLAP00006035|Aspergillus	332952.B8NBY3	100.0	1054.3	B8NBY3	Serine hydroxymethyltransferase; Interconversion of serine and glycine. ; Belongs to the SHMT family. 
+46	CGD-AsF-041816|CADAFLAP00011873|Aspergillus	332952.B8NTW5	100.0	1059.7	B8NTW5	Cytochrome P450, putative
+47	CGD-AsF-041819|CADAFLAP00003900|Aspergillus	332952.B8N782	100.0	1344.7	B8N782	Glutamate-cysteine ligase Gcs1, putative
+48	CGD-AsF-042328|CADAFLAP00007448|Aspergillus	332952.B8NHG5	100.0	422.5	B8NHG5	Allergenic cerato-platanin Asp F13
+49	CGD-AsF-042365|CADAFLAP00001587|Aspergillus	332952.B8MWB9	100.0	1338.6	B8MWB9	Long-chain fatty acid transporter, putative
+50	CGD-AsF-042935|CADAFLAP00000798|Aspergillus	332952.B8MY79	100.0	3247.2	B8MY79	UDP-N-acetylglucosaminyltransferase
+51	CGD-AsF-043447|CADAFLAP00004858|Aspergillus	332952.B8N9H8	100.0	1553.1	B8N9H8	Patatin-like phospholipase domain-containing protein; Lipid hydrolase; Belongs to the PLPL family. 
+52	CGD-AsF-043586|CADAFLAP00006834|Aspergillus	332952.B8NEM7	100.0	1576.2	B8NEM7	Non-specific serine/threonine protein kinase
+53	CGD-AsF-044036|CADAFLAP00001725|Aspergillus	332952.B8N2R5	100.0	1114.4	B8N2R5	Alpha-amylase, putative
+54	CGD-AsF-044168|CADAFLAP00007289|Aspergillus	332952.B8NG71	100.0	4798.8	B8NG71	Alpha-1,3-glucan synthase Ags2
+55	CGD-AsF-044407|CADAFLAP00001091|Aspergillus	332952.B8MZ22	100.0	109.4	B8MZ22	Conidiation-specific protein (Con-10), putative
+56	CGD-AsF-044553|CADAFLAP00006226|Aspergillus	332952.B8NDX6	100.0	1547.3	B8NDX6	Catalase; Occurs in almost all aerobically respiring organisms and serves to protect cells from the toxic effects of hydrogen peroxide. ; Belongs to the catalase family. 
+57	CGD-AsF-044582|CADAFLAP00011762|Aspergillus	332952.B8NTU4	100.0	1025.8	B8NTU4	Catalase; Occurs in almost all aerobically respiring organisms and serves to protect cells from the toxic effects of hydrogen peroxide. 
+58	CGD-AsF-045334|CADAFLAP00008409|Aspergillus	332952.B8NIV7	100.0	630.2	B8NIV7	Glycerol dehydrogenase Gcy1, putative
+59	CGD-AsF-045659|CADAFLAP00011184|Aspergillus	332952.B8NT00	100.0	802.4	B8NT00	Glutamine synthetase
+60	CGD-AsF-045713|CADAFLAP00008886|Aspergillus	332952.B8NKN5	100.0	2153.6	B8NKN5	3-hydroxy-3-methylglutaryl coenzyme A reductase
+61	CGD-AsF-045883|CADAFLAP00009908|Aspergillus	332952.B8NP67	100.0	740.0	B8NP67	S-methyl-5'-thioadenosine phosphorylase; Catalyzes the reversible phosphorylation of S-methyl-5'- thioadenosine (MTA) to adenine and 5-methylthioribose-1-phosphate. Involved in the breakdown of MTA, a major by-product of polyamine biosynthesis. Responsible for the first step in the methionine salvage pathway after MTA has been generated from S-adenosylmethionine. Has broad substrate specificity with 6-aminopurine nucleosides as preferred substrates.
+62	CGD-AsF-046246|CADAFLAP00000430|Aspergillus	332952.B8MX61	100.0	468.4	B8MX61	Glutathione S-transferase, putative; Belongs to the GST superfamily. 
+63	CGD-AsF-046338|CADAFLAP00001886|Aspergillus	332952.B8N2Y6	100.0	590.1	B8N2Y6	Glyceraldehyde-3-phosphate dehydrogenase
+64	CGD-AsF-047060|CADAFLAP00010563|Aspergillus	332952.B8NQA6	100.0	657.9	B8NQA6	Elongation of fatty acids protein
+65	CGD-AsF-047264|CADAFLAP00010212|Aspergillus	332952.B8NPT2	100.0	1163.3	B8NPT2	Deoxyribodipyrimidine photo-lyase Phr1, putative
+66	CGD-AsF-047725|CADAFLAP00002988|Aspergillus	332952.B8N2C8	100.0	1042.3	cyp51A	Sterol 14-alpha demethylase; Cytochrome P450 monooxygenase involved in the biosynthesis of ergosterol (By similarity). The existence of several duplicated sterol 14-alpha demethylase genes could be a good strategy to modulate the composition and fluidity of the cell membrane (By similarity). Catalyzes C14-demethylation of erburicol to produce 4,4,24-trimethyl cholesta-8,24(28)-dien-3-beta-ol (By similarity). Shows a slight substrate preference toward eburicol over obtusifoliol (By similarity). As a target of azole drugs, plays a crucial role in azole susceptibility . 
+67	CGD-AsF-047736|CADAFLAP00010846|Aspergillus	332952.B8NSJ1	100.0	2546.9	B8NSJ1	ABC multidrug transporter Mdr1
+68	CGD-AsF-048170|CADAFLAP00002094|Aspergillus	332952.B8N3A6	100.0	1300.4	B8N3A6	Plasma membrane fusion protein PRM1; Involved in cell fusion during mating by stabilizing the plasma membrane fusion event; Belongs to the PRM1 family. 
+69	CGD-AsF-048213|CADAFLAP00009457|Aspergillus	332952.B8NMG3	100.0	755.0	B8NMG3	Phenylacetaldoxime dehydratase, putative
+70	CGD-AsF-048348|CADAFLAP00008068|Aspergillus	332952.B8NIE8	100.0	1969.5	B8NIE8	FAD-binding PCMH-type domain-containing protein
+71	CGD-AsF-048844|CADAFLAP00006093|Aspergillus	332952.B8ND13	100.0	800.4	B8ND13	Glycogen synthase kinase (Skp1), putative; Belongs to the protein kinase superfamily. 
+72	CGD-AsF-048994|CADAFLAP00000647|Aspergillus	332952.B8MXS8	100.0	1061.6	B8MXS8	ATP synthase subunit alpha; Produces ATP from ADP in the presence of a proton gradient across the membrane.
+73	CGD-AsF-049219|CADAFLAP00002588|Aspergillus	332952.B8N1Q9	100.0	585.5	B8N1Q9	Hemolysin-III channel protein Izh2, putative
+74	CGD-AsF-049885|CADAFLAP00002106|Aspergillus	332952.B8N3B8	100.0	722.6	B8N3B8	Fructose-1,6-bisphosphatase Fbp1, putative; Belongs to the FBPase class 1 family. 
+75	CGD-AsF-050503|CADAFLAP00002123|Aspergillus	332952.B8N3D5	100.0	673.3	B8N3D5	Lipase/esterase, putative
+76	CGD-AsF-051229|CADAFLAP00012097|Aspergillus	332952.B8NV67	100.0	1190.6	B8NV67	GATA transcription factor LreA
+77	CGD-AsF-051687|CADAFLAP00003766|Aspergillus	332952.B8N6B7	100.0	1792.7	B8N6B7	Nitrate reductase; Nitrate reductase is a key enzyme involved in the first step of nitrate assimilation in plants, fungi and bacteria. 
+78	CGD-AsF-052441|CADAFLAP00004614|Aspergillus	332952.B8N8T4	100.0	1000.7	B8N8T4	Aldehyde dehydrogenase AldA, putative; Belongs to the aldehyde dehydrogenase family. 
+79	CGD-AsF-053006|CADAFLAP00011185|Aspergillus	332952.B8NT01	100.0	1474.9	B8NT01	Mediator of RNA polymerase II transcription subunit 1; Component of the Mediator complex, a coactivator involved in the regulated transcription of nearly all RNA polymerase II-dependent genes. Mediator functions as a bridge to convey information from gene- specific regulatory proteins to the basal RNA polymerase II transcription machinery. Mediator is recruited to promoters by direct interactions with regulatory proteins and serves as a scaffold for the assembly of a functional preinitiation complex with RNA polymerase II and the general transcription factors.
+80	CGD-AsF-053024|CADAFLAP00011965|Aspergillus	332952.B8NUT5	100.0	477.6	B8NUT5	Mitochondrial metallochaperone Sco1, putative
+81	CGD-AsF-053184|CADAFLAP00003158|Aspergillus	332952.B8N2L0	100.0	531.2	B8N2L0	Proteasome component Prs3, putative
+82	CGD-AsF-053229|CADAFLAP00013329|Aspergillus	332952.B8NYP9	100.0	1780.0	B8NYP9	C6 finger domain protein, putative
+83	CGD-AsF-053411|CADAFLAP00002180|Aspergillus	332952.B8N130	100.0	152.5	B8N130	Metallothionein-I gene transcription activator
+84	CGD-AsF-053848|CADAFLAP00002693|Aspergillus	332952.B8N3Z5	100.0	1225.7	B8N3Z5	Cell division cycle protein Cdc20, putative
+85	CGD-AsF-053937|CADAFLAP00008125|Aspergillus	332952.B8NJI0	100.0	1611.7	B8NJI0	Carnitine acetyl transferase; Belongs to the carnitine/choline acetyltransferase family. 
+86	CGD-AsF-054663|CADAFLAP00002078|Aspergillus	332952.B8N390	100.0	1023.1	B8N390	NADH dehydrogenase [ubiquinone] flavoprotein 1, mitochondrial; Core subunit of the mitochondrial membrane respiratory chain NADH dehydrogenase (Complex I) that is believed to belong to the minimal assembly required for catalysis. Complex I functions in the transfer of electrons from NADH to the respiratory chain. 
+87	CGD-AsF-055926|CADAFLAP00000138|Aspergillus	332952.B8MW08	100.0	173.7	LSM5	U6 snRNA-associated Sm-like protein LSm5; Plays a role in U6 snRNP assembly and function. Binds to the 3' end of U6 snRNA.
+88	CGD-AsF-056520|CADAFLAP00012193|Aspergillus	332952.B8NVD4	100.0	846.7	B8NVD4	O-methyltransferase, putative
+89	CGD-AsF-056595|CADAFLAP00008648|Aspergillus	332952.B8NK88	100.0	814.3	B8NK88	Chalcone synthase, putative; Belongs to the thiolase-like superfamily. Chalcone/stilbene synthases family.
+90	CGD-AsF-056759|CADAFLAP00012253|Aspergillus	332952.B8NVJ4	100.0	2798.8	B8NVJ4	Alpha-1,3-glucan synthase Ags3
+91	CGD-AsF-057106|CADAFLAP00010065|Aspergillus	332952.B8NPD5	100.0	991.1	B8NPD5	Phosphotransferase
+92	CGD-AsF-057987|CADAFLAP00010512|Aspergillus	332952.B8NQ55	100.0	997.7	B8NQ55	Acyl-CoA desaturase; Stearyl-CoA desaturase that utilizes O(2) and electrons from reduced cytochrome b5 to introduce the first double bond into saturated fatty acyl-CoA substrates.
+93	CGD-AsF-058032|CADAFLAP00008396|Aspergillus	332952.B8NIU4	100.0	1773.4	B8NIU4	DEAD/DEAH box RNA helicase
+94	CGD-AsF-058134|CADAFLAP00007983|Aspergillus	332952.B8NJC6	100.0	584.7	B8NJC6	Estradiol 17 beta-dehydrogenase, putative; Belongs to the short-chain dehydrogenases/reductases (SDR) family.
+95	CGD-AsF-058929|CADAFLAP00002254|Aspergillus	332952.B8N3H6	100.0	1310.8	B8N3H6	GARP complex subunit (Sac2), putative
+96	CGD-AsF-059057|CADAFLAP00012108|Aspergillus	332952.B8NV78	100.0	1899.0	B8NV78	Alpha,alpha-trehalose-phosphate synthase subunit Tps2, putative
+97	CGD-AsF-059883|CADAFLAP00002054|Aspergillus	332952.B8N366	100.0	2203.3	B8N366	Fatty acid oxygenase PpoA, putative
+98	CGD-AsF-060363|CADAFLAP00003744|Aspergillus	332952.B8N695	100.0	848.6	B8N695	Aspartate aminotransferase, putative
+99	CGD-AsF-060887|CADAFLAP00000914|Aspergillus	332952.B8MYJ5	100.0	977.2	B8MYJ5	Glycerol-3-phosphate dehydrogenase [NAD(+)]
+100	CGD-AsF-061222|CADAFLAP00005868|Aspergillus	332952.B8NBG6	100.0	789.3	B8NBG6	Fungal_trans domain-containing protein
+101	CGD-AsF-061337|CADAFLAP00011736|Aspergillus	332952.B8NTR8	100.0	1313.1	B8NTR8	Succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial; Flavoprotein (FP) subunit of succinate dehydrogenase (SDH) that is involved in complex II of the mitochondrial electron transport chain and is responsible for transferring electrons from succinate to ubiquinone (coenzyme Q).
+102	CGD-AsF-062066|CADAFLAP00012629|Aspergillus	332952.B8NWM0	100.0	625.2	B8NWM0	Short-chain dehydrogenase, putative; Belongs to the short-chain dehydrogenases/reductases (SDR) family.
+103	CGD-AsF-062285|CADAFLAP00011638|Aspergillus	332952.B8NUD8	100.0	312.8	B8NUD8	Superoxide dismutase [Cu-Zn]; Destroys radicals which are normally produced within the cells and which are toxic to biological systems. ; Belongs to the Cu-Zn superoxide dismutase family. 
+104	CGD-AsF-062382|CADAFLAP00000699|Aspergillus	332952.B8MXY0	100.0	432.6	B8MXY0	Peroxisomal membrane protein (PmpP24), putative
+105	CGD-AsF-063133|CADAFLAP00001709|Aspergillus	332952.B8N2P9	100.0	480.7	B8N2P9	Uncharacterized protein
+106	CGD-AsF-063645|CADAFLAP00009844|Aspergillus	332952.B8NNH5	100.0	389.8	B8NNH5	60S acidic ribosomal protein P1; Belongs to the eukaryotic ribosomal protein P1/P2 family. 
+107	CGD-AsF-063861|CADAFLAP00000158|Aspergillus	332952.B8MW28	100.0	1222.6	B8MW28	Uncharacterized protein
+108	CGD-AsF-063880|CADAFLAP00010720|Aspergillus	332952.B8NQH5	100.0	768.5	B8NQH5	Isopenicillin N-CoA epimerase, putative
+109	CGD-AsF-064052|CADAFLAP00004412|Aspergillus	332952.B8N882	100.0	1105.5	B8N882	TGc domain-containing protein
+110	CGD-AsF-064121|CADAFLAP00007623|Aspergillus	332952.B8NHQ1	100.0	1317.0	B8NHQ1	Protein phosphatase regulatory subunit Gac1, putative
+111	CGD-AsF-064623|CADAFLAP00003169|Aspergillus	332952.B8N2M1	100.0	1368.6	B8N2M1	Glucosamine-fructose-6-phosphate aminotransferase
+112	CGD-AsF-065145|CADAFLAP00004355|Aspergillus	332952.B8N825	100.0	950.3	B8N825	Cytochrome P450, putative; Belongs to the cytochrome P450 family. 
+113	CGD-AsF-065242|CADAFLAP00008243|Aspergillus	332952.B8NIN2	100.0	660.2	B8NIN2	CORD and CS domain protein
+114	CGD-AsF-065251|CADAFLAP00002195|Aspergillus	332952.B8N145	100.0	987.6	B8N145	Histone deacetylase SIR2, putative
+115	CGD-AsF-065466|CADAFLAP00009050|Aspergillus	332952.B8NKW1	100.0	1209.9	B8NKW1	GTP binding protein (GTPBP1), putative
+116	CGD-AsF-065715|CADAFLAP00010064|Aspergillus	332952.B8NPD4	100.0	763.8	B8NPD4	NAD-dependent protein deacetylase; Belongs to the sirtuin family. Class I subfamily. 
+117	CGD-AsF-066257|CADAFLAP00009141|Aspergillus	332952.B8NM00	100.0	345.9	B8NM00	Peptidyl-prolyl cis-trans isomerase; PPIases accelerate the folding of proteins. It catalyzes the cis-trans isomerization of proline imidic peptide bonds in oligopeptides; Belongs to the cyclophilin-type PPIase family. 
+118	CGD-AsF-066434|CADAFLAP00002717|Aspergillus	332952.B8N419	100.0	435.6	B8N419	Superoxide dismutase; Destroys radicals which are normally produced within the cells and which are toxic to biological systems. ; Belongs to the iron/manganese superoxide dismutase family. 
+119	CGD-AsF-066541|CADAFLAP00004245|Aspergillus	332952.B8N7R5	100.0	642.1	B8N7R5	Terpene synthase family protein
+120	CGD-AsF-066896|CADAFLAP00010724|Aspergillus	332952.B8NQH9	100.0	700.3	B8NQH9	Lipase, putative
+121	CGD-AsF-067116|CADAFLAP00003165|Aspergillus	332952.B8N2L7	100.0	94.0	B8N2L7	Mating alpha-pheromone PpgA
+122	CGD-AsF-067121|CADAFLAP00002578|Aspergillus	332952.B8N3W9	100.0	936.0	B8N3W9	3-hydroxy-3-methylglutaryl coenzyme A synthase; This enzyme condenses acetyl-CoA with acetoacetyl-CoA to form HMG-CoA, which is the substrate for HMG-CoA reductase. 
+123	CGD-AsF-067187|CADAFLAP00008283|Aspergillus	332952.B8NJP9	100.0	2672.5	B8NJP9	MAP kinase kinase kinase
+124	CGD-AsF-067357|CADAFLAP00010992|Aspergillus	332952.B8NSP9	100.0	379.4	B8NSP9	Ribosomal protein L16a; Belongs to the universal ribosomal protein uL13 family. 
+125	CGD-AsF-067373|CADAFLAP00004767|Aspergillus	332952.B8N987	100.0	1002.7	B8N987	Alkaline phosphatase
+126	CGD-AsF-067518|CADAFLAP00010737|Aspergillus	332952.B8NQJ2	100.0	667.5	B8NQJ2	Glucan endo-1,3-alpha-glucosidase agn1, putative
+127	CGD-AsF-067582|CADAFLAP00003063|Aspergillus	332952.B8N4I5	100.0	1494.6	B8N4I5	Checkpoint protein kinase (SldA), putative
+128	CGD-AsF-067807|CADAFLAP00000785|Aspergillus	332952.B8MY66	100.0	1624.0	B8MY66	DNA topoisomerase I; Releases the supercoiling and torsional tension of DNA introduced during the DNA replication and transcription by transiently cleaving and rejoining one strand of the DNA duplex. Introduces a single-strand break via transesterification at the specific target site 5'-[CT]CCTTp site in duplex DNA. The scissile phosphodiester is attacked by the catalytic tyrosine of the enzyme, resulting in the formation of a DNA-(3'-phosphotyrosyl)-enzyme intermediate and the expulsion of a 5'-OH DNA strand. The free DNA strand then undergoes passage around the unbroken strand thus removing 
+129	CGD-AsF-067974|CADAFLAP00010810|Aspergillus	332952.B8NSF5	100.0	618.6	B8NSF5	Chorismate mutase/prephenate dehydratase
+130	CGD-AsF-068879|CADAFLAP00009508|Aspergillus	332952.B8NML4	100.0	2083.5	B8NML4	Nitric oxide synthase, putative
+131	CGD-AsF-068959|CADAFLAP00002148|Aspergillus	332952.B8N0Z8	100.0	683.3	B8N0Z8	Glycerol dehydrogenase (GldB), putative
+132	CGD-AsF-069063|CADAFLAP00002292|Aspergillus	332952.B8N3L4	100.0	441.0	B8N3L4	C-8 sterol isomerase (Erg-1), putative
+133	CGD-AsF-069248|CADAFLAP00004189|Aspergillus	332952.B8N7K9	100.0	779.6	B8N7K9	Uncharacterized protein
+134	CGD-AsF-069636|CADAFLAP00013284|Aspergillus	332952.B8NYK4	100.0	795.0	B8NYK4	Cystathionine gamma-lyase
+135	CGD-AsF-069655|CADAFLAP00000919|Aspergillus	332952.B8MYK0	100.0	627.9	B8MYK0	Cytochrome C1/Cyt1, putative
+136	CGD-AsF-070187|CADAFLAP00002636|Aspergillus	332952.B8N1V7	100.0	4424.8	B8N1V7	Ccr4-Not transcription complex subunit (NOT1), putative
+137	CGD-AsF-070206|CADAFLAP00000167|Aspergillus	332952.B8MW37	100.0	2126.3	B8MW37	Na/K ATPase alpha 1 subunit, putative; Belongs to the cation transport ATPase (P-type) (TC 3.A.3) family.
+138	CGD-AsF-070363|CADAFLAP00003871|Aspergillus	332952.B8N753	100.0	936.4	B8N753	MFS glucose transporter, putative; Belongs to the major facilitator superfamily. Sugar transporter (TC 2.A.1.1) family.
+139	CGD-AsF-070416|CADAFLAP00010765|Aspergillus	332952.B8NRD5	100.0	955.3	B8NRD5	Citrate synthase; Belongs to the citrate synthase family. 
+140	CGD-AsF-070509|CADAFLAP00005988|Aspergillus	332952.B8NBT6	100.0	893.6	B8NBT6	O-acyltransferase
+141	CGD-AsF-071150|CADAFLAP00002058|Aspergillus	332952.B8N370	100.0	456.8	B8N370	40S ribosomal protein S6; Belongs to the eukaryotic ribosomal protein eS6 family. 
+142	CGD-AsF-071189|CADAFLAP00012060|Aspergillus	332952.B8NV30	100.0	875.2	B8NV30	Hexaprenyl pyrophosphate synthetase Coq1, putative; Belongs to the FPP/GGPP synthase family. 
+143	CGD-AsF-071609|CADAFLAP00002277|Aspergillus	332952.B8N3J9	100.0	345.5	B8N3J9	40S ribosomal protein S8; Belongs to the eukaryotic ribosomal protein eS8 family. 
+144	CGD-AsF-071657|CADAFLAP00012373|Aspergillus	332952.B8NW54	100.0	515.8	B8NW54	Cap binding protein; Belongs to the eukaryotic initiation factor 4E family. 
+145	CGD-AsF-071897|CADAFLAP00001541|Aspergillus	332952.B8N0C2	100.0	969.5	B8N0C2	Trehalose-6-phosphate synthase
+146	CGD-AsF-071904|CADAFLAP00012143|Aspergillus	332952.B8NVB3	100.0	1151.3	B8NVB3	F-box domain-containing protein
+147	CGD-AsF-072061|CADAFLAP00005004|Aspergillus	332952.B8N9X4	100.0	291.2	B8N9X4	Cytochrome c subunit, putative
+148	CGD-AsF-072236|CADAFLAP00007025|Aspergillus	332952.B8NFY5	100.0	216.5	B8NFY5	Hydrophobin
