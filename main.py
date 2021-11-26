@@ -2,6 +2,7 @@ import sys
 import os.path
 from os import listdir
 
+GRAPHS_PATH = './output'
 OUTPUT_PATH = './output'
 DATABASES_PATH = './databases'
 IDS_PATH = DATABASES_PATH + '/ids'
@@ -296,6 +297,16 @@ def output_except(filename1, filename2, except_set, is_imperfect):
     write_file(pathname, '\n'.join(data))
     return
 
+def output_string(filename1, filename2, proteins):
+    string = []
+    for protein in proteins:
+        if protein.string_id is not None:
+            string.append(protein.string_id)
+    
+    pathname = OUTPUT_PATH + '/' + filename1 + operation + filename2 + EXTENSION
+    write_file(pathname, '\n'.join(data))
+    return
+
 def main():
     # user chooses 2 different organisms
     filenames = list_files()
@@ -334,9 +345,7 @@ def main():
     output_except(file2, file1, except_imperfect2, True)
     output_except(file2, file1, except_perfect2, False)
 
-    for protein in except_perfect1:
-        if protein.string_id is not None:
-            print(protein.string_id)
+
 
     eprint('Fin.')
     return
