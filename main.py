@@ -208,14 +208,15 @@ def read_orthology(filename1, filename2):
 
 def find_protein(oma_id, proteins):
     assert oma_id is not None
+    temp_protein = Protein('', oma_id=oma_id)
     start = 0
     end = len(proteins)
     while (start < end):
         middle = (start + end) // 2
         protein = proteins[middle]
-        if (oma_id == protein.oma_id):
+        if (temp_protein == protein):
             return protein
-        elif (oma_id < protein.oma_id):
+        elif (temp_protein < protein):
             end = middle
         else:
             start = middle + 1
@@ -331,6 +332,10 @@ def main():
     output_except(file1, file2, except_perfect1, False)
     output_except(file2, file1, except_imperfect2, True)
     output_except(file2, file1, except_perfect2, False)
+
+    for protein in except_perfect1:
+        if protein.string_id is not None:
+            print(protein.string_id)
 
     eprint('Fin.')
     return

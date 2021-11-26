@@ -28,8 +28,9 @@ The CGD is used for getting the list of proteins in the circadian rhythm pathway
 2. Download the list of protein sequences for the organism from the CGD. Place the file in /databases/cgd
 3. Fast map the list of protein sequences to OMA ids. Download and place the file in /databases/oma
 4. Fast map the list of protein sequences to STRING ids. Download and place the file in /databases/string
-5. Download the lists of proteins orthologous from the OMA. Place the file in /databases/orthology
-6. Name all files to <Name of the Organism>.txt
+5. Name all files to '<Name of the Organism>.txt'
+6. Download the lists of proteins orthologous from the OMA for every possible pairing of organisms. Place the file in /databases/orthology and name each file '<Name of 1st Organism> <Name of 2nd Organism>.txt'
+7. Done. Go ahead and run the program.
 
 
 **Perfect v. Imperfect**
