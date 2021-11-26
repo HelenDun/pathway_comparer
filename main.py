@@ -2,8 +2,10 @@ import sys
 import os.path
 from os import listdir
 
-GRAPHS_PATH = './output'
 OUTPUT_PATH = './output'
+TEXT_PATH = OUTPUT_PATH + '/text'
+GRAPHS_PATH = OUTPUT_PATH + '/graphs'
+
 DATABASES_PATH = './databases'
 IDS_PATH = DATABASES_PATH + '/ids'
 CGD_PATH = DATABASES_PATH + '/cgd'
@@ -275,7 +277,7 @@ def output_union(filename1, filename2, union_set, is_imperfect):
 
         data.append(str(protein.oma_id) + ': [' + ', '.join(orthology_str) + ']')
 
-    pathname = OUTPUT_PATH + '/' + filename1 + operation + filename2 + EXTENSION
+    pathname = TEXT_PATH + '/' + filename1 + operation + filename2 + EXTENSION
     write_file(pathname, '\n'.join(data))
     return
 
@@ -293,17 +295,33 @@ def output_except(filename1, filename2, except_set, is_imperfect):
         assert not is_imperfect or len(protein.orthology_imperfect) == 0
         data.append(protein.cgd_id + '\t' + str(protein.oma_id))
         
-    pathname = OUTPUT_PATH + '/' + filename1 + operation + filename2 + EXTENSION
+    pathname = TEXT_PATH + '/' + filename1 + operation + filename2 + EXTENSION
     write_file(pathname, '\n'.join(data))
     return
 
-def output_string(filename1, filename2, proteins):
-    string = []
+def output_string(filename1, filename2, proteins, is_imperfect, is_union):
+    data = []
     for protein in proteins:
         if protein.string_id is not None:
-            string.append(protein.string_id)
+            data.append(protein.string_id)
+
+    filename = [filename1, 'Perfect', 'Except', filename2]
+    if is_imperfect:
+        filename[1] = 'Imperfect'
+    if is_union:
+        filename[2] = 'Union'
     
-    pathname = OUTPUT_PATH + '/' + filename1 + operation + filename2 + EXTENSION
+    pathname = GRAPHS_PATH + '/' + ' '.join(filename) + EXTENSION
+    write_file(pathname, '\n'.join(data))
+    return
+
+def output_string_full(filename, proteins):
+    data = []
+    for protein in proteins:
+        if protein.string_id is not None:
+            data.append(protein.string_id)
+    
+    pathname = GRAPHS_PATH + '/' + filename + EXTENSION
     write_file(pathname, '\n'.join(data))
     return
 
@@ -333,19 +351,31 @@ def main():
     union_imperfect1, union_perfect1, except_imperfect1, except_perfect1 = compare(proteins1, proteins2, orthology)
     union_imperfect2, union_perfect2, except_imperfect2, except_perfect2 = compare(proteins2, proteins1, orthology)
 
-    # print the unions
+    # output what proteins are union to txt file
     output_union(file1, file2, union_imperfect1, True)
     output_union(file1, file2, union_perfect1, False)
     output_union(file2, file1, union_imperfect2, True)
     output_union(file2, file1, union_perfect2, False)
 
-    # print the excepts
+    # output what proteins are except to txt file
     output_except(file1, file2, except_imperfect1, True)
     output_except(file1, file2, except_perfect1, False)
     output_except(file2, file1, except_imperfect2, True)
     output_except(file2, file1, except_perfect2, False)
 
+    # output proteins as STRING ids for creating STRING database maps
+    output_string_full(file1, proteins1)
+    output_string_full(file2, proteins2)
 
+    output_string(file1, file2, union_imperfect1, True, True)
+    output_string(file1, file2, union_perfect1, False, True)
+    output_string(file2, file1, union_imperfect2, True, True)
+    output_string(file2, file1, union_perfect2, False, True)
+
+    output_string(file1, file2, except_imperfect1, True, False)
+    output_string(file1, file2, except_perfect1, False, False)
+    output_string(file2, file1, except_imperfect2, True, False)
+    output_string(file2, file1, except_perfect2, False, False)
 
     eprint('Fin.')
     return
