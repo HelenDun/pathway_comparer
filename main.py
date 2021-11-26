@@ -351,6 +351,10 @@ def main():
     union_imperfect1, union_perfect1, except_imperfect1, except_perfect1 = compare(proteins1, proteins2, orthology)
     union_imperfect2, union_perfect2, except_imperfect2, except_perfect2 = compare(proteins2, proteins1, orthology)
 
+    eprint()
+    eprint(file1, len(proteins1))
+    eprint(file2, len(proteins2))
+
     # output what proteins are union to txt file
     output_union(file1, file2, union_imperfect1, True)
     output_union(file1, file2, union_perfect1, False)
@@ -376,8 +380,6 @@ def main():
     output_string(file1, file2, except_perfect1, False, False)
     output_string(file2, file1, except_imperfect2, True, False)
     output_string(file2, file1, except_perfect2, False, False)
-
-    eprint('Fin.')
     return
 
 if __name__ == '__main__':
