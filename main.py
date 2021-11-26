@@ -45,10 +45,11 @@ class Protein():
     def __hash__(self):
         return int(self.cgd_id[8:])
 
-    def is_orthologous(self, is_cgd):
-        if is_cgd:
-            return len(self.orthology_cgd) > 0
-        return len(self.orthology) > 0
+    def is_orthologous(self, is_imperfect):
+        length = len(self.orthology_perfect)
+        if is_imperfect:
+            length += len(self.orthology_imperfect)
+        return length > 0
 
 def eprint(*args, **kwargs):
     print(*args, file=sys.stderr, **kwargs)
