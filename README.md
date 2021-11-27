@@ -1,10 +1,10 @@
 # CMP Program
 Authors: Helen Dun, Austin Bassett
-
 V-Nums: V00912482, V00
 
 
 *Introduction*
+
 This program was created to compare the proteins of cellular signalling pathways, specifically circadian rhythm pathways, between organisms. The comparison is output as text files, some for the comparison and others for an easy conversion to a graph for a visual representation. It operates in the following fashion:
 1. Has user choose 2 different organisms to compare
 2. Reads in the set of proteins for each organism and the orthologous mapping between the organisms
@@ -13,6 +13,7 @@ This program was created to compare the proteins of cellular signalling pathways
 
 
 *Running the Program*
+
 To run the program, run the following command:
     python3 main.py
 
@@ -24,6 +25,7 @@ There are 2 folders in the output directory: graphs and text. The graphs folder 
 
 
 *Algorithm*
+
 The program uses files from 3 different databases:
 - Circadian Gene Database (CGD)
 - Orthologous MAtrix Project (OMA)
@@ -35,18 +37,22 @@ For the 2 organisms chosen, A and B, the program outputs 8 different sets as tex
 
 
 **Why Order Matters**
+
 Some proteins of organism A can be orthologous to many proteins in organism B and vice-versa. Therefore, for the union of orthologous proteins in A and B the program would have to create a node that combines all proteins orthologous with each other. This was infeasible as for the graph part STRING only takes a list of proteins so we would need to create or use some otther graphing software for the project. Simplifying the graph of the pathway may also be destructive to information about the proteins. Instead, Union (A,B) is the set of proteins in A that are orthologous to some protein in organism B and Union (B,A) is the set of proteins in B that are orthologous to some protein in organism A.
 
 
 **Union and Except**
+
 There are 2 set operations this program performs on the proteins of the 2 selected organisms: Union (U) and Except (-). As mentioned in the previous section, the Union operation is slightly different from the well-known set operation as it does not consolidate the 2 input sets. The Union operation takes the sets of proteins for 2 organisms, A and B, and the orthology between them and returns the subset of proteins of organism A that are orthologous to some protein of organism B. The Except operation takes the same input but does the opposite of the Union function: it returns the subset of proteins of organism A that are not orthologous to any protein of organism B.
 
 
 **Perfect v. Imperfect**
+
 Protein A from Organism X is orthologous to a set of proteins P of Organism Y. For some protein Q in P, Q may or may not be a protein of the cellular signalling pathway being studied in Organism Y. Suppose Q is not. Do we keep that A is orthologous to Q? The Imperfect set keeps the orthology between A and Q and the Perfect set does not.
 
 
 *Adding an Organism*
+
 1. Choose an organism. Make sure the organism is listed in all 3 databases.
 2. Download the list of protein sequences for the organism from the CGD. Place the file in /databases/cgd
 3. Fast map the list of protein sequences to OMA ids. Download and place the file in /databases/oma
@@ -60,9 +66,11 @@ Protein A from Organism X is orthologous to a set of proteins P of Organism Y. F
 *References*
 
 **Circadian Gene Database (CGD)**
+    
 Shujing Li, Ke Shui, Ying Zhang, Yongqiang Lv, Wankun Deng, Shahid Ullah, Luoying Zhang, Yu Xue, CGDB: a database of circadian genes in eukaryotes, Nucleic Acids Research, Volume 45, Issue D1, January 2017, Pages D397–D403, https://doi.org/10.1093/nar/gkw1028
 
 **STRING Database**
+    
 Szklarczyk D, Gable AL, Nastou KC, Lyon D, Kirsch R, Pyysalo S, Doncheva NT, Legeay M, Fang T, Bork P, Jensen LJ, von Mering C. The STRING database in 2021: customizable protein-protein networks, and functional characterization of user-uploaded gene/measurement sets. Nucleic Acids Res. 2021 Jan 8;49(D1):D605-D612. doi: 10.1093/nar/gkaa1074. Erratum in: Nucleic Acids Res. 2021 Oct 11;49(18):10800. PMID: 33237311; PMCID: PMC7779004.
 
 Szklarczyk D, Gable AL, Lyon D, Junge A, Wyder S, Huerta-Cepas J, Simonovic M, Doncheva NT, Morris JH, Bork P, Jensen LJ, Mering CV. STRING v11: protein-protein association networks with increased coverage, supporting functional discovery in genome-wide experimental datasets. Nucleic Acids Res. 2019 Jan 8;47(D1):D607-D613. doi: 10.1093/nar/gky1131. PMID: 30476243; PMCID: PMC6323986.
@@ -88,6 +96,7 @@ von Mering C, Huynen M, Jaeggi D, Schmidt S, Bork P, Snel B. STRING: a database 
 Snel B, Lehmann G, Bork P, Huynen MA. STRING: a web-server to retrieve and display the repeatedly occurring neighbourhood of a gene. Nucleic Acids Res. 2000 Sep 15;28(18):3442-4. doi: 10.1093/nar/28.18.3442. PMID: 10982861; PMCID: PMC110752.
 
 **Orthologous MAtrix Project (OMA)**
+    
 Adrian M Altenhoff, Clément-Marie Train, Kimberly J Gilbert, Ishita Mediratta, Tarcisio Mendes de Farias, David Moi, Yannis Nevers, Hale-Seda Radoykova, Victor Rossier, Alex Warwick Vesztrocy, Natasha M Glover, Christophe Dessimoz, OMA orthology in 2021: website overhaul, conserved isoforms, ancestral gene order and more, Nucleic Acids Research, Volume 49, Issue D1, 8 January 2021, Pages D373–D379, https://doi.org/10.1093/nar/gkaa1007
 
 Adrian M Altenhoff, Natasha M Glover, Clément-Marie Train, Klara Kaleb, Alex Warwick Vesztrocy, David Dylus, Tarcisio M de Farias, Karina Zile, Charles Stevenson, Jiao Long, Henning Redestig, Gaston H Gonnet, Christophe Dessimoz, The OMA orthology database in 2018: retrieving evolutionary relationships among all domains of life through richer web and programmatic interfaces, Nucleic Acids Research, Volume 46, Issue D1, 4 January 2018, Pages D477–D485, https://doi.org/10.1093/nar/gkx1019
