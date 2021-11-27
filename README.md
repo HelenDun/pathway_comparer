@@ -1,6 +1,8 @@
 # CMP Program
 Authors: Helen Dun, Austin Bassett
+
 V-Nums: V00912482, V00
+
 
 
 *Introduction*
@@ -10,6 +12,7 @@ This program was created to compare the proteins of cellular signalling pathways
 2. Reads in the set of proteins for each organism and the orthologous mapping between the organisms
 3. Compares the set of proteins using Union and Except operations
 4. Outputs the results
+
 
 
 *Running the Program*
@@ -22,6 +25,7 @@ Note. I use a MacOS environment with Python version 3.8.2
 The program will then prompt you to choose 2 organisms for comparison using listed index numbers. When done, the program will output how many proteins there are for each organism and in each set to the commandline. The comparison files will be output to the output directory.
 
 There are 2 folders in the output directory: graphs and text. The graphs folder contains textfiles, each containing the STRING ids for a set of proteins. These are inputs to the STRING database to easily make STRING graphs. The text folder contains textfiles, each containing the OMA ids for a set of proteins. For each protein P in the Union textfiles, there should also be a correlating list of OMA ids and scores for the proteins orthologous to P. If an OMA id has an 'x' character at the beginning, this means the protein is part of both the Imperfect and Perfect sets. Otherwise, if there is no 'x' character, the protein is only part of the Imperfect set.
+
 
 
 *Algorithm*
@@ -49,6 +53,7 @@ There are 2 set operations this program performs on the proteins of the 2 select
 **Perfect v. Imperfect**
 
 Protein A from Organism X is orthologous to a set of proteins P of Organism Y. For some protein Q in P, Q may or may not be a protein of the cellular signalling pathway being studied in Organism Y. Suppose Q is not. Do we keep that A is orthologous to Q? The Imperfect set keeps the orthology between A and Q and the Perfect set does not.
+
 
 
 *Adding an Organism*
