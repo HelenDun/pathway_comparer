@@ -1,4 +1,4 @@
-# pathway_comparer
+# CMP Program
 Authors: Helen Dun, Austin Bassett
 
 V-Nums: V00912482, V00
