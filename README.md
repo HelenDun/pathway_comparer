@@ -71,7 +71,7 @@ Protein A from Organism X is orthologous to a set of proteins P of Organism Y. F
     
 Shujing Li, Ke Shui, Ying Zhang, Yongqiang Lv, Wankun Deng, Shahid Ullah, Luoying Zhang, Yu Xue, CGDB: a database of circadian genes in eukaryotes, Nucleic Acids Research, Volume 45, Issue D1, January 2017, Pages D397–D403, https://doi.org/10.1093/nar/gkw1028
 
-### STRING Database**
+### STRING Database
     
 Szklarczyk D, Gable AL, Nastou KC, Lyon D, Kirsch R, Pyysalo S, Doncheva NT, Legeay M, Fang T, Bork P, Jensen LJ, von Mering C. The STRING database in 2021: customizable protein-protein networks, and functional characterization of user-uploaded gene/measurement sets. Nucleic Acids Res. 2021 Jan 8;49(D1):D605-D612. doi: 10.1093/nar/gkaa1074. Erratum in: Nucleic Acids Res. 2021 Oct 11;49(18):10800. PMID: 33237311; PMCID: PMC7779004.
 
